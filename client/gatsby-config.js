@@ -9,15 +9,11 @@ const departmentLocale = "english";
 module.exports = {
   siteMetadata: {
     title: `Holm School`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://holmschool.github.io`
   },
-  pathPrefix: "/holm-school",
-  plugins: ["gatsby-plugin-emotion", {
-    resolve: 'gatsby-plugin-google-analytics',
-    options: {
-      "trackingId": "UA-123217718-1"
-    }
-  }, "gatsby-plugin-image", "gatsby-plugin-sitemap", {
+  
+  plugins: ["gatsby-plugin-emotion",  
+    "gatsby-plugin-image", "gatsby-plugin-sitemap", {
     resolve: 'gatsby-plugin-manifest',
     options: {
       "icon": "src/images/icon.png"
