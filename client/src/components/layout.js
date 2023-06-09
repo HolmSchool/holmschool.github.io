@@ -151,14 +151,7 @@ const header = ({ children }) => (
               >
                 Home
             </Link>
-                  <Link
-                      to={`/z-degrees/`}
-                      activeStyle={{ textDecoration: "underline" }}
-                      css={[css`
-                    `, navItem]}
-                    >
-                      Z-Degrees
-                  </Link>
+                  
                   <Link
                       to={`/learn/`}
                       activeStyle={{ textDecoration: "underline" }}
@@ -167,8 +160,15 @@ const header = ({ children }) => (
                     >
                       Curricula
                   </Link>
-             
-                {/* <Link
+                  <Link
+                      to={`/z-degrees/`}
+                      activeStyle={{ textDecoration: "underline" }}
+                      css={[css`
+                    `, navItem]}
+                    >
+                      Z-Degrees
+                  </Link>
+                <Link
                   to={`/guide/`}
 
                   css={[css`
@@ -177,7 +177,7 @@ const header = ({ children }) => (
                   activeStyle={{ textDecoration: "underline" }}
                 >
                   Guide
-              </Link> */}
+              </Link>
                 {/* <Link
                   to={`/the-open-source-fiduciary/`}
                   activeStyle={{ textDecoration: "underline" }}
@@ -220,7 +220,7 @@ const header = ({ children }) => (
                   FAQ
               </Link> */}
                 <a
-                  href={`https://github.com/HolmSchool/holm-school`}
+                  href={`https://holmschool.github.io`}
                   css={[css`
               
                `, navItem]}

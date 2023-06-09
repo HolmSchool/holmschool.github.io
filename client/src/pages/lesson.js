@@ -72,7 +72,7 @@ const lessonPage = ({ data, pageContext }) => {
       ></LaunchResource>
         
     
-    {/* <h5>All these curricula are open source, so please visit our Github page at <a href={`https://github.com/HolmSchool/holm-school`}>github.com/HolmSchool/holm-school</a> to contribute to the markdown for each subject! The location of the syllabi directory is <a href={`https://github.com/HolmSchool/holm-school/tree/master/src/client/pages/syllabi`}>/src/pages/syllabi/</a>, where you can find the markdown files to edit in your fork. If you need a guide to using Github, I recommend shiffman's <a href={`https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV`}>Git and Github for Poets</a>.</h5> */}
+    {/* <h5>All these curricula are open source, so please visit our Github page at <a href={`https://holmschool.github.io`}>github.com/HolmSchool/holm-school</a> to contribute to the markdown for each subject! The location of the syllabi directory is <a href={`https://holmschool.github.io/tree/master/src/client/pages/syllabi`}>/src/pages/syllabi/</a>, where you can find the markdown files to edit in your fork. If you need a guide to using Github, I recommend shiffman's <a href={`https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV`}>Git and Github for Poets</a>.</h5> */}
       <hr/>
       <div id="gh-comments">
         <h6>COMMENTS</h6>

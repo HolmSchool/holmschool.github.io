@@ -3,7 +3,7 @@ title: "Computer Science Curriculum"
 subject: "Computer Science"
 ---
 
-![Holm School](https://github.com/HolmSchool/holm-school/raw/main/client/src/img/small_banner.png)
+![Holm School](https://holmschool.github.io/raw/main/client/src/img/small_banner.png)
 
 <h1 align="center">A Free Computer Science Curriculum using OER (free textbooks) and OCW (free lectures)</h1>
 
@@ -72,7 +72,7 @@ A computer science professor teaches a 4-course load each semester for $100,000 
 
 Since many computer scientists contribute to open source, there are many computer scientists who also use open source licenses on the textbooks they write. Because open source is so prominent in computer science, it is foolish to pay money at this point to learn how to program when there is such a ubiquity of free self-guided tutorials. People are literally pouring out free computer science educational resources at an staggering rate because they love to volunteer their time towards CS education. To ignore these resources would come at a great opportunity cost to you, because student loans at a young age actually cost 64 times the sticker price in lost retirement savings/net worth. Holm School teaches CS students in Topeka, KS to be frugal in regards to their education and exploit all the free resources Topeka has to offer before spending any money on learning to program. The rewards are immense: Maxing out your 401k and IRA on index funds can be a means of attaining financial independence in just your thirties.
 
-![Magic Multiple](https://github.com/HolmSchool/holm-school/raw/main/client/src/img/magic-multiple.png)
+![Magic Multiple](https://holmschool.github.io/raw/main/client/src/img/magic-multiple.png)
 
 The graph above shows how many times the principal (i.e. paying tuition) is at a certain age when retiring at 65 versus investing that money in index funds. As you can see, your college actually costs you more than 100x the sticker cost when you're not allowed to invest the money you earn at your first job at 22 because you're paying your student loans, instead of investing your salary in index funds. A $60,000 student loan would mean losing out on $6,000,000 from your retirement versus if you had invested that $60,000 at age 22. Obviously, keeping your college costs as low as possible so you don't have student debt is worth more than any diploma, professional development, graduate degree, or advanced certification. The formula is f(age) = 2^((65-age)/(72/11.3)) (using the Rule of 72).
 

@@ -28,11 +28,11 @@ const scholarshipPage = ({ data }) => (
 
       <p>Holm School is funding a two-year subscription to Perlego for a black woman/non-binary Topekan who wants to 'holmschool' computer science. Having a Perlego subscription for two years would allow them (hopefully) to self-study computer science to such a degree through their repository of programming books on Perlego that they could learn enough to become a junior developer position somewhere. This would enable them to qualify for tuition-reimbursement, wherein they could earn a undergraduate degree at UoPeople and master's at OMSCS at no cost to them! We hope this scholarship will be a springboard for someone's holmschooled career!</p>
 
-      <p>For details, including the essay prompt and due date (November 11th), please visit the Github repository: <a href={`https://github.com/HolmSchool/holm-school-educational-scholarship/blob/main/README.md`}>HolmSchool/holm-school-educational-scholarship</a></p>
+      <p>For details, including the essay prompt and due date (November 11th), please visit the Github repository: <a href={`https://holmschool.github.io-educational-scholarship/blob/main/README.md`}>HolmSchool/holm-school-educational-scholarship</a></p>
 
       <h2>Rules</h2>
       
-      <p>This scholarship is only open to <b>Black Women/Non-Binary High School graduates in Topeka, KS!</b> Please read the <a href={`https://github.com/HolmSchool/holm-school-educational-scholarship`}>Github repo</a> for more details.</p> */}
+      <p>This scholarship is only open to <b>Black Women/Non-Binary High School graduates in Topeka, KS!</b> Please read the <a href={`https://holmschool.github.io-educational-scholarship`}>Github repo</a> for more details.</p> */}
 
     </div>
     <div className="bigimages">

@@ -27,7 +27,7 @@ const syllabiPage = ({ data, pageContext }) => {
         <h1>{syllabus.frontmatter.title}</h1>
         <div dangerouslySetInnerHTML={{ __html: syllabus.html }} />
         <hr/>
-        <h4>This Z-Degree is an open source educational resources and public domain. You can use it and remix is however you wish! You can also contribute your own discoveries to it by <a href={`https://github.com/HolmSchool/holm-school/tree/master/src/client/pages/syllabi/${syllabus.fields.slug.replace(/\//g, "")}.md`}>making a Pull Request on Github</a>. Contributions are appreciated, including just making an Issue on Github with the book you want added. If you need a guide to Github, <a href={`https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV`}>check this out</a>.</h4>
+        <h4>This Z-Degree is an open source educational resources and public domain. You can use it and remix is however you wish! You can also contribute your own discoveries to it by <a href={`https://holmschool.github.io/tree/master/src/client/pages/syllabi/${syllabus.fields.slug.replace(/\//g, "")}.md`}>making a Pull Request on Github</a>. Contributions are appreciated, including just making an Issue on Github with the book you want added. If you need a guide to Github, <a href={`https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV`}>check this out</a>.</h4>
       </div>
       
     </Layout>
