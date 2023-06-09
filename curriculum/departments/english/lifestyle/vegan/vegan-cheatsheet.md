@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/vegancheatsheety0000cram
 # forumTopicId: 301086
 dashedName: vegan-cheatsheet
 ghissue: 413
-creator: Amy Cramer
+womenAuthor: Amy Cramer
 ---
 
 # --description--

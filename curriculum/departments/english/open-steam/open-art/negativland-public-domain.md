@@ -6,7 +6,7 @@ videoUrl: https://web.law.duke.edu/pd/papers/hoslerjoy.pdf
 # forumTopicId: 301086
 dashedName: negativland-public-domain
 ghissue: 451
-creator: Negativland
+menAuthor: Negativland
 ---
 
 # --description--

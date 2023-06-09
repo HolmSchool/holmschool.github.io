@@ -6,7 +6,8 @@ videoUrl: https://juliadatascience.io/
 # forumTopicId: 301086
 dashedName: data-science-julia-4
 ghissue: 263
-creator:  NA
+womenAuthor:  
+menAuthor: Jose Storopoli, Rik Huijzer, Lazaro Alons
 ---
 
 # --description--

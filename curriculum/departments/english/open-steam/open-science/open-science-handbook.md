@@ -6,7 +6,7 @@ videoUrl: https://www.fosteropenscience.eu/content/open-science-training-handboo
 # forumTopicId: 301086
 dashedName: open-science-handbook
 ghissue: 469
-creator: 
+womenAuthor: 
 ---
 
 # --description--

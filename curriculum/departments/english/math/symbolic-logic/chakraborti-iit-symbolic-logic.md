@@ -6,7 +6,7 @@ videoUrl: http://www.infocobuild.com/education/audio-video-courses/philosophy/sy
 # forumTopicId: 301086
 dashedName: chakraborti-symbolic-logic
 ghissue: 130
-creator: Chhanda Chakraborti 
+womenAuthor: Chhanda Chakraborti 
 ---
 
 # --description--

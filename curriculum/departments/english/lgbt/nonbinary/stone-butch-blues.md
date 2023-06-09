@@ -6,7 +6,7 @@ videoUrl: https://lesliefeinberg.net/wp-content/uploads/2015/08/Stone-Butch-Blue
 # forumTopicId: 301086
 dashedName: stone-butch-blues
 ghissue: 446
-creator: Leslie Feinberg
+womenAuthor: Leslie Feinberg
 triggerWarning: true
 ---
 

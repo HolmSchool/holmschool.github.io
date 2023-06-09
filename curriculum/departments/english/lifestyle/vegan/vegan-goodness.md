@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/becomingvegancom00davi
 # forumTopicId: 301086
 dashedName: vegan-goodness
 ghissue: 415
-creator: Jessica Prescott
+womenAuthor: Jessica Prescott
 ---
 
 # --description--

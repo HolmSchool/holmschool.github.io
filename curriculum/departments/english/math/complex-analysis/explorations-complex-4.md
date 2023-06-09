@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/explorationsinco0000unse_n9u2
 # forumTopicId: 301086
 dashedName: explorations-complex-4
 ghissue: 176
-creator: Jane McDougall, Lisbeth Schaubroeck 
+womenAuthor: Jane McDougall, Lisbeth Schaubroeck 
 ---
 
 # --description--

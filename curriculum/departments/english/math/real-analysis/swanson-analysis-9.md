@@ -6,7 +6,7 @@ videoUrl: https://people.reed.edu/~davidp/112/resources/analysis.pdf
 # forumTopicId: 301086
 dashedName: swanson-analysis-9
 ghissue: 172
-creator: Irena Swanson
+womenAuthor: Irena Swanson
 ---
 
 # --description--

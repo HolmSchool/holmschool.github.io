@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=7gigNsz4Oe8
 # forumTopicId: 301086
 dashedName: calculus-ii-green
 ghissue: 105
-creator: Linda Green 
+womenAuthor: Linda Green 
 ---
 
 # --description--

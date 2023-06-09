@@ -6,7 +6,8 @@ videoUrl: https://open.umn.edu/opentextbooks/textbooks/introduction-to-human-sex
 # forumTopicId: 301086
 dashedName: intro-to-human-sexuality
 ghissue: 497
-creator: 
+womenAuthor: Erika Goerling
+menAuthor: Emerson Wolfe
 ---
 
 # --description--

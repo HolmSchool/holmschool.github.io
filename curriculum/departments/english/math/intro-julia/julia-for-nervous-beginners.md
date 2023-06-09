@@ -6,7 +6,8 @@ videoUrl: https://juliaacademy.com/p/julia-programming-for-nervous-beginners
 # forumTopicId: 301086
 dashedName: julia-for-nervous-beginners
 ghissue: 343
-creator:  
+womenAuthor:  
+menAuthor: Henri Laurie
 ---
 
 # --description--

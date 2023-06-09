@@ -6,7 +6,7 @@ videoUrl: https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
 # forumTopicId: 301086
 dashedName: mit-linear-algebra-2
 ghissue: 101
-creator: Gilbert Strang et al.
+menAuthor: Gilbert Strang et al.
 ---
 
 # --description--

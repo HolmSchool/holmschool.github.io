@@ -6,7 +6,7 @@ videoUrl: https://juliaacademy.com/p/intro-to-julia
 # forumTopicId: 301086
 dashedName: intro-julia-herriman
 ghissue: 344
-creator: Jane Herriman
+womenAuthor: Jane Herriman
 ---
 
 # --description--

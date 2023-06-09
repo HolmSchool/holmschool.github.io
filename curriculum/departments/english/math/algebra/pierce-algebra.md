@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=4Bvdxk9zS9g&list=PLpc_FMvFv8VQ5IDxyn6V
 # forumTopicId: 301086
 dashedName: pierce-algebra
 ghissue: 126
-creator: Heather Pierce 
+womenAuthor: Heather Pierce 
 ---
 
 # --description--

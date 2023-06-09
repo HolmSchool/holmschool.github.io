@@ -6,7 +6,7 @@ videoUrl: http://archive.flossmanuals.net/pure-data/list-of-objects/introduction
 # forumTopicId: 301086
 dashedName: floss-manual-pure-data
 ghissue: 458
-creator: 
+womenAuthor: 
 ---
 
 # --description--

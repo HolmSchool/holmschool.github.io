@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/bianyothernamebi0000unse
 # forumTopicId: 301086
 dashedName: bi-any-other-name
 ghissue: 507
-creator: 
+womenAuthor: Lani Ka'ahumanu, Loraine Hutchins
 ---
 
 # --description--

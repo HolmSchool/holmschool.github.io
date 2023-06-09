@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/funhomefamilytra00bech_0
 # forumTopicId: 301086
 dashedName: alison-bechdel-fun-home
 ghissue: 504
-creator: 
+womenAuthor: Alison Bechdel
 ---
 
 # --description--

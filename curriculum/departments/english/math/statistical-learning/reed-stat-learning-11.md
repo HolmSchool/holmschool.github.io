@@ -6,7 +6,7 @@ videoUrl: https://reed-stat-learning-fall-2020.github.io/schedule.html
 # forumTopicId: 301086
 dashedName: reed-stat-learning-11
 ghissue: 308
-creator: 
+menAuthor: Jonathan Wells
 ---
 
 # --description--

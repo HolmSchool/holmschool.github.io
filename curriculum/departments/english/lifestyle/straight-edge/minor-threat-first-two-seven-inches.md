@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=m3mUUupDtVA&list=OLAK5uy_nR5qqYxWEFViI
 # forumTopicId: 301086
 dashedName: minor-threat-first-two-seven-inches
 ghissue: 479
-creator: Minor Threat
+menAuthor: Minor Threat
 ---
 
 # --description--

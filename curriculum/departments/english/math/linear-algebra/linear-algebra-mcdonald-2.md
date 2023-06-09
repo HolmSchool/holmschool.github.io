@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/linearalgebrafifthedition
 # forumTopicId: 301086
 dashedName: linear-algebra-mcdonald-2
 ghissue: 251
-creator:  Judi McDonald
+womenAuthor:  Judi McDonald
 ---
 
 # --description--

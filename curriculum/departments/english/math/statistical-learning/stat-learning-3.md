@@ -6,7 +6,7 @@ videoUrl: https://www.statlearning.com/
 # forumTopicId: 301086
 dashedName: stat-learning-3
 ghissue: 290
-creator:  Daniela Witten
+womenAuthor:  Daniela Witten
 ---
 
 # --description--

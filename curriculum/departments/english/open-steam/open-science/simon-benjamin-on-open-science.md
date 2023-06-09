@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/podcast_openness-at-oxford_simon-benjamin-
 # forumTopicId: 301086
 dashedName: simon-benjamin-on-open-science
 ghissue: 472
-creator: Simon Benjamin
+womenAuthor: Simon Benjamin
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=PkFoPycR2hw&list=PLl-gb0E4MII0LFlhVGu_
 # forumTopicId: 301086
 dashedName: brehm-excel
 ghissue: 114
-creator: Kimberly Brehm 
+womenAuthor: Kimberly Brehm 
 ---
 
 # --description--

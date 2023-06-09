@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/playlist?list=PLuxj2jXSuTvvqYcDLJ-poN-JxvqX0wq
 # forumTopicId: 301086
 dashedName: pure-data-gcginteractivemusic
 ghissue: 463
-creator: 
+menAuthor: QCGInterativeMusic
 ---
 
 # --description--

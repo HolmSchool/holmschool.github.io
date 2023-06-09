@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/becomingvegancom00davi
 # forumTopicId: 301086
 dashedName: becoming-vegan
 ghissue: 414
-creator: Brenda Davis
+womenAuthor: Brenda Davis
 ---
 
 # --description--

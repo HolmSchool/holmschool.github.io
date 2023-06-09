@@ -6,7 +6,7 @@ videoUrl: https://archive.org/search.php?query=topology+hocking&sin=
 # forumTopicId: 301086
 dashedName: topology-young-8
 ghissue: 198
-creator: Gail Young 
+womenAuthor: Gail Young 
 ---
 
 # --description--

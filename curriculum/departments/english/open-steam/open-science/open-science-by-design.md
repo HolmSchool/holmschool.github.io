@@ -6,7 +6,7 @@ videoUrl: https://nap.nationalacademies.org/catalog/25116/open-science-by-design
 # forumTopicId: 301086
 dashedName: open-science-by-design
 ghissue: 470
-creator: 
+womenAuthor: 
 ---
 
 # --description--

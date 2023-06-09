@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/veganvitalityyou0000inks
 # forumTopicId: 301086
 dashedName: vegan-vitality
 ghissue: 405
-creator: Karina Inkster
+womenAuthor: Karina Inkster
 ---
 
 # --description--

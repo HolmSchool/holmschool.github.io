@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=8NIsIW5nf4Y&list=PLl-gb0E4MII1ml6mys-R
 # forumTopicId: 301086
 dashedName: brehm-calc-i
 ghissue: 113
-creator: Kimberly Brehm 
+womenAuthor: Kimberly Brehm 
 ---
 
 # --description--

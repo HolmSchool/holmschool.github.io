@@ -6,7 +6,7 @@ videoUrl: https://www.openintro.org/book/ims/
 # forumTopicId: 301086
 dashedName: intro-modern-stats-4
 ghissue: 190
-creator: Johanna Hardin
+womenAuthor: Johanna Hardin
 ---
 
 # --description--

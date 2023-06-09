@@ -6,7 +6,7 @@ videoUrl: http://people.reed.edu/~davidp/332/
 # forumTopicId: 301086
 dashedName: reed-abstract-algebra-10
 ghissue: 337
-creator: 
+menAuthor: David Perkinson
 ---
 
 # --description--

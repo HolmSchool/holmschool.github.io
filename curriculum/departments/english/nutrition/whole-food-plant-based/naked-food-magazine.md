@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/nakedfoodmagazin0000rest
 # forumTopicId: 301086
 dashedName: naked-food-magazine
 ghissue: 404
-creator: Margarita Restrepo
+womenAuthor: Margarita Restrepo
 ---
 
 # --description--

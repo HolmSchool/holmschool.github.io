@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/collection0000unse_v8m0
 # forumTopicId: 301086
 dashedName: the-collection
 ghissue: 450
-creator: Various
+womenAuthor:
 ---
 
 # --description--

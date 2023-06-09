@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=LHsPJ2bQX1U&list=PLl-gb0E4MII03hiCrZa7
 # forumTopicId: 301086
 dashedName: brehm-linear-algebra
 ghissue: 111
-creator: Kimberly Brehm 
+womenAuthor: Kimberly Brehm 
 ---
 
 # --description--

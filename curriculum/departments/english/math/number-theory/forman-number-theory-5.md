@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/wholetruthaboutw0000form
 # forumTopicId: 301086
 dashedName: forman-number-theory-5
 ghissue: 214
-creator:  Sylvia Forman, Agnes Rash
+womenAuthor:  Sylvia Forman, Agnes Rash
 ---
 
 # --description--

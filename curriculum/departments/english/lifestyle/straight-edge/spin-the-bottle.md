@@ -6,7 +6,7 @@ videoUrl: https://shop.mediaed.org/spin-the-bottle-p144.aspx
 # forumTopicId: 301086
 dashedName: spin-the-bottle
 ghissue: 486
-creator: Jean Kilbourne
+womenAuthor: Jean Kilbourne
 ---
 
 # --description--

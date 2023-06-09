@@ -6,7 +6,7 @@ videoUrl: https://open.umn.edu/opentextbooks/textbooks/introduction-to-mathemati
 # forumTopicId: 301086
 dashedName: analysis-lafferrier-3
 ghissue: 162
-creator: Beatriz Lafferriere 
+womenAuthor: Beatriz Lafferriere 
 ---
 
 # --description--

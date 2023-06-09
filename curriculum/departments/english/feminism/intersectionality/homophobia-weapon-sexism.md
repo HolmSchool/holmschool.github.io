@@ -6,7 +6,7 @@ videoUrl: https://www.doc-developpement-durable.org/file/programmes-de-sensibili
 # forumTopicId: 301086
 dashedName: homophobia-weapon-sexism
 ghissue: 448
-creator: Suzanne Pharr
+womenAuthor: Suzanne Pharr
 ---
 
 # --description--

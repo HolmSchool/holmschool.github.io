@@ -6,7 +6,8 @@ videoUrl: https://open.umn.edu/opentextbooks/textbooks/introduction-to-lgbtq-stu
 # forumTopicId: 301086
 dashedName: intro-to-lgbt-studies
 ghissue: 496
-creator: 
+womenAuthor: Deborah Amory, Jennifer Miller
+menAuthor: Sean Massey
 ---
 
 # --description--

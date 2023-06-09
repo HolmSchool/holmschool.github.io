@@ -6,7 +6,7 @@ videoUrl: https://archive.org/search.php?query=judith+gersting+discrete&sin=
 # forumTopicId: 301086
 dashedName: discrete-gersting-2
 ghissue: 241
-creator:  Judith Gersting
+womenAuthor:  Judith Gersting
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: https://open.umn.edu/opentextbooks/textbooks/trigonometry-2018
 # forumTopicId: 301086
 dashedName: trigonometry-yoshiwara-8
 ghissue: 56
-creator: Katherine Yoshiwara 
+womenAuthor: Katherine Yoshiwara 
 ---
 
 # --description--

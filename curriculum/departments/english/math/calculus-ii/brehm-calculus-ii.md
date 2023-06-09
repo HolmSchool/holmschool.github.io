@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=564pn3CaoyQ&list=PLl-gb0E4MII1OxI-BbNk
 # forumTopicId: 301086
 dashedName: brehm-calculus-ii
 ghissue: 112
-creator: Kimberly Brehm 
+womenAuthor: Kimberly Brehm 
 ---
 
 # --description--

@@ -6,7 +6,8 @@ videoUrl: https://people.reed.edu/~davidp/322/
 # forumTopicId: 301086
 dashedName: reed-diffyq-3
 ghissue: 314
-creator: 
+womenAuthor: 
+menAuthor: David Perkinson
 ---
 
 # --description--

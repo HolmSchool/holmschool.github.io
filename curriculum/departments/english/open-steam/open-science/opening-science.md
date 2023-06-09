@@ -6,7 +6,8 @@ videoUrl: https://www.openingscience.org/get-the-book/
 # forumTopicId: 301086
 dashedName: opening-science
 ghissue: 471
-creator: 
+womenAuthor: 
+menAuthor: Sönke Bartling, Sascha Friesike
 ---
 
 # --description--

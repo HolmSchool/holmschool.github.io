@@ -6,7 +6,7 @@ videoUrl: https://archive.org/search.php?query=susanna%20epp%20discrete%20mathem
 # forumTopicId: 301086
 dashedName: discrete-epp-7
 ghissue: 234
-creator:  Susanna Epp
+womenAuthor:  Susanna Epp
 ---
 
 # --description--

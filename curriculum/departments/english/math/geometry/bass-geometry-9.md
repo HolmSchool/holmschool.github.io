@@ -6,7 +6,7 @@ videoUrl: https://archive.org/search.php?query=creator%3A%22Bass%2C+Laurie+E%22
 # forumTopicId: 301086
 dashedName: bass-geometry-9
 ghissue: 96
-creator: Laurie Bass 
+womenAuthor: Laurie Bass 
 ---
 
 # --description--

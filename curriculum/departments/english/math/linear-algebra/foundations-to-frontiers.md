@@ -6,7 +6,7 @@ videoUrl: https://www.edx.org/course/linear-algebra-foundations-to-frontiers
 # forumTopicId: 301086
 dashedName: foundations-to-frontiers
 ghissue: 2
-creator: Maggie Myers 
+womenAuthor: Maggie Myers 
 ---
 
 # --description--

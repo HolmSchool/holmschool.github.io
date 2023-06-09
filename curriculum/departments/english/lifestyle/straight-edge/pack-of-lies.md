@@ -6,7 +6,7 @@ videoUrl: https://shop.mediaed.org/pack-of-lies-p122.aspx
 # forumTopicId: 301086
 dashedName: pack-of-lies
 ghissue: 485
-creator: Jean Kilbourne
+womenAuthor: Jean Kilbourne
 ---
 
 # --description--

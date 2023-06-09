@@ -6,7 +6,7 @@ videoUrl: https://magpi.raspberrypi.com/books/essentials-sonic-pi-v1/pdf/downloa
 # forumTopicId: 301086
 dashedName: sonic-pi-essentials
 ghissue: 466
-creator: Sonic Pi Essentials
+
 ---
 
 # --description--

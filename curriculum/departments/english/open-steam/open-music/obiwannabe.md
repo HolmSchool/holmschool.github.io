@@ -6,7 +6,7 @@ videoUrl: https://www.moz.ac.at/sem/lehre/lib/pd-sounddesign/index.html
 # forumTopicId: 301086
 dashedName: obiwannabe
 ghissue: 461
-creator: Obiwannabe
+menAuthor: Obiwannabe
 ---
 
 # --description--

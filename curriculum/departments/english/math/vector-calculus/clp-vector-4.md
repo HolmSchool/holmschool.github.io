@@ -6,7 +6,7 @@ videoUrl: https://personal.math.ubc.ca/~CLP/
 # forumTopicId: 301086
 dashedName: clp-vector-4
 ghissue: 182
-creator: Elyse Yeager
+womenAuthor: Elyse Yeager
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: https://library.oapen.org/handle/20.500.12657/51498
 # forumTopicId: 301086
 dashedName: open-science-the-very-idea
 ghissue: 467
-creator: Frank Miedema
+menAuthor: Frank Miedema
 ---
 
 # --description--

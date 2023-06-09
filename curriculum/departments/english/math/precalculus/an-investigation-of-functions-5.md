@@ -6,7 +6,7 @@ videoUrl: https://math.libretexts.org/Bookshelves/Precalculus/Book%3A_Precalculu
 # forumTopicId: 301086
 dashedName: an-investigation-of-functions-5
 ghissue: 6
-creator: Melonie Rasmussen 
+womenAuthor: Melonie Rasmussen 
 ---
 
 # --description--

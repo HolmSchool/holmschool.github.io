@@ -6,7 +6,7 @@ videoUrl: https://juliaacademy.com/p/julia-for-data-science
 # forumTopicId: 301086
 dashedName: data-science-julia-academy
 ghissue: 341
-creator:  Huda Nassar
+womenAuthor:  Huda Nassar
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=Jcm5UBfbI08&list=PLpc_FMvFv8VQc8X1IpAy
 # forumTopicId: 301086
 dashedName: pierce-calc-iii
 ghissue: 127
-creator: Heather Pierce
+womenAuthor: Heather Pierce
 ---
 
 # --description--

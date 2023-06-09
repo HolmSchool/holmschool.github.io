@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=xlUFkMKSB3Y&list=PL0862D1A947252D20
 # forumTopicId: 301086
 dashedName: iit-discrete
 ghissue: 106
-creator: Dr. Krithivasan 
+womenAuthor: Dr. Krithivasan 
 ---
 
 # --description--

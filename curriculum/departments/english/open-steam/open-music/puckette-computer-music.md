@@ -6,7 +6,7 @@ videoUrl: https://podcast.ucsd.edu/watch/wi17/mus171_wi17/1
 # forumTopicId: 301086
 dashedName: puckette-computer-music
 ghissue: 460
-creator: 
+menAuthor: Miller Puckette
 ---
 
 # --description--

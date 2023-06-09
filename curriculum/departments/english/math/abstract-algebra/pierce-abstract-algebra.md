@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=FnFqHnnJNx0&list=PLpc_FMvFv8VQOgVD3jI7
 # forumTopicId: 301086
 dashedName: pierce-abstract-algebra
 ghissue: 122
-creator: Heather Pierce 
+womenAuthor: Heather Pierce 
 ---
 
 # --description--

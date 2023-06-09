@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/introductiontosc0000lucq
 # forumTopicId: 301086
 dashedName: intro-scientific-computing-4
 ghissue: 362
-creator:  Brigitte Lucquin
+womenAuthor:  Brigitte Lucquin
 ---
 
 # --description--

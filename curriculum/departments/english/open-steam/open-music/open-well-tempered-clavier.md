@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/bach-well-tempered-clavier-book-1
 # forumTopicId: 301086
 dashedName: open-well-tempered-clavier
 ghissue: 457
-creator: Kimiko Ishizaka
+womenAuthor: Kimiko Ishizaka
 ---
 
 # --description--

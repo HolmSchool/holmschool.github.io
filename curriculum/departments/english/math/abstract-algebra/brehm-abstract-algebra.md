@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=jz1TdJi3cR0&list=PLl-gb0E4MII1YlnI7OBs
 # forumTopicId: 301086
 dashedName: brehm-abstract-algebra
 ghissue: 109
-creator: Kimberly Brehm 
+womenAuthor: Kimberly Brehm 
 ---
 
 # --description--

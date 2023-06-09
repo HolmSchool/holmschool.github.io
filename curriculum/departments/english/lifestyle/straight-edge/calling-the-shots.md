@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/callingtheshotstheadvertisingofalcohol
 # forumTopicId: 301086
 dashedName: calling-the-shots
 ghissue: 484
-creator: Jean Kilbourne
+womenAuthor: Jean Kilbourne
 ---
 
 # --description--

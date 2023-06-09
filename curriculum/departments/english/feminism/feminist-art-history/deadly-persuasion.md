@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/guerrillagirlsbe00guer
 # forumTopicId: 301086
 dashedName: deadly-persuasion
 ghissue: 491
-creator: Jean Kilbourne
+womenAuthor: Jean Kilbourne
 ---
 
 # --description--

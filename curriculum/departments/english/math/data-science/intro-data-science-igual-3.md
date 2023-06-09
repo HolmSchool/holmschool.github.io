@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/introduction-to-data-science-a-python-appr
 # forumTopicId: 301086
 dashedName: intro-data-science-igual-3
 ghissue: 279
-creator:  Laura Igual
+womenAuthor:  Laura Igual
 ---
 
 # --description--

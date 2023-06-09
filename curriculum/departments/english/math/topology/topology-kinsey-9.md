@@ -6,7 +6,7 @@ videoUrl: https://archive.org/search.php?query=Topology%20of%20surfaces%20kinsey
 # forumTopicId: 301086
 dashedName: topology-kinsey-9
 ghissue: 207
-creator:  L. Christine Kinsey 
+womenAuthor:  L. Christine Kinsey 
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: https://sonic-pi.net/tutorial.html
 # forumTopicId: 301086
 dashedName: sonic-pi
 ghissue: 454
-creator: Sonic Pi
+
 ---
 
 # --description--

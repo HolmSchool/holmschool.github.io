@@ -6,7 +6,7 @@ videoUrl: https://open.umn.edu/opentextbooks/textbooks/intermediate-algebra-2020
 # forumTopicId: 301086
 dashedName: intermediate-algebra-9
 ghissue: 85
-creator: Katherine Yoshiwara 
+womenAuthor: Katherine Yoshiwara 
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: https://www.cambridge.org/core/books/open-access-and-the-humanities
 # forumTopicId: 301086
 dashedName: open-access-and-the-humanities
 ghissue: 473
-creator: Martin Paul Eve
+womenAuthor: Martin Paul Eve
 ---
 
 # --description--

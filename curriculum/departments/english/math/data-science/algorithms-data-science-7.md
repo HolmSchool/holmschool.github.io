@@ -6,7 +6,7 @@ videoUrl: https://www.statlearning.com/
 # forumTopicId: 301086
 dashedName: algorithms-data-science-7
 ghissue: 271
-creator:  Swarna Reddy
+womenAuthor:  Swarna Reddy
 ---
 
 # --description--

@@ -6,7 +6,8 @@ videoUrl: https://open.umn.edu/opentextbooks/textbooks/the-american-lgbtq-rights
 # forumTopicId: 301086
 dashedName: american-lgbt-rights-movement
 ghissue: 498
-creator: 
+womenAuthor: Meg Rodriguez
+menAuthor: Kyle Morgan
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: https://web.corral.tacc.utexas.edu/CompEdu/pdf/stc/EijkhoutIntroToHPC.
 # forumTopicId: 301086
 dashedName: intro-HPC-2
 ghissue: 348
-creator: 
+womenAuthor: 
 ---
 
 # --description--

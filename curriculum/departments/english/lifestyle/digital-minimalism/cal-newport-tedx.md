@@ -6,7 +6,8 @@ videoUrl: https://youtube.com/watch?v=3E7hkPZ-HTk
 # forumTopicId: 301086
 dashedName: cal-newport-tedx
 ghissue: 499
-creator: 
+womenAuthor: 
+menAuthor: Cal Newport
 ---
 
 # --description--

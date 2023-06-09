@@ -6,7 +6,7 @@ videoUrl: https://www.coursera.org/learn/complex-analysis
 # forumTopicId: 301086
 dashedName: complex-coursera
 ghissue: 177
-creator: Petra Bonfert-Taylor
+womenAuthor: Petra Bonfert-Taylor
 ---
 
 # --description--

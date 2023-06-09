@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=URRbyuTFjtw&list=PLpc_FMvFv8VRNXQsohSU
 # forumTopicId: 301086
 dashedName: diffyq-pierce
 ghissue: 116
-creator: Heather Pierce
+womenAuthor: Heather Pierce
 ---
 
 # --description--

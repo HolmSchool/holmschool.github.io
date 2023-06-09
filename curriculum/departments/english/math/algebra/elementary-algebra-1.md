@@ -6,7 +6,7 @@ videoUrl: https://open.umn.edu/opentextbooks/textbooks/elementary-algebra-2019
 # forumTopicId: 301086
 dashedName: elementary-algebra-1
 ghissue: 68
-creator: Katherine Yoshiwara 
+womenAuthor: Katherine Yoshiwara 
 ---
 
 # --description--

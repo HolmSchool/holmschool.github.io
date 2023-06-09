@@ -6,7 +6,8 @@ videoUrl: https://archive.org/details/deepworkrulesfor0000newp
 # forumTopicId: 301086
 dashedName: cal-newport-deep-work
 ghissue: 501
-creator: 
+womenAuthor: 
+menAuthor: Cal Newport
 ---
 
 # --description--

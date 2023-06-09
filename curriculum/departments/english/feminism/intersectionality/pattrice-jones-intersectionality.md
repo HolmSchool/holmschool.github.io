@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=DOQYBDF51og
 # forumTopicId: 301086
 dashedName: pattrice-jones-intersectionality
 ghissue: 492
-creator: pattrice jones
+womenAuthor: pattrice jones
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=m1RCmN-oeOo&list=PLpc_FMvFv8VRyMqiNqSd
 # forumTopicId: 301086
 dashedName: pierce-intro-statistics
 ghissue: 120
-creator: Heather Pierce 
+womenAuthor: Heather Pierce 
 ---
 
 # --description--

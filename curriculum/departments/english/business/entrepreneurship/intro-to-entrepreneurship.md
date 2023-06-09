@@ -6,7 +6,7 @@ videoUrl: https://open.umn.edu/opentextbooks/textbooks/introduction-to-entrepren
 # forumTopicId: 301086
 dashedName: intro-to-entrepreneurship
 ghissue: 87
-creator: Katherine Carpenter 
+womenAuthor: Katherine Carpenter 
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=shA9pppkwSs&list=PLl-gb0E4MII1dkfGxmdt
 # forumTopicId: 301086
 dashedName: brehm-stats-1
 ghissue: 108
-creator: Kimberly Brehm 
+womenAuthor: Kimberly Brehm 
 ---
 
 # --description--

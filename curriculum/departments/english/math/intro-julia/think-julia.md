@@ -6,7 +6,8 @@ videoUrl: https://benlauwens.github.io/ThinkJulia.jl/latest/book.html
 # forumTopicId: 301086
 dashedName: think-julia
 ghissue: 342
-creator:  
+womenAuthor:  
+menAuthor: Ben Lauwens
 ---
 
 # --description--

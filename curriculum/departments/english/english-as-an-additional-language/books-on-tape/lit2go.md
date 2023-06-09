@@ -6,7 +6,7 @@ videoUrl: https://etc.usf.edu/lit2go/books/
 # forumTopicId: 301086
 dashedName: lit2go
 ghissue: 434
-creator: 
+womenAuthor: 
 ---
 
 # --description--

@@ -6,7 +6,8 @@ videoUrl: https://archive.org/search.php?query=Differential+equations+and+dynami
 # forumTopicId: 301086
 dashedName: perko-diffyq-2
 ghissue: 325
-creator: 
+womenAuthor: 
+menAuthor: Lawrence Perko
 ---
 
 # --description--

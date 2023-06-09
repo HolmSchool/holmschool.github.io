@@ -6,7 +6,7 @@ videoUrl: https://archive.org/search.php?query=sober%20living%20for%20the%20revo
 # forumTopicId: 301086
 dashedName: sober-living-for-the-revolution
 ghissue: 475
-creator: Gabriel Kuhn
+menAuthor: Gabriel Kuhn
 ---
 
 # --description--

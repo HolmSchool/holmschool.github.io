@@ -79,6 +79,9 @@ const indexPage = ({ data }) => {
           <hr/>
           <p><strong>Holm School</strong> is an <a href={`https://github.com/HolmSchool`}>open source repo</a> collating hundreds of free college textbooks and lectures for you to use in your self-educational odyssey. Whether that be <Link to={`/syllabi/computer-science`}>learning how to code</Link>, <Link to={`/syllabi/art-history`}>the basics of art history</Link>, <Link to={`/syllabi/hum110`}>years worth of "Great Books"/Humanities reading lists</Link>, <Link to={`/z-degrees`}>or many other academic subjects we group under the banner of "Z-Degrees"</Link>, you'll most likely find something of value -- and at not cost to you! We do this as a means of promoting "<Link to={`/syllabi/computer-science/#holmschooling`}>unschooling</Link>," or more specifically in our case: "holmschooling."</p>
           <hr/>
+          <span><strong>Percent of women authors</strong> in all of our featured open educational resources composing our curricula: <strong>{
+            calculateWomenAuthorsPercent(data)}%</strong>
+          </span>
           <section className={`large-screen-grid`} css={css`margin-top:24px;`}>
           <p className={`large-screen-grid-item-left`} css={css`margin-bottom: 0px;grid-column: 0 1;grid-rows: 0 1;`}>
           <Link to={`/learn/`}><img className={`blocks-img`} src={blocks_ztc} alt={`Curricula`}></img></Link>
@@ -108,6 +111,8 @@ const indexPage = ({ data }) => {
           </section>
           
           <hr/>
+          
+
           {/* <h3>Most Popular Blog Posts:</h3>
           <p><Link to={`/bootstrap-your-computer-science-career/`}>Bootstrap Your Computer Science Career</Link></p>
           <p><Link to={`/pay-in-cash/`}>What it Means to Pay for College in Cash</Link></p>
@@ -272,6 +277,49 @@ query IndexQuery {
       title
     }
   }
+  allChallengeNode(
+    sort: [{challenge: {superBlock: ASC}}, {challenge: {department: ASC}},
+{challenge: {block: ASC}}, {challenge: {challengeOrder: ASC}}]
+  ) {
+    edges {
+      node {
+        challenge {
+          menAuthor
+          womenAuthor
+        }
+      }
+    }
+  }
+}
+`;
+
+
+let mapGenderField = (data, field) => {
+  return data.allChallengeNode.edges.map(({node}) => {
+    console.log(node.challenge);
+    if (!!node.challenge[field]) {
+      return node.challenge[field].split(",").map(x => x.trim());
+
+    } else {
+      return []
+    }
+  });
 }
 
-`
+let calculateWomenAuthorsPercent = (data) => {
+  let womenNames = mapGenderField(data, 'womenAuthor')
+  let menNames = mapGenderField(data, 'menAuthor')
+  let womenSet = new Set(womenNames.flat(1));
+  let menSet = new Set(menNames.flat(1));
+
+  console.log(womenSet);
+  
+  let menCount = menSet.size;
+  let womenCount = womenSet.size;
+
+  let percent = Math.round((womenCount/(menCount + womenCount)) * 100)
+
+  console.log(percent);
+
+  return percent;
+}

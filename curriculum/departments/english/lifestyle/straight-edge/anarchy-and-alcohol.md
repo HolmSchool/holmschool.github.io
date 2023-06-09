@@ -6,7 +6,8 @@ videoUrl: https://archive.org/details/anarchy_Anarchy_and_Alcohol
 # forumTopicId: 301086
 dashedName: anarchy-and-alcohol
 ghissue: 478
-creator: 
+womenAuthor: 
+menAuthor: 
 ---
 
 # --description--

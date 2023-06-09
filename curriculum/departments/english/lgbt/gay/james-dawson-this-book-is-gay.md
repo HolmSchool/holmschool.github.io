@@ -6,7 +6,8 @@ videoUrl: https://archive.org/details/thisbookisgay0000daws
 # forumTopicId: 301086
 dashedName: james-dawson-this-book-is-gay
 ghissue: 505
-creator: 
+womenAuthor: 
+menAuthor: James Dawson
 ---
 
 # --description--

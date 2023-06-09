@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=A3Ffwsnad0k&list=PLl-gb0E4MII28GykmtuB
 # forumTopicId: 301086
 dashedName: brehm-discrete-1
 ghissue: 106
-creator: Kimberly Brehm 
+womenAuthor: Kimberly Brehm 
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: http://msp.ucsd.edu/techniques.htm
 # forumTopicId: 301086
 dashedName: technique-of-electronic-music
 ghissue: 457
-creator: Miller Puckette
+menAuthor: Miller Puckette
 ---
 
 # --description--

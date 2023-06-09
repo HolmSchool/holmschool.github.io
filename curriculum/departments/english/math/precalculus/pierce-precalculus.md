@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=953UcDqxBNw&list=PLpc_FMvFv8VR8-04CmnN
 # forumTopicId: 301086
 dashedName: pierce-precalculus
 ghissue: 118
-creator: Heather Pierce 
+womenAuthor: Heather Pierce 
 ---
 
 # --description--

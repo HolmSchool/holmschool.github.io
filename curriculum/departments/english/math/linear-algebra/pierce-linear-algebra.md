@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=6nqnUsIVjG0&list=PLpc_FMvFv8VQde1cXjYH
 # forumTopicId: 301086
 dashedName: pierce-linear-algebra
 ghissue: 118
-creator: Heather Pierce 
+womenAuthor: Heather Pierce 
 ---
 
 # --description--

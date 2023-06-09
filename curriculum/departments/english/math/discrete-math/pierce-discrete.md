@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=hXY3Y99PvPg&list=PLpc_FMvFv8VRTj6KELDC
 # forumTopicId: 301086
 dashedName: pierce-discrete
 ghissue: 119
-creator: Heather Pierce 
+womenAuthor: Heather Pierce 
 ---
 
 # --description--

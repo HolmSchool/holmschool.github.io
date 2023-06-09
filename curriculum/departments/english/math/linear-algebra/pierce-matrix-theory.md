@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=XCq3w7Fs2dM&list=PLpc_FMvFv8VQOhCAsd5k
 # forumTopicId: 301086
 dashedName: pierce-matrix-theory
 ghissue: 128
-creator: Heather Pierce 
+womenAuthor: Heather Pierce 
 ---
 
 # --description--

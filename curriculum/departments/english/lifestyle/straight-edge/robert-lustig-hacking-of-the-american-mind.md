@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/robert-h.-lustig-the-hacking-of-the-americ
 # forumTopicId: 301086
 dashedName: robert-lustig-the-hacking-of-the-american-mind
 ghissue: 482
-creator: Robert Lustig
+menAuthor: Robert Lustig
 ---
 
 # --description--

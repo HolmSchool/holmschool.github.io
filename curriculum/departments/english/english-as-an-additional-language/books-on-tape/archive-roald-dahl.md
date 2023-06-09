@@ -6,7 +6,8 @@ videoUrl: https://archive.org/search.php?query=creator%3A%28roald+dahl%29&and%5B
 # forumTopicId: 301086
 dashedName: archive-roald-dahl
 ghissue: 443
-creator: 
+womenAuthor: 
+menAuthor: Roald Dahl
 ---
 
 # --description--

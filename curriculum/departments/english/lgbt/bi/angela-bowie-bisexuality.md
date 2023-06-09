@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/bisexuality0000bowi
 # forumTopicId: 301086
 dashedName: angela-bowie-bisexuality
 ghissue: 506
-creator: 
+womenAuthor: Angela Bowie
 ---
 
 # --description--

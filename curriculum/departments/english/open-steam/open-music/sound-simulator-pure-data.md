@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/playlist?list=PLyFkFo29zHvD4eRftIAjcLqIXCtSo7w
 # forumTopicId: 301086
 dashedName: sound-simulator-pure-data
 ghissue: 465
-creator: 
+womenAuthor: 
 ---
 
 # --description--

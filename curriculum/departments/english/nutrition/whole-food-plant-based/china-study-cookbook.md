@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/chinastudycookbo0000camp
 # forumTopicId: 301086
 dashedName: china-study-cookbook
 ghissue: 402
-creator:  Leanne Campbell
+womenAuthor:  Leanne Campbell
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: https://archive.org/search.php?query=numerical+analysis+michelle+schat
 # forumTopicId: 301086
 dashedName: num-analysis-schatzman-11
 ghissue: 392
-creator:  Michelle Schatzman
+womenAuthor:  Michelle Schatzman
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: http://www.pd-tutorial.com/english/index.html
 # forumTopicId: 301086
 dashedName: pure-data
 ghissue: 455
-creator: Johannes Kreidler
+menAuthor: Johannes Kreidler
 ---
 
 # --description--

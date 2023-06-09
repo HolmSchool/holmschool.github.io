@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/chinastudyallsta0000unse
 # forumTopicId: 301086
 dashedName: china-study-all-star
 ghissue: 401
-creator:  Leanne Campbell
+womenAuthor:  Leanne Campbell
 ---
 
 # --description--

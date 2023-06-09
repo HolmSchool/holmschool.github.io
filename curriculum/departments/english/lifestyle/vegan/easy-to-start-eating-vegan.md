@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/becomingvegancom00davi
 # forumTopicId: 301086
 dashedName: easy-to-start-eating-vegan
 ghissue: 416
-creator: Rebecca Gilbert
+womenAuthor: Rebecca Gilbert
 ---
 
 # --description--

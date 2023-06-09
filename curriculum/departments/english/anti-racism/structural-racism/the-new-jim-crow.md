@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/newjimcrowmassin0000alex
 # forumTopicId: 301086
 dashedName: the-new-jim-crow
 ghissue: 495
-creator: Michelle Alexander
+womenAuthor: Michelle Alexander
 ---
 
 # --description--

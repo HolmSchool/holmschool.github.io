@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/numericalanalysi0000west
 # forumTopicId: 301086
 dashedName: numerical-analysis-west-9
 ghissue: 376
-creator:  Elizabeth West
+womenAuthor:  Elizabeth West
 ---
 
 # --description--

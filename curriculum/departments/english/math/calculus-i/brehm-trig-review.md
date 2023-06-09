@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=lf6BN6r61MA&list=PLl-gb0E4MII1IUlW6kRR
 # forumTopicId: 301086
 dashedName: brehm-trig-review
 ghissue: 115
-creator: Kimberly Brehm 
+womenAuthor: Kimberly Brehm 
 ---
 
 # --description--

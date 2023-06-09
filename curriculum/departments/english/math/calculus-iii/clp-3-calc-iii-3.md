@@ -6,7 +6,7 @@ videoUrl: https://personal.math.ubc.ca/~CLP/
 # forumTopicId: 301086
 dashedName: clp-3-calc-iii-3
 ghissue: 186
-creator: Elyse Yeager
+womenAuthor: Elyse Yeager
 ---
 
 # --description--

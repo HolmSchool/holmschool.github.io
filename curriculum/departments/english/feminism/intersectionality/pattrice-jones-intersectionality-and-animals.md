@@ -6,7 +6,7 @@ videoUrl: https://www.nlg.org/wp-content/uploads/2016/09/intersectionality-and-a
 # forumTopicId: 301086
 dashedName: pattrice-jones-intersectionality-and-animals
 ghissue: 493
-creator: pattrice jones
+womenAuthor: pattrice jones
 ---
 
 # --description--

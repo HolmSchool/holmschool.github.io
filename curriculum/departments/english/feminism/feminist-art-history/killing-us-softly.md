@@ -6,7 +6,7 @@ videoUrl: https://shop.mediaed.org/killing-us-softly-4-p47.aspx
 # forumTopicId: 301086
 dashedName: killing-us-softly
 ghissue: 487
-creator: Jean Kilbourne
+womenAuthor: Jean Kilbourne
 triggerWarning: true
 ---
 

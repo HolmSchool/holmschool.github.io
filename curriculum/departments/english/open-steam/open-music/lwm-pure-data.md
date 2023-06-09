@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/playlist?list=PLQpnOqsrcBuq3JVvn4nQP90jv_rAs2c
 # forumTopicId: 301086
 dashedName: lwm-pure-data
 ghissue: 462
-creator: LWM Music
+menAuthor: LWM Music
 ---
 
 # --description--

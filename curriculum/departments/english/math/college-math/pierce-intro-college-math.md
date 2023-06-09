@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=43r5wCRjiU0&list=PLpc_FMvFv8VSqKW61c_8
 # forumTopicId: 301086
 dashedName: pierce-intro-college-math
 ghissue: 121
-creator: Heather Pierce 
+womenAuthor: Heather Pierce 
 ---
 
 # --description--

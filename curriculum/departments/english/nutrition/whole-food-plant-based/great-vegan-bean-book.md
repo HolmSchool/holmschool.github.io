@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/greatveganbeanbo0000hest
 # forumTopicId: 301086
 dashedName: great-vegan-bean-book
 ghissue: 407
-creator: Kathy Hester
+womenAuthor: Kathy Hester
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/The_Open_Goldberg_Variations-11823
 # forumTopicId: 301086
 dashedName: open-goldberg-variations
 ghissue: 456
-creator: Kimiko Ishizaka
+womenAuthor: Kimiko Ishizaka
 ---
 
 # --description--

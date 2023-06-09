@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/safegirltolove0000plet
 # forumTopicId: 301086
 dashedName: a-safe-girl-to-love-casey-plett
 ghissue: 449
-creator: Casey Plett
+womenAuthor: Casey Plett
 ---
 
 # --description--

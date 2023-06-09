@@ -6,7 +6,7 @@ videoUrl: https://open.umn.edu/opentextbooks/textbooks/proofs-and-concepts-the-f
 # forumTopicId: 301086
 dashedName: abstract-math-1
 ghissue: 131
-creator: Joy Morris 
+womenAuthor: Joy Morris 
 ---
 
 # --description--

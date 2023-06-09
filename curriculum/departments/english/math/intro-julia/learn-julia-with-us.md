@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=oTUmW8dWZws&list=PLP8iPy9hna6TbWJ-Uo-q
 # forumTopicId: 301086
 dashedName: learn-julia-with-us
 ghissue: 345
-creator: Kyla McConnell and Julia Müller
+womenAuthor: Kyla McConnell and Julia Müller
 ---
 
 # --description--

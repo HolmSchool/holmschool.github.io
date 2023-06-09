@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/c/STEMcoding/playlists
 # forumTopicId: 301086
 dashedName: stem-coding
 ghissue: 453
-creator: STEM Coding
+menAuthor:
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: https://open.umn.edu/opentextbooks/textbooks/precalculus-2015
 # forumTopicId: 301086
 dashedName: precalculus-MAT-1375-part-4
 ghissue: 40
-creator: Holly Carley 
+womenAuthor: Holly Carley 
 ---
 
 # --description--

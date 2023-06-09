@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/TowardsALessFuckedUpWorldZine
 # forumTopicId: 301086
 dashedName: towards-a-less-fucked-up-world
 ghissue: 477
-creator: Nick Riotfag
+menAuthor: Nick Riotfag
 ---
 
 # --description--

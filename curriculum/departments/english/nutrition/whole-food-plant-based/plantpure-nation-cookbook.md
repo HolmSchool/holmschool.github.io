@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/plantpurenationc0000camp
 # forumTopicId: 301086
 dashedName: plantpure-nation-cookbook
 ghissue: 408
-creator: Kim Campbell
+womenAuthor: Kim Campbell
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: https://open.umn.edu/opentextbooks/textbooks/modeling-functions-and-gr
 # forumTopicId: 301086
 dashedName: graphs-yoshiwara-7
 ghissue: 65
-creator: Katherine Yoshiwara 
+womenAuthor: Katherine Yoshiwara 
 ---
 
 # --description--

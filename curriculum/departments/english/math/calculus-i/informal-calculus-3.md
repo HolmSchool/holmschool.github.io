@@ -6,7 +6,7 @@ videoUrl: https://open.umn.edu/opentextbooks/textbooks/calculus-survey-for-enivr
 # forumTopicId: 301086
 dashedName: informal-calculus-3
 ghissue: 44
-creator: Debbie Seacrest, Rebekah Levine, and Michele Anderson
+womenAuthor: Debbie Seacrest, Rebekah Levine, and Michele Anderson
 ---
 
 # --description--

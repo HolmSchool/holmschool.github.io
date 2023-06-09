@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/veganway21daysto0000dayj
 # forumTopicId: 301086
 dashedName: vegan-way
 ghissue: 412
-creator: Jackie Day
+womenAuthor: Jackie Day
 ---
 
 # --description--

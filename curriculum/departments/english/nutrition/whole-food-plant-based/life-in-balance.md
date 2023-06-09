@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/lifeinbalancedel0000wolf_s3m3
 # forumTopicId: 301086
 dashedName: life-in-balance
 ghissue: 411
-creator: Meg Wolff
+womenAuthor: Meg Wolff
 ---
 
 # --description--

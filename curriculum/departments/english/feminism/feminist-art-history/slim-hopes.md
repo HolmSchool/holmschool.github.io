@@ -6,7 +6,7 @@ videoUrl: https://shop.mediaed.org/slim-hopes-p141.aspx
 # forumTopicId: 301086
 dashedName: slim-hopes
 ghissue: 488
-creator: Jean Kilbourne
+womenAuthor: Jean Kilbourne
 ---
 
 # --description--

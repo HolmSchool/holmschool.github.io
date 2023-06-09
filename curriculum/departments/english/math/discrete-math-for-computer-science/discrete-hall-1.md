@@ -6,7 +6,7 @@ videoUrl: https://archive.org/search.php?query=cordelia+hall+discrete&sin=
 # forumTopicId: 301086
 dashedName: discrete-hall-1
 ghissue: 218
-creator:  Cordelia Hall
+womenAuthor:  Cordelia Hall
 ---
 
 # --description--

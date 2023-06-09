@@ -6,7 +6,8 @@ videoUrl: https://archive.org/details/biologicalexuber00bage
 # forumTopicId: 301086
 dashedName: biological-exuberance
 ghissue: 514
-creator: 
+womenAuthor: 
+menAuthor: Bruce Bagemihl
 ---
 
 # --description--

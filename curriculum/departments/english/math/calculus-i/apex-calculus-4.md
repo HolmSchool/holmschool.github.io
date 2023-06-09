@@ -6,7 +6,7 @@ videoUrl: https://open.umn.edu/opentextbooks/textbooks/apex-calculus
 # forumTopicId: 301086
 dashedName: apex-calculus-4
 ghissue: 26
-creator: Jennifer Bowen 
+womenAuthor: Jennifer Bowen 
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: https://shop.mediaed.org/deadly-persuasion-p82.aspx
 # forumTopicId: 301086
 dashedName: deadly-persuasion
 ghissue: 483
-creator: Jean Kilbourne
+womenAuthor: Jean Kilbourne
 ---
 
 # --description--

@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/plantpoweredforl0000palm
 # forumTopicId: 301086
 dashedName: plant-powered-for-life
 ghissue: 406
-creator: Sharon Palmer
+womenAuthor: Sharon Palmer
 ---
 
 # --description--

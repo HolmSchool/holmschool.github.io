@@ -6,7 +6,8 @@ videoUrl: https://archive.org/details/quit-social-media.-your-career-may-depend-
 # forumTopicId: 301086
 dashedName: cal-newport-your-career
 ghissue: 500
-creator: 
+womenAuthor: 
+menAuthor: Cal Newport
 ---
 
 # --description--

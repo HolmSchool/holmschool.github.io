@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=zG9Y8hnXZOc&list=PLl-gb0E4MII0CsY4AE2x
 # forumTopicId: 301086
 dashedName: brehm-combinatorics
 ghissue: 110
-creator: Kimberly Brehm 
+womenAuthor: Kimberly Brehm 
 ---
 
 # --description--

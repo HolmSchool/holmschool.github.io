@@ -6,7 +6,8 @@ videoUrl: https://archive.org/details/simpleguidetomin0000baba
 # forumTopicId: 301086
 dashedName: leo-babauta-simple-guide-minimalist-life
 ghissue: 502
-creator: 
+womenAuthor: 
+menAuthor: Leo Babauta
 ---
 
 # --description--

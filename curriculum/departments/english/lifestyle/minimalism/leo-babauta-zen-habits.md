@@ -6,7 +6,8 @@ videoUrl: https://archive.org/details/simpleguidetomin0000baba
 # forumTopicId: 301086
 dashedName: leo-babauta-zen-habits
 ghissue: 503
-creator: 
+womenAuthor: 
+menAuthor: Leo Babauta
 ---
 
 # --description--

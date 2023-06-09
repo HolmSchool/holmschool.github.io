@@ -6,7 +6,7 @@ videoUrl: https://open.umn.edu/opentextbooks/textbooks/combinatorics
 # forumTopicId: 301086
 dashedName: morris-combinatorics-7
 ghissue: 147
-creator: Joy Morris 
+womenAuthor: Joy Morris 
 ---
 
 # --description--

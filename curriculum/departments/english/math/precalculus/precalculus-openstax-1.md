@@ -6,7 +6,7 @@ videoUrl: https://open.umn.edu/opentextbooks/textbooks/precalculus-2014
 # forumTopicId: 301086
 dashedName: precalculus-openstax-1
 ghissue: 11
-creator: Valeree Falduto 
+womenAuthor: Valeree Falduto 
 ---
 
 # --description--

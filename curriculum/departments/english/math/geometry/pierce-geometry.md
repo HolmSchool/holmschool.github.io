@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=m-9JDNoAf8Y&list=PLpc_FMvFv8VTEiivbYMU
 # forumTopicId: 301086
 dashedName: pierce-geometry
 ghissue: 117
-creator: Heather Pierce 
+womenAuthor: Heather Pierce 
 ---
 
 # --description--

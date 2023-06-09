@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/stillkillingussoftlyadvertisingsimageofwom
 # forumTopicId: 301086
 dashedName: still-killing-us-softly
 ghissue: 490
-creator: Jean Kilbourne
+womenAuthor: Jean Kilbourne
 ---
 
 # --description--

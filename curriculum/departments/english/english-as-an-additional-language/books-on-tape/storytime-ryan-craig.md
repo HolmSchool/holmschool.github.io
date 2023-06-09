@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/c/StorytimewithRyanandCraig/videos
 # forumTopicId: 301086
 dashedName: storytime-ryan-craig
 ghissue: 436
-creator: 
+menAuthor: Ryan & Craig
 ---
 
 # --description--

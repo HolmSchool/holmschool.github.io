@@ -5,7 +5,7 @@ challengeType: 0
 videoUrl: https://www.youtube.com/watch?v=JOHTNuGqqJQ
 dashedName: pattrice-jones-animals-intersectionality
 ghissue: 492
-creator: pattrice jones
+womenAuthor: pattrice jones
 ---
 
 # --description--

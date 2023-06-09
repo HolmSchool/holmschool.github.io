@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/2014-dr.-jean-kilbourne-interview
 # forumTopicId: 301086
 dashedName: interview-with-jean-kilbourne
 ghissue: 489
-creator: 
+womenAuthor: Jean Kilbourne
 ---
 
 # --description--

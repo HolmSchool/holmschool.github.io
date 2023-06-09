@@ -6,7 +6,7 @@ videoUrl: https://www.youtube.com/playlist?list=PLPYzvS8A_rTZmJZjUtMG6GJ2QkLUEaY
 # forumTopicId: 301086
 dashedName: supercollider-mus-499c
 ghissue: 468
-creator: Eli Fieldsteel
+menAuthor: Eli Fieldsteel
 ---
 
 # --description--

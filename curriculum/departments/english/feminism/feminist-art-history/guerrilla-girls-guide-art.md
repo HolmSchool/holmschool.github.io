@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/guerrillagirlsbe00guer
 # forumTopicId: 301086
 dashedName: guerrilla-girls-guide-art
 ghissue: 447
-creator: Guerrilla Girls
+womenAuthor: Guerrilla Girls
 ---
 
 # --description--

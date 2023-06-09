@@ -6,7 +6,7 @@ videoUrl: https://open.umn.edu/opentextbooks/textbooks/mathematical-modeling-and
 # forumTopicId: 301086
 dashedName: matlab-modeling-1
 ghissue: 134
-creator: Megan Buzby 
+womenAuthor: Megan Buzby 
 ---
 
 # --description--

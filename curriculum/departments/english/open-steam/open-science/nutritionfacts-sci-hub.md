@@ -6,7 +6,7 @@ videoUrl: https://nutritionfacts.org/2022/03/31/sci-hub-offers-the-quickest-easi
 # forumTopicId: 301086
 dashedName: nutritionfacts-sci-hub
 ghissue: 494
-creator: 
+menAuthor: Michael Greger
 ---
 
 # --description--

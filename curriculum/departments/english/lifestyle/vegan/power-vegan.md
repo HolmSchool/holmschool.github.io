@@ -6,7 +6,7 @@ videoUrl: https://archive.org/details/powerveganplantf0000frey
 # forumTopicId: 301086
 dashedName: power-vegan
 ghissue: 417
-creator: Rea Frey
+womenAuthor: Rea Frey
 ---
 
 # --description--
