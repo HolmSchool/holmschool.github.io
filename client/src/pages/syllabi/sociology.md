@@ -13,6 +13,6 @@ subject: "Sociology"
 * [Sacred Heart OER Resource - Sociology](https://digitalcommons.sacredheart.edu/cgi/viewcontent.cgi?article=1047&context=library_staff)
 * [Open Textbook Initiative - Sociology](https://emedia.rmit.edu.au/oer/featured-courses/)
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - Sociology](https://www.perlego.com/browse/social-sciences/sociology)
 * [Perlego - Sociology Reading List](https://www.perlego.com/reading-list/87467/editors-picks-in-sociology)

@@ -9,5 +9,5 @@ subject: "Science"
  * [OpenStax - Science Textbooks](https://openstax.org/subjects/science)
  * [EMich - Sciences](https://guides.emich.edu/alt-texts/oatexts)
 
- ### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+ ### [Perlego](https://holmschool.github.io/perlego-available/)
  * [Perlego - Science](https://www.perlego.com/search?query=science&tab=topics&filter=&page=1)

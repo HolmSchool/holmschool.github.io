@@ -13,6 +13,6 @@ subject: "Engineering"
 ### Electrical Engineering
 * [OpenCulture - Electrical Engineering](http://www.openculture.com/free_textbooks)
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - Engineering](https://www.perlego.com/search?query=engineering&tab=topics&filter=&page=1)
 * [Perlego - Technology & Engineering](https://www.perlego.com/browse/technology-engineering)

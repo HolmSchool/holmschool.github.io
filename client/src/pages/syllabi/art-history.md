@@ -5,11 +5,11 @@ subject: "Art History"
 
 
 ### Lloyd Reynolds's Art History Bibliography
-* [Bibliography](https://HolmSchool.github.io/holm-school/lloyd-reynolds)
+* [Bibliography](https://holmschool.github.io/lloyd-reynolds)
 
 
 ### Free Art BFA
-* [Art BFA Reading List](https://HolmSchool.github.io/holm-school/bfa-arts)
+* [Art BFA Reading List](https://holmschool.github.io/bfa-arts)
 
 ## Art History Books
 * [Saylor - ARTHXXX Classes](https://legacy.saylor.org/#courselist)
@@ -63,6 +63,6 @@ Yale | [Let This Be a Lesson: Heroes, Heroines, and Narrative in Paintings at Ya
 * [Google - Arts and Culture](https://artsandculture.google.com/partner?hl=en&tab=map)
 * [PBS - Art21 - All Seasons](https://art21.org/watch/)
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - Art History](https://www.perlego.com/browse/the-arts/art-history)
 * [Perlego - The Arts](https://www.perlego.com/browse/the-arts)

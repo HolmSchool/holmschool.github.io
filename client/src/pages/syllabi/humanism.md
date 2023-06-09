@@ -4,12 +4,12 @@ subject: "S.A.L.V.D. #96D7AF"
 ---
 
 ### Humanities Curriculum ("Great Books Curriculum")
-* [Hum110 Syllabus](https://HolmSchool.github.io/holm-school/hum110/)
-* [Hum210 Syllabus](https://HolmSchool.github.io/holm-school/hum210/)
-* [Hum220 Syllabus](https://HolmSchool.github.io/holm-school/hum220/)
+* [Hum110 Syllabus](https://holmschool.github.io/hum110/)
+* [Hum210 Syllabus](https://holmschool.github.io/hum210/)
+* [Hum220 Syllabus](https://holmschool.github.io/hum220/)
 
 ### Anti-Postmodernism Books
-* [Free Anti-Postmodernism Books](https://HolmSchool.github.io/holm-school/anti-postmodernism-books/)
+* [Free Anti-Postmodernism Books](https://holmschool.github.io/anti-postmodernism-books/)
 
 ### Humanism
 * Lamont, Corliss - The philosophy of humanism - [v1](https://archive.org/details/philosophyofhuma00lamo) & [v2](https://archive.org/details/philosophyofhuma0000lamo)

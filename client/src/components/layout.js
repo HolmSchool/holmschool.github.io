@@ -60,7 +60,7 @@ const header = ({ children }) => (
           <meta name="twitter:creator" content="@holmschool"/>
           <meta name="twitter:title" content="Holm School: University in a Raspberry Pi"/>
           <meta name="twitter:description" content="Free college curricula 'Z-Degrees' using open source educational resources. Fuel your debt-free self-education journey here!"/>
-          <meta name="twitter:image" content="https://HolmSchool.github.io/holm-school/square_logo_small.png"/> */}
+          <meta name="twitter:image" content="https://holmschool.github.io/square_logo_small.png"/> */}
           <html lang="en" />
           <link rel="icon"
             type="image/x-icon"

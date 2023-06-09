@@ -14,5 +14,5 @@ A compendium of free physics textbooks and classes to enable a DIY college educa
 * [Sacred Heart OER Resource - Physics](https://digitalcommons.sacredheart.edu/cgi/viewcontent.cgi?article=1047&context=library_staff)
 * [Lev Landau - Course of Theoretical Physics](https://archive.org/search.php?query=creator%3A%22L.D.%20Landau%22)
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - Physics](https://www.perlego.com/browse/science/physics)

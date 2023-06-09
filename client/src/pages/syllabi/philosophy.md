@@ -11,6 +11,6 @@ subject: "Philosophy"
 * [Saylor.org Legacy - PHILxxx Courses](https://legacy.saylor.org/#courselist)
 
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - Philosophy](https://www.perlego.com/search?query=philosophy&tab=topics&filter=&page=1)
 * [Perlego - Philsophy & Theology](https://www.perlego.com/browse/philosophy-theology)

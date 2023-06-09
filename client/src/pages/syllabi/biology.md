@@ -15,5 +15,5 @@ subject: "Biology"
 * [Sacred Heart OER Resource - Biology](https://digitalcommons.sacredheart.edu/cgi/viewcontent.cgi?article=1047&context=library_staff)
 * [Open Textbook Initiative - Anatomy & Physiology, Biology, Environmental Science](https://emedia.rmit.edu.au/oer/featured-courses/)
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - Biology](https://www.perlego.com/search?query=biology&tab=topics&filter=&page=1)

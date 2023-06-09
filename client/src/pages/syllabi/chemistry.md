@@ -12,5 +12,5 @@ subject: "Chemistry"
 * [Sacred Heart OER Resource - Chemistry](https://digitalcommons.sacredheart.edu/cgi/viewcontent.cgi?article=1047&context=library_staff)
 * [Open Textbook Initiative - Chemistry](https://emedia.rmit.edu.au/oer/featured-courses/)
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - Chemistry](https://www.perlego.com/browse/science/chemistry)

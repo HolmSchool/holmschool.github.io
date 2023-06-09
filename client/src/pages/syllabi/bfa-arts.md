@@ -6,7 +6,7 @@ subject: "Art"
 # bfa_curriculum
 free and open source OER-based bfa degree curriculum focusing on computer art/programming and liberal sciences
 
-## [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+## [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - Art](https://www.perlego.com/search?query=art&tab=topics&filter=&page=1)
 * [Perlego - The Arts](https://www.perlego.com/browse/the-arts)
 
@@ -23,19 +23,19 @@ Seth Godin | [Stop Stealing Dreams](https://seths.blog/wp-content/uploads/2019/0
 Author | Book
 ------------ | -------------
 J.L. Collins | [The Simple Path to Wealth](https://jlcollinsnh.com/stock-series/)
-HolmSchool | [Holm School/free-index-funds-books](https://HolmSchool.github.io/holm-school/free-index-funds-books)
+HolmSchool | [Holm School/free-index-funds-books](https://holmschool.github.io/free-index-funds-books)
 
 ## Great Books
-* [Reed College Hum110 curriculum](https://HolmSchool.github.io/holm-school/hum110)
+* [Reed College Hum110 curriculum](https://holmschool.github.io/hum110)
 
 ## Lloyd Reynolds's Selected Bibliography for Art History
-* [HolmSchool/lloyd-reynolds-selected-bibliography-for-art-history](https://HolmSchool.github.io/holm-school/art-history)
+* [HolmSchool/lloyd-reynolds-selected-bibliography-for-art-history](https://holmschool.github.io/art-history)
 
 
 ## Art History
 Author | Book
 -------|-------
-Holm School | [Art History Z-Degree](https://HolmSchool.github.io/holm-school/art-history)
+Holm School | [Art History Z-Degree](https://holmschool.github.io/art-history)
 White | Prehistoric Art: The Symbolic Journey of Humankind [v1](https://archive.org/details/prehistoricartsy0000whit)
 Lenny Lipton | [Independent filmmaking](https://archive.org/details/independentfilmm00lipt)
 E.H. Gombrich | The Story of Art [v1](https://archive.org/details/in.ernet.dli.2015.234516) [v2](https://archive.org/details/in.ernet.dli.2015.29158) [v3](https://archive.org/details/storyofart00gombrich) [v4](https://archive.org/details/storyofartstor00gomb) [v5](https://archive.org/details/storyofargomt00gomb) [v6](https://archive.org/details/storyofartgom00gomb) [v7](https://archive.org/details/storyofart00gomb) [v8](https://archive.org/details/storyofart00gomb_0)
@@ -123,30 +123,30 @@ p5.js | [Programming with Text - shiffman](https://www.youtube.com/user/shiffman
 p5.js | [Coding Challenges (p5.js) - shiffman](https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
 
 ## C, JS, Python
-* [Harvard's CS50 as an introduction to C, Python, and Javascript](https://HolmSchool.github.io/holm-school#harvards-cs50-as-an-introduction-to-c-python-and-javascript)
-* [Further investigation of C, Python, and JS](https://HolmSchool.github.io/holm-school#further-investigation-of-c-python-and-js)
-* [Data Structures in C, Python, and JavaScript](https://HolmSchool.github.io/holm-school#data-structures-in-c-python-and-javascript)
+* [Harvard's CS50 as an introduction to C, Python, and Javascript](https://holmschool.github.io#harvards-cs50-as-an-introduction-to-c-python-and-javascript)
+* [Further investigation of C, Python, and JS](https://holmschool.github.io#further-investigation-of-c-python-and-js)
+* [Data Structures in C, Python, and JavaScript](https://holmschool.github.io#data-structures-in-c-python-and-javascript)
 
 ## Arduino
 * [Fiore, James - Embedded Controllers using C and Arduino + Lab Manual](https://textbooks.opensuny.org/embedded-controllers-using-c-and-arduino-lab-manual/)
 
 ## TypeScript, Java
-* [TypeScript as a segue into Java](https://HolmSchool.github.io/holm-school#typescript-as-a-segue-into-java)
-* [Java](https://HolmSchool.github.io/holm-school#java-programming)
+* [TypeScript as a segue into Java](https://holmschool.github.io#typescript-as-a-segue-into-java)
+* [Java](https://holmschool.github.io#java-programming)
 * [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction - shiffman](https://www.youtube.com/user/shiffman/playlists?shelf_id=2&view=50&sort=dd)
 * [The Nature of Code - Daniel Shiffman](https://natureofcode.com/book/) & [playlist](https://www.youtube.com/user/shiffman/playlists?shelf_id=6&view=50&sort=dd)
 
 ## HTML/CSS
-* [HTML/CSS](https://HolmSchool.github.io/holm-school#htmlcss)
-* [Web Development](https://HolmSchool.github.io/holm-school#web-development)
+* [HTML/CSS](https://holmschool.github.io#htmlcss)
+* [Web Development](https://holmschool.github.io#web-development)
 
 ## Databases
-* [Databases](https://HolmSchool.github.io/holm-school#databases)
+* [Databases](https://holmschool.github.io#databases)
 
 
 ## AI
-* [AI](https://HolmSchool.github.io/holm-school#ai)
-* [Machine Learning](https://HolmSchool.github.io/holm-school#machine-learning)
+* [AI](https://holmschool.github.io#ai)
+* [Machine Learning](https://holmschool.github.io#machine-learning)
 
 Author | Book
 -------|-----
@@ -154,4 +154,4 @@ Rich & Knight | [Artificial Intelligence](https://archive.org/details/artificial
 
 
 ## Computer Vision
-* [Computer Vision](https://HolmSchool.github.io/holm-school#computer-vision)
+* [Computer Vision](https://holmschool.github.io#computer-vision)

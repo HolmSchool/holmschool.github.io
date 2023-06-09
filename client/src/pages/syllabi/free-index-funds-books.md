@@ -14,7 +14,7 @@ Start here:
 
 Author | Book/Video/Podcast
 -------|----------
-Holm School | [Personal Finance/Investing for Computer Scientists](https://HolmSchool.github.io/holm-school/personal-finance-for-computer-scientists)
+Holm School | [Personal Finance/Investing for Computer Scientists](https://holmschool.github.io/personal-finance-for-computer-scientists)
 JL Collins | [Stock Series](https://jlcollinsnh.com/stock-series) (published as "A Simple Path to Wealth")
 Mr. Money Mustache | Recommended posts: [1](https://www.mrmoneymustache.com/2011/05/18/how-to-make-money-in-the-stock-market/) & [2](https://www.mrmoneymustache.com/2011/04/10/post-4-what-am-i-supposed-to-do-with-all-this-money/) & [3](https://www.mrmoneymustache.com/2018/11/29/how-to-retire-forever-on-a-fixed-chunk-of-money/) & [4](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/) & [5](https://www.mrmoneymustache.com/2012/05/29/how-much-do-i-need-for-retirement/) & [6](https://www.mrmoneymustache.com/2013/06/09/getting-enough-and-then-some/)
 Mr. Money Mustache | [Entire website](http://www.mrmoneymustache.com/all-the-posts-since-the-beginning-of-time/) (Beware of affiliate links)
@@ -64,7 +64,7 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 * [Ferri, Richard - All about index funds : the easy way to get started](https://archive.org/details/allaboutindexfun00rich)
 * [Good, Walter and Hermansen, Roy - Index your way to investment success](https://archive.org/details/indexyourwaytoin00wal_6i4)
 * [Hebner, Mark - Index funds : the 12-step program for active investors](https://archive.org/details/indexfunds12step00hebn)
-* [Holm School - Personal Finance/Investing for Computer Scientists](https://HolmSchool.github.io/holm-school/personal-finance-for-computer-scientists)
+* [Holm School - Personal Finance/Investing for Computer Scientists](https://holmschool.github.io/personal-finance-for-computer-scientists)
 * [Larimore, Taylor - The Bogleheads' Guide to Investing](https://archive.org/details/bogleheadsguidet00lari_0)
 * [Malkiel, Burton - A random walk down Wall Street : including a life-cycle guide to personal investing](https://archive.org/details/randomwalkdownwa00burt_1)
 * [Malkiel, Burton - The Random Walk Guide to Investing](https://archive.org/details/randomwalkguidet00malk)
@@ -130,7 +130,7 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 
 * [Häring, Norbert - Economics 2.0 : what the best minds in economics can teach you about business and life](https://archive.org/details/economics20whatb0000hari)
 * [Hazlitt, Henry - Economics in One Lesson](https://archive.org/details/HenryHazlittEconomicsInOneLesson)
-* [Holm School - Economics Z-Degree](https://HolmSchool.github.io/holm-school/economics)
+* [Holm School - Economics Z-Degree](https://holmschool.github.io/economics)
 * [NPR Planet Money (and The Indicator) (Podcast)](https://npr.org/planetmoney)
 * [OpenStax - Principles of Economics 2e](https://openstax.org/details/books/principles-economics-2e)
 * [OpenStax - Principles of Macroeconomics 2e](https://openstax.org/details/books/principles-macroeconomics-2e)
@@ -156,7 +156,7 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 * [OpenStax - Entrepreneurship](https://openstax.org/details/books/entrepreneurship)
 
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 
 * [Perlego - Index Funds](https://www.perlego.com/search?query=index%20funds&tab=book&filter=English&page=1)
 * [Perlego - Frugal](https://www.perlego.com/search?query=frugal&tab=topResult&filter=English&page=1)

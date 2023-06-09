@@ -20,7 +20,7 @@ Don't overdo it, but don't sit it out completely either. Nothing's wrong with st
 * [Archive.org - ACT](https://archive.org/search.php?query=act&and[]=mediatype%3A%22texts%22&and[]=loans__status__status%3A%22AVAILABLE%22)
 
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - PSAT](https://www.perlego.com/search?query=psat&tab=book&filter=English&page=1)
 * [Perlego - SAT Test](https://www.perlego.com/search?query=sat%20test&tab=book&filter=English&page=1)
 * [Perlego - ACT Practice](https://www.perlego.com/search?query=act%20practice&tab=book&filter=English&page=1)

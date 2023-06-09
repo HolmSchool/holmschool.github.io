@@ -23,7 +23,7 @@ subject: "Music Theory"
 ### Guitar
 * [Justin Guitar](https://www.justinguitar.com/site-map-and-lesson-structure)
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - Music Theory](https://www.perlego.com/browse/the-arts/music-theory-appreciation)
 * [Perlego - Music](https://www.perlego.com/browse/the-arts/music)
 * [Perlego - An Introduction to Music Theory](https://www.perlego.com/reading-list/166431/an-introduction-to-music-theory)

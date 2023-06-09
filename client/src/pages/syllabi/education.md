@@ -13,5 +13,5 @@ A free compendium of open source college-level curricula to learn how to be an E
 * [EMich - Education](https://guides.emich.edu/alt-texts/oatexts)
 * [Open Textbook Initiative - Education](https://emedia.rmit.edu.au/oer/featured-courses/)
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - Education](https://www.perlego.com/search?query=education&tab=topics&filter=&page=1)

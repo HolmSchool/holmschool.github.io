@@ -14,5 +14,5 @@ subject: "Psychology"
 * [Open Textbook Initiative - Psychology](https://emedia.rmit.edu.au/oer/featured-courses/)
 
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - Psychology](https://www.perlego.com/search?query=psychology&tab=topics&filter=&page=1)

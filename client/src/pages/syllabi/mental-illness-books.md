@@ -44,6 +44,6 @@ Catalog of free books and resources about mental illness
 * [OpenStax - Psychology](https://openstax.org/details/books/psychology)
 
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - Psychiatric Medicine & Mental Health](https://www.perlego.com/browse/medicine/psychiatric-medicine-mental-health)
 * [Perlego - Mental Illness](https://www.perlego.com/search?query=mental%20illness&tab=book&filter=English&page=1)

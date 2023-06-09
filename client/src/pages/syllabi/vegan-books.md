@@ -91,5 +91,5 @@ Free Vegan and Whole Food Plant Based Diet Books
 * [Weiss, Stefanie - Everything you need to know about being a vegan](https://archive.org/details/everythingyounee0000weis)
 
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - Vegan](https://www.perlego.com/search?query=vegan&tab=book&filter=English&page=1)

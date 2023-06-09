@@ -86,5 +86,5 @@ General hint: on video.google.com, Click "Tools"->"All Videos"->"Closed Captions
 * [Archive.org - Roald Dahl](https://archive.org/search.php?query=creator%3A%28roald%20dahl%29&and[]=loans__status__status%3A%22AVAILABLE%22)
 
 
-## [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+## [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - English as a Foreign Language](https://www.perlego.com/browse/literature-linguistics/english-as-a-foreign-language)

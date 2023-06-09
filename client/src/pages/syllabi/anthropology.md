@@ -18,5 +18,5 @@ Find free textbooks and books to guide a self-study of anthropology!
 * [Language Science Press](https://langsci-press.org/catalog)
 * [EMich - Languages & Linguistics](https://guides.emich.edu/alt-texts/oatexts)
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - Anthropology](https://www.perlego.com/browse/social-sciences/anthropology)

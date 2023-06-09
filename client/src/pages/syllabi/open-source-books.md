@@ -86,6 +86,6 @@ Compendium of free books about open source licensing
 * [Williams, Sam - Free as in freedom : Richard Stallman's crusade for free software](https://archive.org/details/freeasinfreedomr00will)
 
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 
 * [Perlego - Open Source](https://www.perlego.com/search?query=open%20source&tab=book&filter=English&page=1)

@@ -20,5 +20,5 @@ subject: "Economics"
 * [Open Textbook Initiative - Macroeconomics, Microeconomics](https://emedia.rmit.edu.au/oer/featured-courses/)
 
 
-### [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+### [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - Economics](https://www.perlego.com/search?query=economics&tab=topics&filter=&page=1)

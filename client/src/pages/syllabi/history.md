@@ -11,9 +11,9 @@ Donald Kagan | The Western Heritage vol. II | [v1](https://archive.org/details/w
 Donald Kagan | The Western Heritage (combined volumes) | [v1](https://archive.org/details/westernheritage00kaga_3)
 Boundless | World History | [Link](https://courses.lumenlearning.com/boundless-worldhistory/)
 Palmer & Colton | A History of the Modern World | [v1](https://archive.org/details/isbn_9780679432531) & [v2](https://archive.org/details/historyofmodernw00palm) & [v3](https://archive.org/details/historyofmodernw04edpalm) & [v4](https://archive.org/details/historyofmodernw0000unse)
-Reed College Hum110 Syllabus | - | [Link](https://HolmSchool.github.io/holm-school/hum110/)
-Reed College Hum210 Syllabus | - | [Link](https://HolmSchool.github.io/holm-school/hum210/)
-Reed College Hum220 Syllabus | - | [Link](https://HolmSchool.github.io/holm-school/hum220/)
+Reed College Hum110 Syllabus | - | [Link](https://holmschool.github.io/hum110/)
+Reed College Hum210 Syllabus | - | [Link](https://holmschool.github.io/hum210/)
+Reed College Hum220 Syllabus | - | [Link](https://holmschool.github.io/hum220/)
 Steven Kreiss | [The History Guide](http://www.historyguide.org/index.html)
 
 
@@ -40,5 +40,5 @@ Lumen | Boundless US History | [Link](https://courses.lumenlearning.com/boundles
 * [Sacred Heart OER Resource - History](https://digitalcommons.sacredheart.edu/cgi/viewcontent.cgi?article=1047&context=library_staff)
 
 
-## [Perlego](https://HolmSchool.github.io/holm-school/perlego-available/)
+## [Perlego](https://holmschool.github.io/perlego-available/)
 * [Perlego - History](https://www.perlego.com/search?query=history&tab=topics&filter=&page=1)
