@@ -27,11 +27,6 @@ const navItem = css`
 `
 
 const hamburger = css`
-// @import url(https://fonts.googleapis.com/css?family=Raleway);
-// h2 {
-//   vertical-align: center;
-//   text-align: center;
-// }
 
 html, body {
   margin: 0;
@@ -161,10 +156,6 @@ html, body {
     border-bottom: 1px solid #444;
   }
 }
-View Compiled
-
-
-Resources1× 0.5× 0.25×Rerun
 
 `
 
@@ -400,7 +391,7 @@ const header = ({ children }) => (
             </div>
           </div>
         </div>
-        <div className={`main-text`} css={css`padding-top:28px;`}>
+        <div className={`main-text`} css={css``}>
           {children}
         </div>
         <div css={css`
