@@ -84,7 +84,3 @@ General hint: on video.google.com, Click "Tools"->"All Videos"->"Closed Captions
 * [Archive.org - Hardy Boys](https://archive.org/search.php?query=hardy%20boys&and[]=loans__status__status%3A%22AVAILABLE%22)
 * [Archive.org - Encyclopedia Brown](https://archive.org/search.php?query=encyclopedia%20brown&and[]=loans__status__status%3A%22AVAILABLE%22)
 * [Archive.org - Roald Dahl](https://archive.org/search.php?query=creator%3A%28roald%20dahl%29&and[]=loans__status__status%3A%22AVAILABLE%22)
-
-
-## [Perlego](https://holmschool.github.io/perlego-available/)
-* [Perlego - English as a Foreign Language](https://www.perlego.com/browse/literature-linguistics/english-as-a-foreign-language)

@@ -10,7 +10,3 @@ subject: "PoliSci"
 * [Boundless - PoliSci](https://courses.lumenlearning.com/boundless-politicalscience/)
 * [E-International Relations - Books](https://www.e-ir.info/publications/)
 * [Sacred Heart OER Resource - Political Science](https://digitalcommons.sacredheart.edu/cgi/viewcontent.cgi?article=1047&context=library_staff)
-
-### [Perlego](https://holmschool.github.io/perlego-available/)
-* [Perlego - General Political Science](https://www.perlego.com/search?query=political%20science&tab=topics&filter=&page=1)
-* [Perlego - Poltics & International Relations](https://www.perlego.com/browse/politics-international-relations)

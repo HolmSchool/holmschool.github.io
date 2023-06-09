@@ -26,7 +26,3 @@ subject: "English"
 * [The Online Books Page - A Celebration of Women Writers](https://digital.library.upenn.edu/women/wr-copy.html)
 * [The Online Books Page - BANNED BOOKS ONLINE](https://onlinebooks.library.upenn.edu/banned-books.html)
 * [Archive.org - Literature](https://archive.org/search.php?query=literature&and[]=loans__status__status%3A%22AVAILABLE%22&and[]=loans__status__status%3A%22UNAVAILABLE%22)
-
-### [Perlego](https://holmschool.github.io/perlego-available/)
-* [Perlego - Literature](https://www.perlego.com/search?query=literature&tab=topics&filter=&page=1)
-* [Perlego - Literature & Linguistics](https://www.perlego.com/browse/literature-linguistics)

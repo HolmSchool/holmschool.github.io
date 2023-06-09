@@ -40,8 +40,6 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 * [Economics](#economics)
 * [Stock Market/Capitalism](#stock-marketcapitalism)
 * [Entrepreneurship](#entrepreneurship)
-* [Perlego](#perlego)
-
 
 ### Index Funds
 
@@ -155,14 +153,3 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 * [OpenStax - Business Textbooks](https://openstax.org/subjects/business)
 * [OpenStax - Entrepreneurship](https://openstax.org/details/books/entrepreneurship)
 
-
-### [Perlego](https://holmschool.github.io/perlego-available/)
-
-* [Perlego - Index Funds](https://www.perlego.com/search?query=index%20funds&tab=book&filter=English&page=1)
-* [Perlego - Frugal](https://www.perlego.com/search?query=frugal&tab=topResult&filter=English&page=1)
-* [Perlego - Getting out of debt](https://www.perlego.com/search?query=getting%20out%20of%20debt&tab=book&filter=English&page=1)
-* [Perlego - Entrepreneurship](https://www.perlego.com/browse/business-management/entrepreneurship)
-* [Perlego - Capitalism](https://www.perlego.com/search?query=capitalism&tab=book&filter=English&page=1)
-* [Perlego - Stock Market](https://www.perlego.com/search?query=stock%20market&tab=book&filter=English&page=1)
-* [Perlego - Economics](https://www.perlego.com/search?query=economics&tab=topics&filter=&page=1)
-* [Perlego - Investing & Securities](https://www.perlego.com/browse/business-management/investments-securities)

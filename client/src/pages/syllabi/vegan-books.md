@@ -89,7 +89,3 @@ Free Vegan and Whole Food Plant Based Diet Books
 * [Wasserman, Debra - Simply vegan : quick vegetarian meals](https://archive.org/details/simplyveganquick00debr_0)
 * [Wasserman, Debra - Vegan handbook : over 200 delicious recipes, meal plans, and vegetarian resources for all ages](https://archive.org/details/veganhandbookove00wass)
 * [Weiss, Stefanie - Everything you need to know about being a vegan](https://archive.org/details/everythingyounee0000weis)
-
-
-### [Perlego](https://holmschool.github.io/perlego-available/)
-* [Perlego - Vegan](https://www.perlego.com/search?query=vegan&tab=book&filter=English&page=1)

@@ -24,6 +24,3 @@ A compendium of free college business curricula for self study at no cost.
 ### Accounting
 * [Sacred Heart OER Resource - Accounting](https://digitalcommons.sacredheart.edu/cgi/viewcontent.cgi?article=1047&context=library_staff)
 * [Open Textbook Initiative - Accounting](https://emedia.rmit.edu.au/oer/featured-courses/)
-
-### [Perlego](https://holmschool.github.io/perlego-available/)
-* [Perlego - Business](https://www.perlego.com/search?query=business&tab=topics&filter=&page=1)

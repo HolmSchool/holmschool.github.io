@@ -6,10 +6,6 @@ subject: "Art"
 # bfa_curriculum
 free and open source OER-based bfa degree curriculum focusing on computer art/programming and liberal sciences
 
-## [Perlego](https://holmschool.github.io/perlego-available/)
-* [Perlego - Art](https://www.perlego.com/search?query=art&tab=topics&filter=&page=1)
-* [Perlego - The Arts](https://www.perlego.com/browse/the-arts)
-
 
 ## Unschooling
 Author | Book

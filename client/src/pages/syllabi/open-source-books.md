@@ -84,8 +84,3 @@ Compendium of free books about open source licensing
 * [Vaidhyanathan, Siva - Copyrights and copywrongs : the rise of intellectual property and how it threatens creativity](https://archive.org/details/isbn_9780814788066)
 * [Weber, Steve - The success of open source](https://archive.org/details/successofopensou00webe)
 * [Williams, Sam - Free as in freedom : Richard Stallman's crusade for free software](https://archive.org/details/freeasinfreedomr00will)
-
-
-### [Perlego](https://holmschool.github.io/perlego-available/)
-
-* [Perlego - Open Source](https://www.perlego.com/search?query=open%20source&tab=book&filter=English&page=1)

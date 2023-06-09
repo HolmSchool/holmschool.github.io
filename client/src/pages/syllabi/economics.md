@@ -19,6 +19,3 @@ subject: "Economics"
 * [Sacred Heart OER Resource - Economics](https://digitalcommons.sacredheart.edu/cgi/viewcontent.cgi?article=1047&context=library_staff)
 * [Open Textbook Initiative - Macroeconomics, Microeconomics](https://emedia.rmit.edu.au/oer/featured-courses/)
 
-
-### [Perlego](https://holmschool.github.io/perlego-available/)
-* [Perlego - Economics](https://www.perlego.com/search?query=economics&tab=topics&filter=&page=1)

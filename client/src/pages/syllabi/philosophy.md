@@ -10,7 +10,3 @@ subject: "Philosophy"
 * [Archive.org - Philosophy](https://archive.org/search.php?query=philosophy&and[]=loans__status__status%3A%22UNAVAILABLE%22&and[]=loans__status__status%3A%22AVAILABLE%22)
 * [Saylor.org Legacy - PHILxxx Courses](https://legacy.saylor.org/#courselist)
 
-
-### [Perlego](https://holmschool.github.io/perlego-available/)
-* [Perlego - Philosophy](https://www.perlego.com/search?query=philosophy&tab=topics&filter=&page=1)
-* [Perlego - Philsophy & Theology](https://www.perlego.com/browse/philosophy-theology)

@@ -6,8 +6,6 @@ subject: "Math"
 # Free undergraduate math curriculum
 Free mathematics curriculum aiming to replicate an undergraduate degree in math using Open Education Resources/OpenCourseWare/MOOCs.
 
-## [Perlego](https://holmschool.github.io/perlego-available/)
-* [Perlego - Math](https://www.perlego.com/search?query=math&tab=topics&filter=&page=1)
 
 
 ## Go Ham

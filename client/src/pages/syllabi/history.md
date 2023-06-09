@@ -39,6 +39,3 @@ Lumen | Boundless US History | [Link](https://courses.lumenlearning.com/boundles
 * [EMich - Humanities & History](https://guides.emich.edu/alt-texts/oatexts)
 * [Sacred Heart OER Resource - History](https://digitalcommons.sacredheart.edu/cgi/viewcontent.cgi?article=1047&context=library_staff)
 
-
-## [Perlego](https://holmschool.github.io/perlego-available/)
-* [Perlego - History](https://www.perlego.com/search?query=history&tab=topics&filter=&page=1)

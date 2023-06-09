@@ -42,8 +42,3 @@ Catalog of free books and resources about mental illness
 * Amador, Xavier - I am not sick, I Don't Need Help - How to Help Someone with Mental Illness Accept Treament - [v1](https://archive.org/details/iamnotsickidontn00xavi) & [v2](https://archive.org/details/iamnotsickidontn00amad)
 * [Khan Academy - Mental Health](https://www.khanacademy.org/science/health-and-medicine/mental-health)
 * [OpenStax - Psychology](https://openstax.org/details/books/psychology)
-
-
-### [Perlego](https://holmschool.github.io/perlego-available/)
-* [Perlego - Psychiatric Medicine & Mental Health](https://www.perlego.com/browse/medicine/psychiatric-medicine-mental-health)
-* [Perlego - Mental Illness](https://www.perlego.com/search?query=mental%20illness&tab=book&filter=English&page=1)

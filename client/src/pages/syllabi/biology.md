@@ -14,6 +14,3 @@ subject: "Biology"
 * [Archive.org - Biology](https://archive.org/search.php?query=biology&and[]=loans__status__status%3A%22UNAVAILABLE%22&and[]=loans__status__status%3A%22AVAILABLE%22)
 * [Sacred Heart OER Resource - Biology](https://digitalcommons.sacredheart.edu/cgi/viewcontent.cgi?article=1047&context=library_staff)
 * [Open Textbook Initiative - Anatomy & Physiology, Biology, Environmental Science](https://emedia.rmit.edu.au/oer/featured-courses/)
-
-### [Perlego](https://holmschool.github.io/perlego-available/)
-* [Perlego - Biology](https://www.perlego.com/search?query=biology&tab=topics&filter=&page=1)

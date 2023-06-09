@@ -62,7 +62,3 @@ Yale | [Let This Be a Lesson: Heroes, Heroines, and Narrative in Paintings at Ya
 ### Art Links
 * [Google - Arts and Culture](https://artsandculture.google.com/partner?hl=en&tab=map)
 * [PBS - Art21 - All Seasons](https://art21.org/watch/)
-
-### [Perlego](https://holmschool.github.io/perlego-available/)
-* [Perlego - Art History](https://www.perlego.com/browse/the-arts/art-history)
-* [Perlego - The Arts](https://www.perlego.com/browse/the-arts)
