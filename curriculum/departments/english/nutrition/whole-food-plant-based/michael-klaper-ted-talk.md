@@ -6,6 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=_TokqrtFfi8
 # forumTopicId: 301086
 dashedName: michael-klaper-ted-talk
 ghissue: 11
+menAuthor: Michael Klaper
 ---
 
 # --description--

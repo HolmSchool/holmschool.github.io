@@ -79,15 +79,12 @@ const indexPage = ({ data }) => {
           <hr/>
           <p><strong>Holm School</strong> is an <a href={`https://github.com/HolmSchool`}>open source repo</a> collating hundreds of free college textbooks and lectures for you to use in your self-educational odyssey. Whether that be <Link to={`/syllabi/computer-science`}>learning how to code</Link>, <Link to={`/syllabi/art-history`}>the basics of art history</Link>, <Link to={`/syllabi/hum110`}>years worth of "Great Books"/Humanities reading lists</Link>, <Link to={`/z-degrees`}>or many other academic subjects we group under the banner of "Z-Degrees"</Link>, you'll most likely find something of value -- and at not cost to you! We do this as a means of promoting "<Link to={`/syllabi/computer-science/#holmschooling`}>unschooling</Link>," or more specifically in our case: "holmschooling."</p>
           <hr/>
-          <span><strong>Percent of women authors</strong> in all of our featured open educational resources composing our curricula: <strong>{
+          <span><strong>Percent of women authors</strong> in all the featured open educational resources composing our curricula: <strong>{
             calculateWomenAuthorsPercent(data)}%</strong>
           </span>
           <section className={`large-screen-grid`} css={css`margin-top:24px;`}>
-          <p className={`large-screen-grid-item-left`} css={css`margin-bottom: 0px;grid-column: 0 1;grid-rows: 0 1;`}>
-          <Link to={`/learn/`}><img className={`blocks-img`} src={blocks_ztc} alt={`Curricula`}></img></Link>
-          </p>
-          <p className={`large-screen-grid-item-right`} css={css`margin-bottom: 0px;grid-column: 1 2;grid-rows: 1 2;`}>
-            <Link to={`/learn/`}><img className={`blocks-img`} src={blocks_ztc} alt={`Z-Degrees`}></img></Link>
+          <p className={`large-screen-grid-item-center`} css={css`margin-bottom: 0px;grid-column: span 2;grid-rows: span 1;text-align:center;`}>
+          <Link to={`/learn/`}><p css={css`margin:0;padding:0;`}>Curriculum</p><img className={`blocks-img`} src={blocks_ztc} alt={`Curricula`}></img></Link>
           </p>
           <p className={`large-screen-grid-item-left`} css={css`margin-bottom: 0px;grid-column: 0 1;grid-rows: 0 1;`}>
           <Link to={`/syllabi/computer-science/`}><img className={`blocks-img`} src={blocks_cs} alt={`Computer Science`}></img></Link>
@@ -298,7 +295,7 @@ let mapGenderField = (data, field) => {
   return data.allChallengeNode.edges.map(({node}) => {
     console.log(node.challenge);
     if (!!node.challenge[field]) {
-      return node.challenge[field].split(",").map(x => x.trim());
+      return node.challenge[field].split(",").map(x => x.toLowerCase().trim());
 
     } else {
       return []
@@ -312,14 +309,13 @@ let calculateWomenAuthorsPercent = (data) => {
   let womenSet = new Set(womenNames.flat(1));
   let menSet = new Set(menNames.flat(1));
 
-  console.log(womenSet);
+  // console.log(womenSet);
   
   let menCount = menSet.size;
   let womenCount = womenSet.size;
 
-  let percent = Math.round((womenCount/(menCount + womenCount)) * 100)
+  let percent = Math.round((womenCount/(menCount + womenCount)) * 1000) / 10
 
-  console.log(percent);
 
   return percent;
 }

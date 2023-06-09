@@ -4,8 +4,9 @@ title: Dr. Caldwell Esselstyn - Prevent and Reverse Heart Disease - The Revoluti
 challengeType: 1
 videoUrl: https://archive.org/search.php?query=external-identifier%3A%22urn%3Aoclc%3Arecord%3A759838487%22
 # forumTopicId: 301086
-dashedName: calwell-esselstyn-prevent-and-reverse-heart-diease-e-reserve
+dashedName: caldwell-esselstyn-prevent-and-reverse-heart-diease-e-reserve
 ghissue: 13
+menAuthor: Caldwell Esselstyn
 ---
 
 # --description--

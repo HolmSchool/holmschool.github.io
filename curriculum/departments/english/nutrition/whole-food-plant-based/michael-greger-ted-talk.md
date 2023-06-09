@@ -6,6 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=k8hgfXmZSHE
 # forumTopicId: 301086
 dashedName: michael-greger-ted-talk
 ghissue: 17
+menAuthor: Michael Greger
 ---
 
 # --description--

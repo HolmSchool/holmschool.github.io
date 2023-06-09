@@ -6,6 +6,7 @@ videoUrl: https://archive.org/search.php?query=external-identifier%3A%22urn%3Aoc
 # forumTopicId: 301086
 dashedName: neal-barnard-reversing-diabetes
 ghissue: 15
+menAuthor: Neal Barnard
 ---
 
 # --description--

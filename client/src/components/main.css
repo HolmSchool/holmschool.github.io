@@ -166,6 +166,8 @@ hr {
         /* grid-template-rows: 262px 262px; */
         /* grid-template-columns: 50% 50%; */
         grid-template-rows: 262px;
+        align-items: center;
+        justify-content: center;
     }
     .large-screen-grid-item-left {
         text-align: right;
@@ -183,5 +185,10 @@ hr {
     .blocks-img {
         width: 250px;
         height: 250px;
+    }
+
+    large-screen-grid-item-center {
+        padding: 0px 6px;
+
     }
 }

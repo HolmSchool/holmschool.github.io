@@ -6,6 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=lXXXygDRyBU
 # forumTopicId: 301086
 dashedName: how-not-to-die-video
 ghissue: 5
+menAuthor: Michael Greger
 ---
 
 # --description--

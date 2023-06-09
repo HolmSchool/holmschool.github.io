@@ -6,6 +6,7 @@ videoUrl: https://archive.org/search.php?query=external-identifier%3A%22urn%3Aoc
 # forumTopicId: 301086
 dashedName: how-not-to-die-e-reserve
 ghissue: 6
+menAuthor: Michael Greger
 ---
 
 # --description--

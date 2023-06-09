@@ -6,6 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=aUaNDDuqmCs
 # forumTopicId: 301086
 dashedName: starch-solution-lecture
 ghissue: 2
+menAuthor: John McDougall
 ---
 
 # --description--

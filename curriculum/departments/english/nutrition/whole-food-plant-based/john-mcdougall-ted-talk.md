@@ -6,6 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=d5wfMNNr3ak
 # forumTopicId: 301086
 dashedName: john-mcdougall-ted-talk
 ghissue: 18
+menAuthor: John McDougall
 ---
 
 # --description--

@@ -6,6 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=ktQzM2IA-qU
 # forumTopicId: 301086
 dashedName: neal-barnard-ted-talk
 ghissue: 14
+menAuthor: Neal Barnard
 ---
 
 # --description--

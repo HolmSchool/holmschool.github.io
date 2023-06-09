@@ -6,6 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=gMdSUB-Lbp8
 # forumTopicId: 301086
 dashedName: eating-you-alive
 ghissue: 19
+menAuthor: Paul David Kennamer Jr.
 ---
 
 # --description--

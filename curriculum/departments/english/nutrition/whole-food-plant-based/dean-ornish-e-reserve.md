@@ -6,6 +6,7 @@ videoUrl: https://archive.org/search.php?query=external-identifier%3A%22urn%3Aoc
 # forumTopicId: 301086
 dashedName: dean-ornish-e-reserve
 ghissue: 20
+menAuthor: Dean Ornish
 ---
 
 # --description--

@@ -6,6 +6,7 @@ videoUrl: https://nutritionfacts.org/topics/dr-walter-kempner/
 # forumTopicId: 301086
 dashedName: nutrition-facts-rice-diet-playlist
 ghissue: 8
+menAuthor: Michael Greger
 ---
 
 # --description--

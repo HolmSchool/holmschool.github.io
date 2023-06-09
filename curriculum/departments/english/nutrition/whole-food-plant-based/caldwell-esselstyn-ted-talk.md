@@ -4,8 +4,9 @@ title: Dr. Caldwell Esselstyn - TED Talk
 challengeType: 0
 videoUrl: https://www.youtube.com/watch?v=EqKNfyUPzoU
 # forumTopicId: 301086
-dashedName: calwell-esselstyn-ted-talk
+dashedName: caldwell-esselstyn-ted-talk
 ghissue: 12
+menAuthor: Caldwell Esselstyn
 ---
 
 # --description--

@@ -6,6 +6,7 @@ videoUrl: https://www.drmcdougall.com/newsletters/walter-kempner-md-founder-of-t
 # forumTopicId: 301086
 dashedName: mcdougall-newsletter-kempner-rice-diet
 ghissue: 9
+menAuthor: John McDougall
 ---
 
 # --description--

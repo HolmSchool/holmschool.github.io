@@ -6,6 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=plpiRcVMbg0
 # forumTopicId: 301086
 dashedName: mcdougall-rice-diet-youtube
 ghissue: 10
+menAuthor: John McDougall
 ---
 
 # --description--

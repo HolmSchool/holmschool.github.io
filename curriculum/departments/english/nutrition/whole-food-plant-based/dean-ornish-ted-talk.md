@@ -6,6 +6,7 @@ videoUrl: https://www.youtube.com/watch?v=QYmInK5xo6g
 # forumTopicId: 301086
 dashedName: dean-ornish-ted-talk
 ghissue: 18
+menAuthor: Dean Ornish
 ---
 
 # --description--
