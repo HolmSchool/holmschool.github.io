@@ -195,14 +195,14 @@ const header = ({ children }) => (
                   Scholarship
               </Link> */}
               
-                <Link
+                {/* <Link
                   to={`/blog/`}
                   activeStyle={{ textDecoration: "underline" }}
                   css={[css`
               `, navItem]}
                 >
                   Blog
-             </Link>
+             </Link> */}
              {/* <Link
                   to={`/about/`}
                   activeStyle={{ textDecoration: "underline" }}
