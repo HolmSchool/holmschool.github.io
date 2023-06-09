@@ -168,7 +168,7 @@ const header = ({ children }) => (
                     >
                       Z-Degrees
                   </Link>
-                <Link
+                {/* <Link
                   to={`/guide/`}
 
                   css={[css`
@@ -177,7 +177,7 @@ const header = ({ children }) => (
                   activeStyle={{ textDecoration: "underline" }}
                 >
                   Guide
-              </Link>
+              </Link> */}
                 {/* <Link
                   to={`/the-open-source-fiduciary/`}
                   activeStyle={{ textDecoration: "underline" }}
