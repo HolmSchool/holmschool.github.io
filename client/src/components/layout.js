@@ -220,7 +220,7 @@ const header = ({ children }) => (
                   FAQ
               </Link> */}
                 <a
-                  href={`https://holmschool.github.io`}
+                  href={`https://github.com/HolmSchool`}
                   css={[css`
               
                `, navItem]}

@@ -82,7 +82,7 @@ const zDegreesPage = ({ data, department }) => (
       margin-top: -22px;
       padding: 10px;
     `}>
-      <h1>Free Learning Curricula by Department</h1>
+      <h1>Free Zero-Textbook-Cost Learning Curricula by Department</h1>
       {/* <h2>Find syllabi of classes with no textbook cost!</h2>
       <p>Z-Degrees are entire college curriculums in a subject that use free textbooks (OER), so that there are no costs to you other than tuition! By compiling z-degrees curriculum in many subjects, Holm School can archive z-degree syllabi without any cost of tuition! You might not get a degree, but you can 'Holm School' your way to a free college education!</p> */}
 
@@ -91,7 +91,7 @@ const zDegreesPage = ({ data, department }) => (
       {data2(data)
         }
     
-    <h5>All these curricula are open source, so please visit our Github page at <a href={`https://holmschool.github.io`}>github.com/HolmSchool/holm-school</a> to contribute to the markdown for each subject! The location of the syllabi directory is <a href={`https://holmschool.github.io/tree/master/src/client/pages/syllabi`}>/src/pages/syllabi/</a>, where you can find the markdown files to edit in your fork. If you need a guide to using Github, I recommend shiffman's <a href={`https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV`}>Git and Github for Poets</a>.</h5>
+    <h5>All these curricula are open source, so please visit our Github page at <a href={`https://holmschool.github.io`}>holmschool.github.io</a> to contribute to the markdown for each subject! The location of the syllabi directory is <a href={`https://holmschool.github.io/tree/master/src/client/pages/syllabi`}>/src/pages/syllabi/</a>, where you can find the markdown files to edit in your fork. If you need a guide to using Github, I recommend shiffman's <a href={`https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV`}>Git and Github for Poets</a>.</h5>
     </div>
     <br></br>
     <div className="bigimages">

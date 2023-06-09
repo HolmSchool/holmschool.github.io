@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
 import { css } from '@emotion/react'
+import { rhythm } from "../utils/typography"
 import Layout from "../components/layout"
 import Helmet from "react-helmet"
 
@@ -14,6 +15,7 @@ import blocks_guide from "../img/blocks_guide.jpg"
 import blocks_blog from "../img/blocks_blog.jpg"
 import blocks_cs from "../img/blocks_cs.jpg"
 import blocks_z_degrees from "../img/blocks_z_degrees.jpg"
+import blocks_ztc from "../img/blocks_ztc.jpg"
 import square_logo_small from "../img/square_logo_small.png"
 
 
@@ -75,9 +77,15 @@ const indexPage = ({ data }) => {
             {/* <p><iframe width="60%" height="315" src="https://www.youtube.com/embed/FmRZp2OLFAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> */}
             </section>
           <hr/>
-          <p><strong>Holm School</strong> is an <a href={`https://holmschool.github.io`}>open source repo</a> collating hundreds of free college textbooks and lectures for you to use in your self-educational odyssey. Whether that be <Link to={`/syllabi/computer-science`}>learning how to code</Link>, <Link to={`/syllabi/art-history`}>the basics of art history</Link>, <Link to={`/syllabi/hum110`}>years worth of "Great Books"/Humanities reading lists</Link>, <Link to={`/z-degrees`}>or many other academic subjects we group under the banner of "Z-Degrees"</Link>, you'll most likely find something of value -- and at not cost to you! We do this as a means of promoting "<Link to={`/syllabi/computer-science/#holmschooling`}>unschooling</Link>," or more specifically in our case: "holmschooling."</p>
+          <p><strong>Holm School</strong> is an <a href={`https://github.com/HolmSchool`}>open source repo</a> collating hundreds of free college textbooks and lectures for you to use in your self-educational odyssey. Whether that be <Link to={`/syllabi/computer-science`}>learning how to code</Link>, <Link to={`/syllabi/art-history`}>the basics of art history</Link>, <Link to={`/syllabi/hum110`}>years worth of "Great Books"/Humanities reading lists</Link>, <Link to={`/z-degrees`}>or many other academic subjects we group under the banner of "Z-Degrees"</Link>, you'll most likely find something of value -- and at not cost to you! We do this as a means of promoting "<Link to={`/syllabi/computer-science/#holmschooling`}>unschooling</Link>," or more specifically in our case: "holmschooling."</p>
           <hr/>
           <section className={`large-screen-grid`} css={css`margin-top:24px;`}>
+          <p className={`large-screen-grid-item-left`} css={css`margin-bottom: 0px;grid-column: 0 1;grid-rows: 0 1;`}>
+          <Link to={`/learn/`}><img className={`blocks-img`} src={blocks_ztc} alt={`Curricula`}></img></Link>
+          </p>
+          <p className={`large-screen-grid-item-right`} css={css`margin-bottom: 0px;grid-column: 1 2;grid-rows: 1 2;`}>
+            <Link to={`/z-degrees/`}><img className={`blocks-img`} src={blocks_ztc} alt={`Z-Degrees`}></img></Link>
+          </p>
           <p className={`large-screen-grid-item-left`} css={css`margin-bottom: 0px;grid-column: 0 1;grid-rows: 0 1;`}>
           <Link to={`/syllabi/computer-science/`}><img className={`blocks-img`} src={blocks_cs} alt={`Computer Science`}></img></Link>
           </p>
@@ -104,7 +112,7 @@ const indexPage = ({ data }) => {
           <p><Link to={`/bootstrap-your-computer-science-career/`}>Bootstrap Your Computer Science Career</Link></p>
           <p><Link to={`/pay-in-cash/`}>What it Means to Pay for College in Cash</Link></p>
           <p><Link to={`/youth-importance-avoid-debt/`}>Why Youth is the Most Important Time to Avoid Debt, And That Includes Student Loans</Link></p> */}
-          {/* <h3>Latest Blog Posts:</h3>
+          <h3>Latest Blog Posts:</h3>
           <section>
             {data.allMarkdownRemark.edges.slice(0, 5).map(({ node }) => (
               <div key={node.id}>
@@ -138,9 +146,9 @@ const indexPage = ({ data }) => {
                 </Link>
               </div>
             ))}
-          <p>>> <Link to={`/blog`}>All Blog Posts</Link></p>
+          <p> <Link to={`/blog`}>All Blog Posts</Link></p>
           </section>
-          <hr/> */}
+          <hr/>
           
           {/* <span className={`anchor`} id={`Course`}></span> */}
           {/* <h2>Holm School - A Free Computer Science Course using Open Educational Resources and OpenCourseWare</h2> */}
