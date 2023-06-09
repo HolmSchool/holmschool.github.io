@@ -65,7 +65,7 @@ const zDegreesPage = ({ data }) => (
       {data2(data)
         }
     
-    <h5>All these curricula are open source, so please visit our Github page at <a href={`https://holmschool.github.io`}>holmschool.github.io</a> to contribute to the markdown for each subject! The location of the syllabi directory is <a href={`https://holmschool.github.io/tree/master/src/client/pages/syllabi`}>/src/pages/syllabi/</a>, where you can find the markdown files to edit in your fork. If you need a guide to using Github, I recommend shiffman's <a href={`https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV`}>Git and Github for Poets</a>.</h5>
+    <h5>All these curricula are open source, so please visit our Github page at <a href={`https://github.com/holmschool`}>github.com/holmschool</a> to contribute to the markdown for each subject! The location of the syllabi directory is <a href={`https://github.com/holmschool/holmschool.github.io/tree/main/client/src/pages/syllabi`}>/src/pages/syllabi/</a>, where you can find the markdown files to edit in your fork. If you need a guide to using Github, I recommend shiffman's <a href={`https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV`}>Git and Github for Poets</a>.</h5>
     </div>
     <br></br>
     <div className="bigimages">

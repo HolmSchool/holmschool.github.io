@@ -6,8 +6,8 @@ import Layout from "../components/layout"
 import { css } from '@emotion/react'
 import { rhythm } from "../utils/typography"
 
-import birger_sandzen from "../img/IMG_1745_1.jpg"
-import hammershoi from "../img/1_8Q2KA3EYTOCY2BxNgO2iNQ.jpg"
+import marie_victoire_lemoine from "../img/DP320098.jpg"
+import joy_laborer from "../img/HSW_WCM_1968_787-001.jpg"
 
 
 let groupBy = (data, key) => {
@@ -73,7 +73,7 @@ const zDegreesPage = ({ data, department }) => (
       <meta name="description" content="Discover what 'Z-Degrees' are, and how they provide a university curriculum or class for zero cost of textbooks by using OER and OCW."/>
     </Helmet>
     <div className={`bigimages`} css={css`margin-top: 70px;@media screen and (min-width: 800px) { margin-top: 48px;}`}>
-      <img src={birger_sandzen} width="100%" alt="Painting 'The Old Mill' by Birger Sandzen, 1929" />
+      <img src={marie_victoire_lemoine} width="100%" alt="The Interior of an Atelier of a Woman Painter by Marie Victoire Lemoine (1789)" />
     </div>
 
     <div css={css`
@@ -82,7 +82,7 @@ const zDegreesPage = ({ data, department }) => (
       margin-top: -22px;
       padding: 10px;
     `}>
-      <h1>Free Zero-Textbook-Cost Learning Curricula by Department</h1>
+      <h1>Free "Zero-Textbook-Cost" Learning Curricula by Department</h1>
       {/* <h2>Find syllabi of classes with no textbook cost!</h2>
       <p>Z-Degrees are entire college curriculums in a subject that use free textbooks (OER), so that there are no costs to you other than tuition! By compiling z-degrees curriculum in many subjects, Holm School can archive z-degree syllabi without any cost of tuition! You might not get a degree, but you can 'Holm School' your way to a free college education!</p> */}
 
@@ -91,11 +91,12 @@ const zDegreesPage = ({ data, department }) => (
       {data2(data)
         }
     
-    <h5>All these curricula are open source, so please visit our Github page at <a href={`https://holmschool.github.io`}>holmschool.github.io</a> to contribute to the markdown for each subject! The location of the syllabi directory is <a href={`https://holmschool.github.io/tree/master/src/client/pages/syllabi`}>/src/pages/syllabi/</a>, where you can find the markdown files to edit in your fork. If you need a guide to using Github, I recommend shiffman's <a href={`https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV`}>Git and Github for Poets</a>.</h5>
+    <h5>All these curricula are open source, so please visit our Github page at <a href={`https://github.com/holmschool`}>github.com/holmschool</a> to contribute to the markdown for each subject! The location of the syllabi directory is <a href={`https://github.com/holmschool/holmschool.github.io/tree/main/client/src/pages/syllabi`}>/src/pages/syllabi/</a>, where you can find the markdown files to edit in your fork. If you need a guide to using Github, I recommend shiffman's <a href={`https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV`}>Git and Github for Poets</a>.</h5>
     </div>
     <br></br>
     <div className="bigimages">
-      <img src={hammershoi} alt="Painting 'Sunshine in the Drawingroom III' by Vilhelm Hammershøi, 1905" width="100%" className={css`margin-bottom: 0px;`} />
+      <img src={joy_laborer} alt="Joy and the Labourer by Mary Young Hunter (1905)
+" width="100%" className={css`margin-bottom: 0px;`} />
     </div>
 
   </Layout>
