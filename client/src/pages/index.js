@@ -84,7 +84,7 @@ const indexPage = ({ data }) => {
           <Link to={`/learn/`}><img className={`blocks-img`} src={blocks_ztc} alt={`Curricula`}></img></Link>
           </p>
           <p className={`large-screen-grid-item-right`} css={css`margin-bottom: 0px;grid-column: 1 2;grid-rows: 1 2;`}>
-            <Link to={`/z-degrees/`}><img className={`blocks-img`} src={blocks_ztc} alt={`Z-Degrees`}></img></Link>
+            <Link to={`/learn/`}><img className={`blocks-img`} src={blocks_ztc} alt={`Z-Degrees`}></img></Link>
           </p>
           <p className={`large-screen-grid-item-left`} css={css`margin-bottom: 0px;grid-column: 0 1;grid-rows: 0 1;`}>
           <Link to={`/syllabi/computer-science/`}><img className={`blocks-img`} src={blocks_cs} alt={`Computer Science`}></img></Link>
