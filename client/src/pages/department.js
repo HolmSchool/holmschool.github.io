@@ -3,6 +3,7 @@ import Helmet from 'react-helmet';
 
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
+import OpenSourceNotice from "../components/OpenSourceNotice/openSourceNotice"
 import { css } from '@emotion/react'
 
 import anne_vallayer_coster_1 from "../img/554cd43cd0dca256eb9447308cabc1cc26326ecc3cf79bcd81a7f68d2a50.jpg"
@@ -86,7 +87,7 @@ const departmentPage = ({ data, pageContext }) => (
       {data2(data)}
         
     
-    <h5>All these curricula are open source, so please visit our Github page at <a href={`https://github.com/holmschool`}>github.com/holmschool</a> to contribute to the markdown for each subject! The location of the syllabi directory is <a href={`https://github.com/holmschool/holmschool.github.io/tree/main/client/src/pages/syllabi`}>/src/pages/syllabi/</a>, where you can find the markdown files to edit in your fork. If you need a guide to using Github, I recommend shiffman's <a href={`https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV`}>Git and Github for Poets</a>.</h5>
+    <OpenSourceNotice></OpenSourceNotice>
     </div>
     <br></br>
     <div className="bigimages">

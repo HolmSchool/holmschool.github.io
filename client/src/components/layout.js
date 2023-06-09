@@ -400,7 +400,7 @@ const header = ({ children }) => (
             </div>
           </div>
         </div>
-        <div className={`main-text`}>
+        <div className={`main-text`} css={css`padding-top:28px;`}>
           {children}
         </div>
         <div css={css`
