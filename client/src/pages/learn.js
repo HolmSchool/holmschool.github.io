@@ -39,11 +39,22 @@ let mapGroupByDictionary = (node) =>
 
 let data2 = (data) => data3(groupBy(data.allChallengeNode.edges.map(({ node }) => (mapGroupByDictionary(node))
   ), 'subject'))
+
+let index = (data) => makeIndex(groupBy(data.allChallengeNode.edges.map(({ node }) => (mapGroupByDictionary(node))), 'subject'))
+
+let makeIndex = (data3) => Object.keys(data3).map(objKey => 
+  
+  <p key={objKey}><a href={`#${cleanIds(objKey)}`}>{`${objKey}`}</a></p>
+)
+
+let cleanIds = string => string.replaceAll(" ", "-")
+
+
   
 let data3 = (data3) => Object.keys(data3).map(objKey =>
 <div key={objKey}>
-  {console.log(data3[objKey])}
-  <h2 key={objKey.replaceAll(" ", "-")} id={objKey.replaceAll(" ", "-")}><strong><Link css={css`color: #000;`} to={data3[objKey][0].departmentSlug}>{objKey}</Link></strong></h2>
+  {/* {console.log(data3[objKey])} */}
+  <h2 key={objKey.replaceAll(" ", "-")} id={cleanIds(objKey)}><strong><Link css={css`color: #000;`} to={data3[objKey][0].departmentSlug}>{objKey}</Link></strong></h2>
   {data3[objKey].map(order => 
   <h3
       css={css`
@@ -83,13 +94,18 @@ const zDegreesPage = ({ data, department }) => (
       padding: 10px;
     `}>
       <h1>Free "Zero-Textbook-Cost" Learning Curricula by Department</h1>
-      {/* <h2>Find syllabi of classes with no textbook cost!</h2>
-      <p>Z-Degrees are entire college curriculums in a subject that use free textbooks (OER), so that there are no costs to you other than tuition! By compiling z-degrees curriculum in many subjects, Holm School can archive z-degree syllabi without any cost of tuition! You might not get a degree, but you can 'Holm School' your way to a free college education!</p> */}
+      <h2>Find syllabi of classes with no textbook cost!</h2>
 
-
-      {/* <h1>Z-Degree Subjects</h1> */}
+      <hr></hr>
+      <div>
+        <h1>Departments:</h1>
+        {index(data)}
+      </div>
+      <hr></hr>
+      <h1>Classes by Departments:</h1>
       {data2(data)
         }
+        <hr></hr>
     
     <h5>All these curricula are open source, so please visit our Github page at <a href={`https://github.com/holmschool`}>github.com/holmschool</a> to contribute to the markdown for each subject! The location of the syllabi directory is <a href={`https://github.com/holmschool/holmschool.github.io/tree/main/client/src/pages/syllabi`}>/src/pages/syllabi/</a>, where you can find the markdown files to edit in your fork. If you need a guide to using Github, I recommend shiffman's <a href={`https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV`}>Git and Github for Poets</a>.</h5>
     </div>

@@ -13,6 +13,3 @@ subject: "Psychology"
 * [Sacred Heart OER Resource - Psychology](https://digitalcommons.sacredheart.edu/cgi/viewcontent.cgi?article=1047&context=library_staff)
 * [Open Textbook Initiative - Psychology](https://emedia.rmit.edu.au/oer/featured-courses/)
 
-
-### [Perlego](https://holmschool.github.io/perlego-available/)
-* [Perlego - Psychology](https://www.perlego.com/search?query=psychology&tab=topics&filter=&page=1)
