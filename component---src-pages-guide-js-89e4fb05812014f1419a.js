@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkholm_school=self.webpackChunkholm_school||[]).push([[998],{357:function(c,e,a){e.Z=a.p+"static/2020903_KMS6990-2e32b8ee13ae94ab9a6217abc07113cc.jpg"},1233:function(c,e,a){e.Z=a.p+"static/the-royal-palace-church-in-copenhagen-1910-95910b7e58c3a8396c458d74d8d51fe3.jpg"}}]);
+//# sourceMappingURL=component---src-pages-guide-js-89e4fb05812014f1419a.js.map
