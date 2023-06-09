@@ -265,7 +265,7 @@ const header = ({ children }) => (
                   color: #96d7af;
                  }
                `}>
-              Holm School::2022::Lunix::Live Free or Die
+              Holm School::CC0 2023::Linux::Live Free or Die
               <br/>
              </span>
              

@@ -78,20 +78,24 @@ const zDegreesPage = ({ data }) => (
 export default zDegreesPage;
 
 export const query = graphql`
-  query {
-    allMarkdownRemark(filter: {fields: {isSyllabus: {eq: true}}}, sort: { fields: [frontmatter___subject, frontmatter___title], order: [ASC, ASC] }) {
-      edges {
-        node {
-          id
-          frontmatter {
-            title
-            subject
-          }
-          fields {
-            slug
-          }
+query ZDegrees {
+  allMarkdownRemark(
+    filter: {fields: {isSyllabus: {eq: true}}}
+    sort: [{frontmatter: {subject: ASC}}, {frontmatter: {title: ASC}}]
+  ) {
+    edges {
+      node {
+        id
+        frontmatter {
+          title
+          subject
+        }
+        fields {
+          slug
         }
       }
     }
   }
+}
+
 `

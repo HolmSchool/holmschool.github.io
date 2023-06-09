@@ -15,10 +15,10 @@ let renderButton = (videoUrl) => {
         <a href={videoUrl} target={`_blank`} ><button css={css`
         &,
         &:after {
-          width: 150px;
+          width: 120px;
           height: 76px;
           line-height: 78px;
-          font-size: 20px;
+          font-size: 16px;
           font-family: 'Bebas Neue', sans-serif;
           background: linear-gradient(45deg, transparent 5%, #96d7af 5%);
           border: 0;

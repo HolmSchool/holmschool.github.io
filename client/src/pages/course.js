@@ -61,27 +61,28 @@ export default coursePage;
 // TODO: ADD ORDERING
 export const query = graphql`
 query getLesson($department: String, $course: String) {
-    allChallengeNode(
-      filter: {challenge: {superBlock: {eq: $department}, block: {eq: $course}}},
-      sort: {fields: [challenge___challengeOrder], order: ASC }
-    ) {
-      edges {
-        node {
-          challenge {
-            block
-            department
-            superBlock
-            title
-            fields {
-              slug
-              blockName
-            }
-            challengeOrder
+  allChallengeNode(
+    filter: {challenge: {superBlock: {eq: $department}, block: {eq: $course}}}
+    sort: {challenge: {challengeOrder: ASC}}
+  ) {
+    edges {
+      node {
+        challenge {
+          block
+          department
+          superBlock
+          title
+          fields {
+            slug
+            blockName
           }
+          challengeOrder
         }
       }
     }
   }
+}
+
 
     
 `;

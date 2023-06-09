@@ -170,11 +170,11 @@ exports.createPages = async ({ graphql, actions }) => {
       }
     })
   })
-  const departments_data = await graphql(`query FirstChallenge {
-    
+  const departments_data = await graphql(`
+  query FirstChallenge {
     allChallengeNode(
-      sort: {fields: [challenge___superBlock, challenge___department, challenge___block, challenge___challengeOrder], order: [ASC, ASC, ASC, ASC] }
-      
+      sort: [{challenge: {superBlock: ASC}}, {challenge: {department: ASC}},
+  {challenge: {block: ASC}}, {challenge: {challengeOrder: ASC}}]
     ) {
       edges {
         node {
@@ -190,9 +190,9 @@ exports.createPages = async ({ graphql, actions }) => {
           }
         }
       }
-      
     }
   }
+  
 `)
 
   const key = 'superBlock';

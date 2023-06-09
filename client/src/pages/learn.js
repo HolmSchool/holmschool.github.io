@@ -105,28 +105,24 @@ const zDegreesPage = ({ data, department }) => (
 export default zDegreesPage;
 
 export const query = graphql`
-  query FirstChallenge {
-    
-    allChallengeNode(
-      sort: {fields: [challenge___superBlock], order: ASC }
-      
-    ) {
-      edges {
-        node {
-          challenge {
-            block
-            department
-            superBlock
-            title
-            fields {
-              slug
-              blockName
-            }
-            order
+query FirstChallenge {
+  allChallengeNode(sort: {challenge: {superBlock: ASC}}) {
+    edges {
+      node {
+        challenge {
+          block
+          department
+          superBlock
+          title
+          fields {
+            slug
+            blockName
           }
+          order
         }
       }
-      
     }
   }
+}
+
 `;

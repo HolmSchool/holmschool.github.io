@@ -100,30 +100,32 @@ const departmentPage = ({ data, pageContext }) => (
 export default departmentPage;
 
 export const query = graphql`
-query ($department: String) {
-    allChallengeNode(
-      filter: {challenge: {superBlock: {eq: $department}}},
-      sort: {fields: [challenge___superBlock, challenge___department, challenge___order, challenge___block, challenge___challengeOrder], order: [ASC, ASC, ASC, ASC, ASC] }
-    ) {
-      edges {
-        node {
-          challenge {
-            block
-            department
-            superBlock
-            name
-            title
-            order
-            challengeOrder
-            fields {
-              slug
-              blockName
-            }
+query departmentPage($department: String) {
+  allChallengeNode(
+    filter: {challenge: {superBlock: {eq: $department}}}
+    sort: [{challenge: {superBlock: ASC}}, {challenge: {department: ASC}},
+{challenge: {order: ASC}}, {challenge: {block: ASC}}, {challenge:
+{challengeOrder: ASC}}]
+  ) {
+    edges {
+      node {
+        challenge {
+          block
+          department
+          superBlock
+          name
+          title
+          order
+          challengeOrder
+          fields {
+            slug
+            blockName
           }
         }
       }
     }
   }
+}
 
     
 `;

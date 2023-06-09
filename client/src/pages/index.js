@@ -231,35 +231,39 @@ const indexPage = ({ data }) => {
 export default indexPage;
 
 export const query = graphql`
-  query IndexQuery {
-    allMarkdownRemark(filter: {fields: {isSyllabus: {eq: false}}}, sort: { fields: [frontmatter___date], order: DESC }) {
-      totalCount
-      edges {
-        node {
-          id
-          frontmatter {
-            title
-            date(formatString: "D MMMM, YYYY")
-            blip
-          }
-          fields {
-            slug
-          }
-          excerpt
-          wordCount {
-            words
-          }
+query IndexQuery {
+  allMarkdownRemark(
+    filter: {fields: {isSyllabus: {eq: false}}}
+    sort: {frontmatter: {date: DESC}}
+  ) {
+    totalCount
+    edges {
+      node {
+        id
+        frontmatter {
+          title
+          date(formatString: "D MMMM, YYYY")
+          blip
+        }
+        fields {
+          slug
+        }
+        excerpt
+        wordCount {
+          words
         }
       }
     }
-    markdownRemark(fields: {slug: {eq: "/computer-science/"}}) {
-      html
-      fields {
-        slug
-      }
-      frontmatter {
-        title
-      }
+  }
+  markdownRemark(fields: {slug: {eq: "/computer-science/"}}) {
+    html
+    fields {
+      slug
+    }
+    frontmatter {
+      title
     }
   }
+}
+
 `
