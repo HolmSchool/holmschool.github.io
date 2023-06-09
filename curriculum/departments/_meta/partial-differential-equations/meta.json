@@ -1,0 +1,48 @@
+{
+    "name": "Partial Differential Equations",
+    "isUpcomingChange": false,
+    "dashedName": "partial-differential-equations",
+    "order": 150,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424feff041111101",
+            "lucquin-pdes-1"
+        ],
+        [
+            "5a9d726c424feff041111102",
+            "lucquin-pdes-2"
+        ],
+        [
+            "5a9d726c424feff041111103",
+            "lucquin-pdes-3"
+        ],
+        [
+            "5a9d726c424feff041111104",
+            "lucquin-pdes-4"
+        ],
+        [
+            "5a9d726c424feff041111105",
+            "lucquin-pdes-5"
+        ],
+        [
+            "5a9d726c424feff041111106",
+            "lucquin-pdes-6"
+        ],
+        [
+            "5a9d726c424feff041111107",
+            "lucquin-pdes-7"
+        ],
+        [
+            "5a9d726c424feff041111108",
+            "lucquin-pdes-8"
+        ],
+        [
+            "5a9d726c424feff041111109",
+            "lucquin-pdes-9"
+        ]
+    ]}

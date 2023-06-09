@@ -1,0 +1,17 @@
+{
+    "name": "Symbolic Logic",
+    "isUpcomingChange": false,
+    "dashedName": "symbolic-logic",
+    "order": 43,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0k1111101",
+            "chakraborti-symbolic-logic"
+        ]
+
+    ]}

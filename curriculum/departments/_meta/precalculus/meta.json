@@ -1,0 +1,122 @@
+{
+    "name": "Precalculus",
+    "isUpcomingChange": false,
+    "dashedName": "precalculus",
+    "order": 20,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0j2111101",
+            "pierce-precalc"
+        ],
+        [
+            "5a9d726c424fe3d0e2111111",
+            "investigations-1"
+        ],
+        [
+            "5a9d726c424fe3d0e3111101",
+            "openstax-1"
+        ],
+        [
+            "5a9d726c424fe3d0e4111101",
+            "cuny-1"
+        ],
+        
+        [
+            "5a9d726c424fe3d0e2111112",
+            "investigations-2"
+        ],
+        [
+            "5a9d726c424fe3d0e3111102",
+            "openstax-2"
+        ],
+        [
+            "5a9d726c424fe3d0e2111113",
+            "investigations-3"
+        ],
+        [
+            "5a9d726c424fe3d0e3111103",
+            "openstax-3"
+        ],
+        [
+            "5a9d726c424fe3d0e4111102",
+            "cuny-2"
+        ],
+        [
+            "5a9d726c424fe3d0e2111114",
+            "investigations-4"
+        ],
+        [
+            "5a9d726c424fe3d0e3111104",
+            "openstax-4"
+        ],
+        [
+            "5a9d726c424fe3d0e4111103",
+            "cuny-3"
+        ],
+        [
+            "5a9d726c424fe3d0e2111115",
+            "investigations-5"
+        ],
+        [
+            "5a9d726c424fe3d0e3111105",
+            "openstax-5"
+        ],
+        [
+            "5a9d726c424fe3d0e4111104",
+            "cuny-4"
+        ],
+        [
+            "5a9d726c424fe3d0e2111116",
+            "investigations-6"
+        ],
+        [
+            "5a9d726c424fe3d0e3111106",
+            "openstax-6"
+        ],
+        [
+            "5a9d726c424fe3d0e2111117",
+            "investigations-7"
+        ],
+        [
+            "5a9d726c424fe3d0e3111107",
+            "openstax-7"
+        ],
+        [
+            "5a9d726c424fe3d0e2111118",
+            "investigations-8"
+        ],
+        [
+            "5a9d726c424fe3d0e3111108",
+            "openstax-8"
+        ],
+        [
+            "5a9d726c424fe3d0e2111119",
+            "investigations-9"
+        ],
+        [
+            "5a9d726c424fe3d0e3111109",
+            "openstax-9"
+        ],
+        [
+            "5a9d726c424fe3d0e3111110",
+            "openstax-10"
+        ],
+        [
+            "5a9d726c424fe3d0e3111111",
+            "openstax-11"
+        ],
+        [
+            "5a9d726c424fe3d0e4111105",
+            "cuny-5"
+        ],
+        [
+            "5a9d726c424fe3d0e3111112",
+            "openstax-12"
+        ]
+
+    ]}

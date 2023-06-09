@@ -1,0 +1,89 @@
+{
+    "name": "Scientific Computing",
+    "isUpcomingChange": false,
+    "dashedName": "scientific-computing",
+    "order": 90,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fi9d0k1111101",
+            "matlab-modeling-1"
+        ],
+        [
+            "5a9d726c424fi9d0k1111102",
+            "matlab-modeling-2"
+        ],
+        [
+            "5a9d726c424fi9d0k1111103",
+            "matlab-modeling-3"
+        ],
+        [
+            "5a9d726c424fi9d0k1111104",
+            "matlab-modeling-4"
+        ],
+        [
+            "5a9d726c424fi9d0k1111105",
+            "matlab-modeling-5"
+        ],
+        [
+            "5a9d726c424fi9d0k1111106",
+            "matlab-modeling-6"
+        ],
+        [
+            "5a9d726c424fi9d0k1111107",
+            "matlab-modeling-7"
+        ],
+        [
+            "5a9d726c424fiff011111101",
+            "intro-hpc-1"
+        ],
+        [
+            "5a9d726c424fiff011111102",
+            "intro-hpc-2"
+        ],
+        [
+            "5a9d726c424fiff011111103",
+            "intro-hpc-3"
+        ],
+        [
+            "5a9d726c424fiff011111104",
+            "intro-hpc-4"
+        ],
+        [
+            "5a9d726c424fiff011111105",
+            "intro-hpc-5"
+        ],
+        [
+            "5a9d726c424fiff011111106",
+            "intro-hpc-6"
+        ],
+        [
+            "5a9d726c424fiff011111107",
+            "intro-hpc-7"
+        ],
+        [
+            "5a9d726c424fiff011111108",
+            "intro-hpc-8"
+        ],
+        [
+            "5a9d726c424fiff011111109",
+            "intro-hpc-9"
+        ],
+        [
+            "5a9d726c424fiff011111110",
+            "intro-hpc-10"
+        ],
+        [
+            "5a9d726c424fiff011111111",
+            "intro-hpc-11"
+        ],
+        [
+            "5a9d726c424fiff011111112",
+            "intro-hpc-12"
+        ]
+
+    ]}

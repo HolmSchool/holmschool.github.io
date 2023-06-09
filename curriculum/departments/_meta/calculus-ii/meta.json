@@ -1,0 +1,40 @@
+{
+    "name": "Calculus II",
+    "isUpcomingChange": false,
+    "dashedName": "calculus-ii",
+    "order": 40,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0e3111206",
+            "green-calculus-ii"
+        ],
+        [
+            "5a9d726c424fe3d0g8111101",
+            "brehm-calculus-ii"
+        ],
+        [
+            "5a9d726c424fe3d0i7111101",
+            "pierce-calc-ii"
+        ],
+        [
+            "5a9d726c424fe3d0e3111106",
+            "apex-6"
+        ],
+        [
+            "5a9d726c424fe3d0e3111107",
+            "apex-7"
+        ],
+        [
+            "5a9d726c424fe3d0e3111108",
+            "apex-8"
+        ],
+        [
+            "5a9d726c424fe3d0e3111109",
+            "apex-9"
+        ]
+    ]}

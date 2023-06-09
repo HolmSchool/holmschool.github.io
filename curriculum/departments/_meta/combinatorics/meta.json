@@ -1,0 +1,92 @@
+{
+    "name": "Combinatorics",
+    "isUpcomingChange": false,
+    "dashedName": "combinatorics",
+    "order": 47,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0g4111201",
+            "brehm-combinatorics"
+        ],
+        [
+            "5a9d726c424fi9d0k2111101",
+            "morris-combinatorics-1"
+        ],
+        [
+            "5a9d726c424fi9d0k2111102",
+            "morris-combinatorics-2"
+        ],
+        [
+            "5a9d726c424fi9d0k2111103",
+            "morris-combinatorics-3"
+        ],
+        [
+            "5a9d726c424fi9d0k2111104",
+            "morris-combinatorics-4"
+        ],
+        [
+            "5a9d726c424fi9d0k2111105",
+            "morris-combinatorics-5"
+        ],
+        [
+            "5a9d726c424fi9d0k2111106",
+            "morris-combinatorics-6"
+        ],
+        [
+            "5a9d726c424fi9d0k2111107",
+            "morris-combinatorics-7"
+        ],
+        [
+            "5a9d726c424fi9d0k2111108",
+            "morris-combinatorics-9"
+        ],
+        [
+            "5a9d726c424fi9d0k2111109",
+            "morris-combinatorics-9"
+        ],
+        [
+            "5a9d726c424fi9d0k2111110",
+            "morris-combinatorics-10"
+        ],
+        [
+            "5a9d726c424fi9d0k2111111",
+            "morris-combinatorics-11"
+        ],
+        [
+            "5a9d726c424fi9d0k2111112",
+            "morris-combinatorics-12"
+        ],
+        [
+            "5a9d726c424fi9d0k2111113",
+            "morris-combinatorics-13"
+        ],
+        [
+            "5a9d726c424fi9d0k2111114",
+            "morris-combinatorics-14"
+        ],
+        [
+            "5a9d726c424fi9d0k2111115",
+            "morris-combinatorics-15"
+        ],
+        [
+            "5a9d726c424fi9d0k2111116",
+            "morris-combinatorics-16"
+        ],
+        [
+            "5a9d726c424fi9d0k2111117",
+            "morris-combinatorics-17"
+        ],
+        [
+            "5a9d726c424fi9d0k2111118",
+            "morris-combinatorics-18"
+        ],
+        [
+            "5a9d726c424fi9d0k2111119",
+            "morris-combinatorics-19"
+        ]
+    ]}

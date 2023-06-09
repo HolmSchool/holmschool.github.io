@@ -1,0 +1,44 @@
+{
+    "name": "Gay",
+    "isUpcomingChange": false,
+    "dashedName": "gay",
+    "order": 20,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "lgbt",
+    "department": "LGBT",
+    "challengeOrder": [
+        [
+            "5a9d723c324aa3f2f1111101",
+            "intro-to-lgbt-studies"
+        ],
+        [
+            "5a9d723c324aa3f2f1111102",
+            "intro-to-human-sexuality"
+        ],
+        [
+            "5a9d723c324aa3f2f1111103",
+            "american-lgbt-movement"
+        ],
+        [
+            "5a9d723c324aa3f2f1111113",
+            "black-like-us"
+        ],
+        [
+            "5a9d723c324aa3f2f1111118",
+            "biological-exuberance"
+        ],
+        [
+            "5a9d723c324aa3f2f1111117",
+            "inland-empire-guide-to-gay"
+        ],
+        [
+            "5a9d723c324aa3f2f1111110",
+            "this-book-is-gay"
+        ],
+        [
+            "5a9d726c424aa3f2f1111105",
+            "on-a-sunbeam"
+        ]
+    ]}

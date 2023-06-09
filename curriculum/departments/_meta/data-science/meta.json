@@ -1,0 +1,129 @@
+{
+    "name": "Data Science",
+    "isUpcomingChange": false,
+    "dashedName": "data-science",
+    "order": 48,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d071111101",
+            "julia-data-1"
+        ],
+        [
+            "5a9d726c424fe3d071111102",
+            "julia-data-2"
+        ],
+        [
+            "5a9d726c424fe3d071111103",
+            "julia-data-3"
+        ],
+        [
+            "5a9d726c424fe3d071111104",
+            "julia-data-4"
+        ],
+        [
+            "5a9d726c424fe3d071111105",
+            "julia-data-5"
+        ],
+        [
+            "5a9d726c424fe3f071111101",
+            "julia-academy-data-science"
+        ],
+        [
+            "5a9d726c424fe3d101111101",
+            "intro-data-science-igual-1"
+        ],
+        [
+            "5a9d726c424fe3d101111102",
+            "intro-data-science-igual-2"
+        ],
+        [
+            "5a9d726c424fe3d101111103",
+            "intro-data-science-igual-3"
+        ],
+        [
+            "5a9d726c424fe3d101111104",
+            "intro-data-science-igual-4"
+        ],
+        [
+            "5a9d726c424fe3d101111105",
+            "intro-data-science-igual-5"
+        ],
+        [
+            "5a9d726c424fe3d101111106",
+            "intro-data-science-igual-6"
+        ],
+        [
+            "5a9d726c424fe3d101111107",
+            "intro-data-science-igual-7"
+        ],
+        [
+            "5a9d726c424fe3d101111108",
+            "intro-data-science-igual-8"
+        ],
+        [
+            "5a9d726c424fe3d101111109",
+            "intro-data-science-igual-9"
+        ],
+        [
+            "5a9d726c424fe3d101111110",
+            "intro-data-science-igual-10"
+        ],
+        [
+            "5a9d726c424fe3d101111111",
+            "intro-data-science-igual-11"
+        ],
+        [
+            "5a9d726c424fe3d091111101",
+            "data-science-algorithms-1"
+        ],
+        [
+            "5a9d726c424fe3d091111102",
+            "data-science-algorithms-2"
+        ],
+        [
+            "5a9d726c424fe3d091111103",
+            "data-science-algorithms-3"
+        ],
+        [
+            "5a9d726c424fe3d091111104",
+            "data-science-algorithms-4"
+        ],
+        [
+            "5a9d726c424fe3d091111105",
+            "data-science-algorithms-5"
+        ],
+        [
+            "5a9d726c424fe3d091111106",
+            "data-science-algorithms-6"
+        ],
+        [
+            "5a9d726c424fe3d091111107",
+            "data-science-algorithms-7"
+        ],
+        [
+            "5a9d726c424fe3d091111108",
+            "data-science-algorithms-8"
+        ],
+        [
+            "5a9d726c424fe3d091111109",
+            "data-science-algorithms-9"
+        ],
+        [
+            "5a9d726c424fe3d091111110",
+            "data-science-algorithms-10"
+        ],
+        [
+            "5a9d726c424fe3d091111111",
+            "data-science-algorithms-11"
+        ],
+        [
+            "5a9d726c424fe3d091111112",
+            "data-science-algorithms-12"
+        ]
+
+    ]}

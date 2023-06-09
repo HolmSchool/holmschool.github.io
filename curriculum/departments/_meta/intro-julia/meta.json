@@ -1,0 +1,29 @@
+{
+    "name": "Intro to Julia",
+    "isUpcomingChange": false,
+    "dashedName": "intro-julia",
+    "order": 52,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424feff301111101",
+            "learn-julia-with-us"
+        ],
+        [
+            "5a9d726c424feff201111101",
+            "intro-julia-herriman"
+        ],
+        [
+            "5a9d726c424feff201111101",
+            "julia-nervous-beginners"
+        ],
+        [
+            "5a9d726c424feff101111101",
+            "think-julia"
+        ]
+
+    ]}

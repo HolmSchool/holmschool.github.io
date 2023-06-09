@@ -1,0 +1,120 @@
+{
+    "name": "Books on Tape",
+    "isUpcomingChange": false,
+    "dashedName": "books-on-tape",
+    "order": 5,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "english-as-an-additional-language",
+    "department": "English As An Additional Language",
+    "challengeOrder": [
+        [
+            "6a9d726c424feaa11111130",
+            "archive-sesame-street"
+        ],
+        [
+            "6a9d726c424feaa11111114",
+            "archive-grade-childrens"
+        ],
+        [
+            "6a9d726c424feaa11111119",
+            "youtube-kids-audio-books"
+        ],
+        [
+            "6a9d726c424feaa11111120",
+            "disney-read-along"
+        ],
+        [
+            "6a9d726c424feaa11111121",
+            "anibooks"
+        ],
+        [
+            "6a9d726c424feaa11111122",
+            "kidtimestorytime"
+        ],
+        [
+            "6a9d726c424feaa11111123",
+            "storytime-ryan-craig"
+        ],
+        [
+            "6a9d726c424feaa11111124",
+            "tru-adventures"
+        ],
+        [
+            "6a9d726c424feaa11111125",
+            "brightly-storytime"
+        ],
+        [
+            "6a9d726c424feaa11111116",
+            "storynory"
+        ],
+        [
+            "6a9d726c424feaa11111117",
+            "librivox"
+        ],
+        [
+            "6a9d726c424feaa11111103",
+            "archive-grade-3"
+        ],
+        [
+            "6a9d726c424feaa11111133",
+            "archive-roald-dahl"
+        ],
+        [
+            "6a9d726c424feaa11111104",
+            "archive-grade-4"
+        ],
+        [
+            "6a9d726c424feaa11111131",
+            "archive-scholastic"
+        ],
+        [
+            "6a9d726c424feaa11111105",
+            "archive-grade-5"
+        ],
+        [
+            "6a9d726c424feaa11111127",
+            "greatest-audiobooks-childrens"
+        ],
+        [
+            "6a9d726c424feaa11111106",
+            "archive-grade-6"
+        ],
+        [
+            "6a9d726c424feaa11111118",
+            "lit2go"
+        ],
+        [
+            "6a9d726c424feaa11111107",
+            "archive-grade-7"
+        ],
+        [
+            "6a9d726c424feaa11111108",
+            "archive-grade-8"
+        ],
+        [
+            "6a9d726c424feaa11111109",
+            "archive-grade-9"
+        ],
+        [
+            "6a9d726c424feaa11111110",
+            "archive-grade-10"
+        ],
+        [
+            "6a9d726c424feaa11111111",
+            "archive-grade-11"
+        ],
+        [
+            "6a9d726c424feaa11111126",
+            "greatest-audiobooks"
+        ],
+        [
+            "6a9d726c424feaa11111112",
+            "archive-grade-12"
+        ],
+        [
+            "6a9d726c424feaa11111113",
+            "archive-grade-adult"
+        ]
+    ]}

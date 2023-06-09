@@ -1,0 +1,49 @@
+{
+    "name": "Calculus III",
+    "isUpcomingChange": false,
+    "dashedName": "calculus-iii",
+    "order": 42,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0i9111101",
+            "pierce-calc-iii"
+        ],
+        [
+            "5a9d726c424fe3d0n2111101",
+            "clp-3-calc-iii-1"
+        ],
+        [
+            "5a9d726c424fe3d0n2111102",
+            "clp-3-calc-iii-2"
+        ],
+        [
+            "5a9d726c424fe3d0n2111103",
+            "clp-3-calc-iii-3"
+        ],
+        [
+            "5a9d726c424fe3d0e3111110",
+            "apex-10"
+        ],
+        [
+            "5a9d726c424fe3d0e3111111",
+            "apex-11"
+        ],
+        [
+            "5a9d726c424fe3d0e3111112",
+            "apex-12"
+        ],
+        [
+            "5a9d726c424fe3d0e3111113",
+            "apex-13"
+        ],
+        [
+            "5a9d726c424fe3d0e3111114",
+            "apex-14"
+        ]
+
+    ]}

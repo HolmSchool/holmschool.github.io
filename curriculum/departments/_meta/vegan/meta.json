@@ -1,0 +1,41 @@
+{
+    "name": "Veganism",
+    "isUpcomingChange": false,
+    "dashedName": "vegan",
+    "order": 1,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "lifestyle",
+    "department": "Lifestyle",
+    "challengeOrder": [
+      [
+        "5a9d726c424fe3d0e10cad33",
+        "Pattrice Jones"
+      ],
+      [
+        "5a9d726c424fe3f2f1111113",
+        "vegan-way"
+      ],
+      [
+        "5a9d726c424fe3f2f1111114",
+        "vegan-cheatsheet"
+      ],
+      [
+        "5a9d726c424fe3f2f1111115",
+        "becoming-vegan"
+      ],
+      [
+        "5a9d726c424fe3f2f1111116",
+        "vegan-goodness"
+      ],
+      [
+        "5a9d726c424fe3f2f1111117",
+        "easy-to-start-eating-vegan"
+      ],
+      [
+        "5a9d726c424fe3f2f1111118",
+        "power-vegan"
+      ]
+
+    ]}

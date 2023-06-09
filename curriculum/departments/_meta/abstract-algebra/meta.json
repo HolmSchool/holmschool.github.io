@@ -1,0 +1,72 @@
+{
+    "name": "Abstract Algebra",
+    "isUpcomingChange": false,
+    "dashedName": "abstract-algebra",
+    "order": 80,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0g3111101",
+            "brehm-abstract-algebra"
+        ],
+        [
+            "5a9d726c424fe3d0i4111101",
+            "pierce-abstract-algebra"
+        ],
+        [
+            "5a9d726c424fe5d421111101",
+            "reed-abstract-algebra-1"
+        ],
+        [
+            "5a9d726c424fe5d421111102",
+            "reed-abstract-algebra-2"
+        ],
+        [
+            "5a9d726c424fe5d421111103",
+            "reed-abstract-algebra-3"
+        ],
+        [
+            "5a9d726c424fe5d421111104",
+            "reed-abstract-algebra-4"
+        ],
+        [
+            "5a9d726c424fe5d421111105",
+            "reed-abstract-algebra-5"
+        ],
+        [
+            "5a9d726c424fe5d421111106",
+            "reed-abstract-algebra-6"
+        ],
+        [
+            "5a9d726c424fe5d421111107",
+            "reed-abstract-algebra-7"
+        ],
+        [
+            "5a9d726c424fe5d421111108",
+            "reed-abstract-algebra-8"
+        ],
+        [
+            "5a9d726c424fe5d421111109",
+            "reed-abstract-algebra-9"
+        ],
+        [
+            "5a9d726c424fe5d421111110",
+            "reed-abstract-algebra-10"
+        ],
+        [
+            "5a9d726c424fe5d421111111",
+            "reed-abstract-algebra-11"
+        ],
+        [
+            "5a9d726c424fe5d421111112",
+            "reed-abstract-algebra-12"
+        ],
+        [
+            "5a9d726c424fe5d421111113",
+            "reed-abstract-algebra-13"
+        ]
+    ]}

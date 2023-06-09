@@ -1,0 +1,113 @@
+{
+    "name": "Statistical Learning",
+    "isUpcomingChange": false,
+    "dashedName": "statistical-learning",
+    "order": 49,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d221111101",
+            "stat-learning-1"
+        ],
+        [
+            "5a9d726c424fe3d321111101",
+            "reed-stat-learning-1"
+        ],
+        [
+            "5a9d726c424fe3d221111102",
+            "stat-learning-2"
+        ],
+        [
+            "5a9d726c424fe3d321111102",
+            "reed-stat-learning-2"
+        ],
+        [
+            "5a9d726c424fe3d221111103",
+            "stat-learning-3"
+        ],
+        [
+            "5a9d726c424fe3d321111103",
+            "reed-stat-learning-3"
+        ],
+        [
+            "5a9d726c424fe3d321111104",
+            "reed-stat-learning-4"
+        ],
+        [
+            "5a9d726c424fe3d321111105",
+            "reed-stat-learning-5"
+        ],
+        [
+            "5a9d726c424fe3d221111104",
+            "stat-learning-4"
+        ],
+        [
+            "5a9d726c424fe3d321111106",
+            "reed-stat-learning-6"
+        ],
+        [
+            "5a9d726c424fe3d221111105",
+            "stat-learning-5"
+        ],
+        [
+            "5a9d726c424fe3d321111107",
+            "reed-stat-learning-7"
+        ],
+        [
+            "5a9d726c424fe3d221111106",
+            "stat-learning-6"
+        ],
+        [
+            "5a9d726c424fe3d321111108",
+            "reed-stat-learning-8"
+        ],
+        [
+            "5a9d726c424fe3d321111109",
+            "reed-stat-learning-9"
+        ],
+        [
+            "5a9d726c424fe3d221111107",
+            "stat-learning-7"
+        ],
+        [
+            "5a9d726c424fe3d221111108",
+            "stat-learning-8"
+        ],
+        [
+            "5a9d726c424fe3d321111110",
+            "reed-stat-learning-10"
+        ],
+        [
+            "5a9d726c424fe3d321111111",
+            "reed-stat-learning-11"
+        ],
+        [
+            "5a9d726c424fe3d221111109",
+            "stat-learning-9"
+        ],
+        [
+            "5a9d726c424fe3d221111110",
+            "stat-learning-10"
+        ],
+        [
+            "5a9d726c424fe3d321111112",
+            "reed-stat-learning-12"
+        ],
+        [
+            "5a9d726c424fe3d321111113",
+            "reed-stat-learning-13"
+        ],
+        [
+            "5a9d726c424fe3d321111114",
+            "reed-stat-learning-14"
+        ],
+        [
+            "5a9d726c424fe3d321111115",
+            "reed-stat-learning-15"
+        ]
+
+    ]}

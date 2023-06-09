@@ -1,0 +1,28 @@
+{
+    "name": "College Mathematics",
+    "isUpcomingChange": false,
+    "dashedName": "college-mathematics",
+    "order": 50,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0i3111101",
+            "pierce-intro-college-math"
+        ],
+        [
+            "5a9d726c424fi9d0i9111101",
+            "abstract-math-1"
+        ],
+        [
+            "5a9d726c424fi9d0i9111102",
+            "abstract-math-2"
+        ],
+        [
+            "5a9d726c424fi9d0i9111103",
+            "abstract-math-3"
+        ]
+    ]}

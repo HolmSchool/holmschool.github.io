@@ -1,0 +1,45 @@
+{
+    "name": "Number Theory",
+    "isUpcomingChange": false,
+    "dashedName": "number-theory",
+    "order": 130,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d041111101",
+            "forman-number-theory-1"
+        ],
+        [
+            "5a9d726c424fe3d041111102",
+            "forman-number-theory-2"
+        ],
+        [
+            "5a9d726c424fe3d021111103",
+            "forman-number-theory-3"
+        ],
+        [
+            "5a9d726c424fe3d021111104",
+            "forman-number-theory-4"
+        ],
+        [
+            "5a9d726c424fe3d021111105",
+            "forman-number-theory-5"
+        ],
+        [
+            "5a9d726c424fe3d021111106",
+            "forman-number-theory-6"
+        ],
+        [
+            "5a9d726c424fe3d021111107",
+            "forman-number-theory-7"
+        ],
+        [
+            "5a9d726c424fe3d021111108",
+            "forman-number-theory-8"
+        ]
+
+    ]}

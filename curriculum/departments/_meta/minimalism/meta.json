@@ -1,0 +1,20 @@
+{
+    "name": "Minimalism",
+    "isUpcomingChange": false,
+    "dashedName": "minimalism",
+    "order": 50,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "lifestyle",
+    "department": "Lifestyle",
+    "challengeOrder": [
+        [
+            "5a9d723c324aa3f2f1111107",
+            "leo-babauta-simple-guide-to-minimalist-life"
+        ],
+        [
+            "5a9d723c324aa3f2f1111108",
+            "leo-babauta-zen-habits"
+        ]
+    ]}

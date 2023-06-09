@@ -1,0 +1,20 @@
+{
+    "name": "Trans",
+    "isUpcomingChange": false,
+    "dashedName": "trans",
+    "order": 30,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "lgbt",
+    "department": "LGBT",
+    "challengeOrder": [
+        [
+            "5a9d726c424ab3f2f1111106",
+            "casey-plett-safe-girl-to-love"
+        ],
+        [
+            "5a9d726c424ab3f2f1111107",
+            "the-collection"
+        ]
+    ]}

@@ -1,0 +1,140 @@
+{
+    "name": "Whole Food, Plant-based Nutrition",
+    "isUpcomingChange": false,
+    "dashedName": "whole-food-plant-based",
+    "order": 1,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "nutrition",
+    "department": "Nutrition",
+    "challengeOrder": [
+      [
+        "5a9d726c424fe3f2f1111101",
+        "fok-plan"
+      ],
+      [
+        "5a9d726c424fe3f2f1111102",
+        "china-all-star"
+      ],
+      [
+        "5a9d726c424fe3f2f1111103",
+        "china-study-cookbook"
+      ],
+      [
+        "5a9d726c424fe3f2f1111104",
+        "complete-idiots-plant-based"
+      ],
+      [
+        "5a9d726c424fe3f2f1111105",
+        "naked-food-magazine"
+      ],
+      [
+        "5a9d726c424fe3f2f1111106",
+        "vegan-vitality"
+      ],
+      [
+        "5a9d726c424fe3f2f1111107",
+        "plant-powered-for-life"
+      ],
+      [
+        "5a9d726c424fe3f2f1111108",
+        "great-vegan-bean-book"
+      ],
+      [
+        "5a9d726c424fe3f2f1111109",
+        "plantpure-nation-cookbook"
+      ],
+      [
+        "5a9d726c424fe3f2f1111110",
+        "plant-based-journey"
+      ],
+      [
+        "5a9d726c424fe3f2f1111111",
+        "plant-based-life"
+      ],
+      [
+        "5a9d726c424fe3f2f1111112",
+        "a-life-in-balance"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad16",
+        "Forks Over Knives"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad17",
+        "Dr. Michael Greger - How Not to Die YouTube"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad18",
+        "Dr. Michael Greger - How Not to Die E-Reserve"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad11",
+        "Starch Solution by John McDougall"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad12",
+        "Starch Solution by John McDougall E-Reserve"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad19",
+        "Dr. Walter Kempner Rice Diet Playlist"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad20",
+        "Dr. John McDougall - Dr. Walter Kempner Rice Diet Newsletter"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad21",
+        "Dr. Michael Klaper - TED talk"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad22",
+        "Dr. Caldwell Esselstyn - TED talk"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad23",
+        "Dr. Caldwell Esselstyn - Dr. Walter Kempner Rice Diet YouTube"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad23",
+        "Dr. Caldwell Esselstyn - Dr. Walter Kempner Rice Diet YouTube"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad24",
+        "Dr. Neal Barnard - TED Talk"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad25",
+        "Dr. Neal Barnard - Reversing Diabetes E-Reserve"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad26",
+        "Forks Over Knives - The Plant Based Way to Health E-Reserve"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad27",
+        "Dr. Michael Greger - TED Talk"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad28",
+        "Dr. John McDougall - TED Talk"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad29",
+        "Dr. Dean Ornish - TED Talk"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad30",
+        "Dr. Dean Ornish - The Spectrum"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad31",
+        "Eating You Alive Documentary"
+      ],
+      [
+        "5a9d726c424fe3d0e10cad34",
+        "Dr. Joel Fuhrman TED Talk"
+      ]
+    ]}

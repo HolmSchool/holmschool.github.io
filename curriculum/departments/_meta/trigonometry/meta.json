@@ -1,0 +1,53 @@
+{
+    "name": "Trigonometry",
+    "isUpcomingChange": false,
+    "dashedName": "trigonometry",
+    "order": 10,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0e6111101",
+            "trigonometry-yoshiwara-1"
+        ],
+        [
+            "5a9d726c424fe3d0e6111102",
+            "trigonometry-yoshiwara-2"
+        ],
+        [
+            "5a9d726c424fe3d0e6111103",
+            "trigonometry-yoshiwara-3"
+        ],
+        [
+            "5a9d726c424fe3d0e6111104",
+            "trigonometry-yoshiwara-4"
+        ],
+        [
+            "5a9d726c424fe3d0e6111105",
+            "trigonometry-yoshiwara-5"
+        ],
+        [
+            "5a9d726c424fe3d0e6111106",
+            "trigonometry-yoshiwara-6"
+        ],
+        [
+            "5a9d726c424fe3d0e6111107",
+            "trigonometry-yoshiwara-7"
+        ],
+        [
+            "5a9d726c424fe3d0e6111108",
+            "trigonometry-yoshiwara-8"
+        ],
+        [
+            "5a9d726c424fe3d0e6111109",
+            "trigonometry-yoshiwara-9"
+        ],
+        [
+            "5a9d726c424fe3d0e6111110",
+            "trigonometry-yoshiwara-10"
+        ]
+
+    ]}

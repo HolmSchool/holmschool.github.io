@@ -1,0 +1,24 @@
+{
+    "name": "Digital Minimalism",
+    "isUpcomingChange": false,
+    "dashedName": "digital-minimalism",
+    "order": 40,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "lifestyle",
+    "department": "Lifestyle",
+    "challengeOrder": [
+        [
+            "5a9d723c324aa3f2f1111104",
+            "cal-newport-tedx"
+        ],
+        [
+            "5a9d723c324aa3f2f1111105",
+            "cal-newport-your-career"
+        ],
+        [
+            "5a9d723c324aa3f2f1111106",
+            "cal-newport-deep-work"
+        ]
+    ]}

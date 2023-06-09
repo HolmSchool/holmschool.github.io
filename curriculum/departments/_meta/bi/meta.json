@@ -1,0 +1,20 @@
+{
+    "name": "Bi",
+    "isUpcomingChange": false,
+    "dashedName": "bi",
+    "order": 50,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "lgbt",
+    "department": "LGBT",
+    "challengeOrder": [
+        [
+            "5a9d723c324aa3f2f1111111",
+            "angela-bowie-bisexuality"
+        ],
+        [
+            "5a9d723c324aa3f2f1111112",
+            "bi-any-other-name"
+        ]
+    ]}

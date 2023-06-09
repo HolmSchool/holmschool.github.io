@@ -1,0 +1,76 @@
+{
+    "name": "Calculus I",
+    "isUpcomingChange": false,
+    "dashedName": "calculus-i",
+    "order": 30,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0h4111101",
+            "brehm-trig-review"
+        ],
+        [
+            "5a9d726c424fe3d0e3111205",
+            "green-calc-i"
+        ],
+        [
+            "5a9d726c424fe3d0h1111101",
+            "brehm-calc-i"
+        ],
+        [
+            "5a9d726c424fe3d0i6111101",
+            "pierce-calc-i"
+        ],
+        [
+            "5a9d726c424fe3d0e5111101",
+            "informal-calculus-1"
+        ],
+        [
+            "5a9d726c424fe3d0e5111102",
+            "informal-calculus-2"
+        ],
+        [
+            "5a9d726c424fe3d0e3111101",
+            "apex-1"
+        ],
+        [
+            "5a9d726c424fe3d0e5111103",
+            "informal-calculus-3"
+        ],
+        [
+            "5a9d726c424fe3d0e3111102",
+            "apex-2"
+        ],
+        [
+            "5a9d726c424fe3d0e5111104",
+            "informal-calculus-4"
+        ],
+        [
+            "5a9d726c424fe3d0e3111103",
+            "apex-3"
+        ],
+        [
+            "5a9d726c424fe3d0e3111104",
+            "apex-4"
+        ],
+        [
+            "5a9d726c424fe3d0e5111105",
+            "informal-calculus-5"
+        ],
+        [
+            "5a9d726c424fe3d0e5111106",
+            "informal-calculus-6"
+        ],
+        [
+            "5a9d726c424fe3d0e3111105",
+            "apex-5"
+        ],
+        [
+            "5a9d726c424fe3d0e5111107",
+            "informal-calculus-7"
+        ]
+    ]}

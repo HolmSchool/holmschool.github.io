@@ -1,0 +1,36 @@
+{
+    "name": "Open Science",
+    "isUpcomingChange": false,
+    "dashedName": "open-science",
+    "order": 10,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "open-steam",
+    "department": "Open STEAM",
+    "challengeOrder": [
+      [
+        "5a9d726c424ab3f2f1111141",
+        "open-science-the-very-idea"
+      ],
+      [
+        "5a9d726c424ab3f2f1111142",
+        "open-science-handbook"
+      ],
+      [
+        "5a9d726c424ab3f2f1111143",
+        "open-science-by-design"
+      ],
+      [
+        "5a9d726c424ab3f2f1111144",
+        "opening-science"
+      ],
+      [
+        "5a9d726c424ab3f2f1111145",
+        "simon-benjamin-on-open-science"
+      ],
+      [
+        "5a9d726c424ab3f2f1111150",
+        "nutritionfacts-sci-hub"
+      ]
+    ]}

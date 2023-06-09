@@ -1,0 +1,28 @@
+{
+    "name": "Open Art",
+    "isUpcomingChange": false,
+    "dashedName": "open-art",
+    "order": 10,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "open-steam",
+    "department": "Open STEAM",
+    "challengeOrder": [
+      [
+        "5a9d726c424ab3f2f1111109",
+        "negativland-public-domain"
+      ],
+      [
+        "5a9d726c424ab3f2f1111110",
+        "coding-train"
+      ],
+      [
+        "5a9d726c424ab3f2f1111111",
+        "stem-coding"
+      ],
+      [
+        "5a9d726c424ab3f2f1111112",
+        "csdt"
+      ]
+    ]}

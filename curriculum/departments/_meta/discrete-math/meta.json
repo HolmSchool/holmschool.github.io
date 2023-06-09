@@ -1,0 +1,82 @@
+{
+    "name": "Discrete Mathematics",
+    "isUpcomingChange": false,
+    "dashedName": "discrete-math",
+    "order": 70,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+
+        [
+            "5a9d726c424fe3d0g1111201",
+            "brehm-discrete-1"
+        ],
+        [
+            "5a9d726c424fe3d0g1111202",
+            "brehm-discrete-2"
+        ],
+        
+        [
+            "5a9d726c424fe3d0i2111101",
+            "pierce-discrete"
+        ],
+        [
+            "5a9d726c424fe3d0e3111209",
+            "iit-discrete"
+        ],
+        [
+            "5a9d726c424fe3eb11111101",
+            "discrete-epp-1"
+        ],
+        [
+            "5a9d726c424fe3eb11111101",
+            "discrete-epp-1"
+        ],
+        [
+            "5a9d726c424fe3eb11111102",
+            "discrete-epp-2"
+        ],
+        [
+            "5a9d726c424fe3eb11111103",
+            "discrete-epp-3"
+        ],
+        [
+            "5a9d726c424fe3eb11111104",
+            "discrete-epp-4"
+        ],
+        [
+            "5a9d726c424fe3eb11111105",
+            "discrete-epp-5"
+        ],
+        [
+            "5a9d726c424fe3eb11111106",
+            "discrete-epp-6"
+        ],
+        [
+            "5a9d726c424fe3eb11111107",
+            "discrete-epp-7"
+        ],
+        [
+            "5a9d726c424fe3eb11111108",
+            "discrete-epp-8"
+        ],
+        [
+            "5a9d726c424fe3eb11111109",
+            "discrete-epp-9"
+        ],
+        [
+            "5a9d726c424fe3eb11111110",
+            "discrete-epp-10"
+        ],
+        [
+            "5a9d726c424fe3eb11111111",
+            "discrete-epp-11"
+        ],
+        [
+            "5a9d726c424fe3eb11111112",
+            "discrete-epp-12"
+        ]
+    ]}

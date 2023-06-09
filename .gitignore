@@ -1,0 +1,6 @@
+node_modules/
+launch.json
+client/node_modules/
+client/.cache/
+client/public
+.vscode/

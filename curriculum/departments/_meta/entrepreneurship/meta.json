@@ -1,0 +1,16 @@
+{
+    "name": "Entrepreneurship",
+    "isUpcomingChange": false,
+    "dashedName": "entrepreneurship",
+    "order": 5,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "business",
+    "department": "Business",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0f1111101",
+            "intro-to-entrepreneurship"
+        ]
+    ]}

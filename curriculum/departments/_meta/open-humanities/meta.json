@@ -1,0 +1,16 @@
+{
+    "name": "Open Humanities",
+    "isUpcomingChange": false,
+    "dashedName": "open-humanities",
+    "order": 10,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "open-steam",
+    "department": "Open STEAM",
+    "challengeOrder": [
+      [
+        "5a9d726c424ab3f2f1111146",
+        "open-access-and-the-humanities"
+      ]
+    ]}

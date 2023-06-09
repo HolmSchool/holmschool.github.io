@@ -1,0 +1,84 @@
+{
+    "name": "Differential Equations",
+    "isUpcomingChange": false,
+    "dashedName": "differential-equations",
+    "order": 65,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0h6111101",
+            "diffyq-pierce"
+        ],
+        [
+            "5a9d726c424feaf021111101",
+            "perko-diffyq-1"
+        ],
+        [
+            "5a9d726c424fe5d321111101",
+            "reed-diffyq-1"
+        ],
+        [
+            "5a9d726c424fe5d321111102",
+            "reed-diffyq-2"
+        ],
+        [
+            "5a9d726c424fe5d321111103",
+            "reed-diffyq-3"
+        ],
+        [
+            "5a9d726c424fe5d321111104",
+            "reed-diffyq-4"
+        ],
+        [
+            "5a9d726c424fe5d321111105",
+            "reed-diffyq-5"
+        ],
+        [
+            "5a9d726c424feaf021111102",
+            "perko-diffyq-2"
+        ],
+        [
+            "5a9d726c424fe5d321111106",
+            "reed-diffyq-6"
+        ],
+        [
+            "5a9d726c424fe5d321111107",
+            "reed-diffyq-7"
+        ],
+        [
+            "5a9d726c424fe5d321111108",
+            "reed-diffyq-8"
+        ],
+        [
+            "5a9d726c424fe5d321111109",
+            "reed-diffyq-9"
+        ],
+        [
+            "5a9d726c424feaf021111103",
+            "perko-diffyq-3"
+        ],
+        [
+            "5a9d726c424fe5d321111110",
+            "reed-diffyq-10"
+        ],
+        [
+            "5a9d726c424fe5d321111111",
+            "reed-diffyq-11"
+        ],
+        [
+            "5a9d726c424fe5d321111112",
+            "reed-diffyq-12"
+        ],
+        [
+            "5a9d726c424fe5d321111113",
+            "reed-diffyq-13"
+        ],
+        [
+            "5a9d726c424feaf021111104",
+            "perko-diffyq-4"
+        ]
+    ]}

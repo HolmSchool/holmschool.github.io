@@ -1,0 +1,40 @@
+{
+    "name": "Complex Analysis",
+    "isUpcomingChange": false,
+    "dashedName": "complex-analysis",
+    "order": 110,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0k5111101",
+            "coursera-complex"
+        ],
+        [
+            "5a9d726c424fe3d0k4111101",
+            "explorations-complex-1"
+        ],
+        [
+            "5a9d726c424fe3d0k4111102",
+            "explorations-complex-2"
+        ],
+        [
+            "5a9d726c424fe3d0k4111103",
+            "explorations-complex-3"
+        ],
+        [
+            "5a9d726c424fe3d0k4111104",
+            "explorations-complex-4"
+        ],
+        [
+            "5a9d726c424fe3d0k4111105",
+            "explorations-complex-5"
+        ],
+        [
+            "5a9d726c424fe3d0k4111106",
+            "explorations-complex-6"
+        ]
+    ]}

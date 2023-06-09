@@ -1,0 +1,28 @@
+{
+    "name": "Intersectionality",
+    "isUpcomingChange": false,
+    "dashedName": "intersectionality",
+    "order": 30,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "feminism",
+    "department": "Feminism",
+    "challengeOrder": [
+        [
+            "5a99726c425ab3f2f1111103",
+            "pattrice-jones-intersectionality-and-animal-rights"
+        ],
+        [
+            "5a99726c425ab3f2f1111101",
+            "pattrice-jones-intersectionality"
+        ],
+        [
+            "5a9d726c424ab3f2f1111104",
+            "suzanne-pharr-homophobia-a-weapon-of-sexism"
+        ],
+        [
+            "5a99726c425ab3f2f1111102",
+            "pattrice-jones-animal-rights-intersectionality"
+        ]
+    ]}

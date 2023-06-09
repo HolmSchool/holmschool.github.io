@@ -1,0 +1,20 @@
+{
+    "name": "Feminist Sex Education / Consent",
+    "isUpcomingChange": false,
+    "dashedName": "feminist-sex-education",
+    "order": 30,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "feminism",
+    "department": "Feminism",
+    "challengeOrder": [
+        [
+            "5a9d723c324aa3f2f1111114",
+            "scarleteen"
+        ],
+        [
+            "5a9d723c324aa3f2f1111115",
+            "queer-sexual-assault"
+        ]
+    ]}

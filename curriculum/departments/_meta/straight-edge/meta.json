@@ -1,0 +1,64 @@
+{
+    "name": "Straight Edge",
+    "isUpcomingChange": false,
+    "dashedName": "straight-edge",
+    "order": 30,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "lifestyle",
+    "department": "Lifestyle",
+    "challengeOrder": [
+        [
+            "5a9d78d5a24fe3f2f1111102",
+            "sober-living-for-the-revolution"
+        ],
+        [
+            "5a9d78d5a24fe3f2f1111101",
+            "gabriel-kuhn-radical-sobriety"
+        ],
+        [
+            "5a9d78d5a24fe3f2f1111104",
+            "anarchy-and-alcohol"
+        ],
+        [
+            "5a9d78d5a24fe3f2f1111103",
+            "towards-a-less-fucked-up-world"
+        ],
+        [
+            "5a9d78d5a24fe3f2f1111105",
+            "minor-threat-7-inches"
+        ],
+        [
+            "5a9d78d5a24fe3f2f1111106",
+            "fugazi-13-songs"
+        ],
+        [
+            "5a9d78d5a24fe3f2f1111107",
+            "edge-the-movie-ian-mackaye"
+        ],
+        [
+            "5a9d78d5a24fe3f2f1111108",
+            "robert-lustig-hacking-american-mind"
+        ],
+        [
+            "5a9d78d5a24fe3f2f1111109",
+            "deadly-persuasion"
+        ],
+        [
+            "5a9d78d5a24fe3f2f1111110",
+            "calling-the-shots"
+        ],
+        [
+            "5a9d78d5a24fe3f2f1111111",
+            "pack-of-lies"
+        ],
+        [
+            "5a9d78d5a24fe3f2f1111112",
+            "spin-the-bottle"
+        ],
+        [
+            "5a9d78d5a24fe3f2f111115",
+            "interview-with-jean-kilbourne"
+        ]
+    ]}

@@ -1,0 +1,16 @@
+{
+    "name": "Lesbian",
+    "isUpcomingChange": false,
+    "dashedName": "lesbian",
+    "order": 60,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "lgbt",
+    "department": "LGBT",
+    "challengeOrder": [
+        [
+            "5a9d723c324aa3f2f1111109",
+            "alison-bechdel-fun-home"
+        ]
+    ]}

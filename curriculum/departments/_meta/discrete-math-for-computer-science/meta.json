@@ -1,0 +1,98 @@
+{
+    "name": "Discrete Mathematics for Computer Science",
+    "isUpcomingChange": false,
+    "dashedName": "discrete-math-for-computer-science",
+    "order": 75,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+
+        [
+            "5a9d726c424fe3ea11111101",
+            "hall-discrete-1"
+        ],
+        [
+            "5a9d726c424fe3ea11111102",
+            "hall-discrete-2"
+        ],
+        [
+            "5a9d726c424fe3ea11111103",
+            "hall-discrete-3"
+        ],
+        [
+            "5a9d726c424fe3ea11111104",
+            "hall-discrete-4"
+        ],
+        [
+            "5a9d726c424fe3ea11111105",
+            "hall-discrete-5"
+        ],
+        [
+            "5a9d726c424fe3ea11111106",
+            "hall-discrete-6"
+        ],
+        [
+            "5a9d726c424fe3ea11111107",
+            "hall-discrete-7"
+        ],
+        [
+            "5a9d726c424fe3ea11111108",
+            "hall-discrete-8"
+        ],
+        [
+            "5a9d726c424fe3ea11111109",
+            "hall-discrete-9"
+        ],
+        [
+            "5a9d726c424fe3ea11111110",
+            "hall-discrete-10"
+        ],
+        [
+            "5a9d726c424fe3eb11111101",
+            "gersting-discrete-1"
+
+        ],
+        [
+            "5a9d726c424fe3eb11111102",
+            "gersting-discrete-2"
+
+        ],
+        [
+            "5a9d726c424fe3eb11111103",
+            "gersting-discrete-3"
+
+        ],
+        [
+            "5a9d726c424fe3eb11111104",
+            "gersting-discrete-4"
+
+        ],
+        [
+            "5a9d726c424fe3eb11111105",
+            "gersting-discrete-5"
+
+        ],
+        [
+            "5a9d726c424fe3eb11111106",
+            "gersting-discrete-6"
+
+        ],
+        [
+            "5a9d726c424fe3eb11111107",
+            "gersting-discrete-7"
+
+        ],
+        [
+            "5a9d726c424fe3eb11111108",
+            "gersting-discrete-8"
+
+        ],
+        [
+            "5a9d726c424fe3eb11111109",
+            "gersting-discrete-9"
+
+        ]
+    ]}

@@ -1,0 +1,32 @@
+{
+    "name": "Feminist Art History / Media Criticism",
+    "isUpcomingChange": false,
+    "dashedName": "feminist-art-history",
+    "order": 50,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "feminism",
+    "department": "Feminism",
+    "challengeOrder": [
+        [
+            "5a9d726c424ab3f2f1111102",
+            "guerrilla-girls-guide-art-history"
+        ],
+        [
+            "5a9d78d5a24fe3f2f1111116",
+            "still-killing-us-softly"
+        ],
+        [
+            "5a9d78d5a24fe3f2f1111113",
+            "killing-us-softly-4"
+        ],
+        [
+            "5a9d78d5a24fe3f2f1111114",
+            "slim-hopes"
+        ],
+        [
+            "5a9d78d5a24fe3f2f1111117",
+            "deadly-persuasion"
+        ]
+    ]}

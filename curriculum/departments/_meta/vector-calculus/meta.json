@@ -1,0 +1,28 @@
+{
+    "name": "Vector Calculus",
+    "isUpcomingChange": false,
+    "dashedName": "vector-calculus",
+    "order": 53,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0n1111101",
+            "clp-4-vector-1"
+        ],
+        [
+            "5a9d726c424fe3d0n1111102",
+            "clp-4-vector-2"
+        ],
+        [
+            "5a9d726c424fe3d0n1111103",
+            "clp-4-vector-3"
+        ],
+        [
+            "5a9d726c424fe3d0n1111104",
+            "clp-4-vector-4"
+        ]
+    ]}

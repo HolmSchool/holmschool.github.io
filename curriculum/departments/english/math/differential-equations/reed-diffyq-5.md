@@ -1,0 +1,18 @@
+---
+id: 5a9d726c424fe5d321111105
+title: Ordinary Differential Equations - Reed College MA322 - Week 5
+challengeType: 2
+videoUrl: https://people.reed.edu/~davidp/322/
+# forumTopicId: 301086
+dashedName: reed-diffyq-5
+ghissue: 316
+creator: 
+---
+
+# --description--
+
+Reed College's __Ordinary Differential Equations__ is an math class that teaches Ordinary Differential Equations.
+
+# --instructions--
+
+Complete homework, reading, videos, and assignments for Week Five of Reed College's Ordinary Differential Equations class.

@@ -1,0 +1,68 @@
+{
+    "name": "Open Music",
+    "isUpcomingChange": false,
+    "dashedName": "open-music",
+    "order": 10,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "open-steam",
+    "department": "Open STEAM",
+    "challengeOrder": [
+      [
+        "5a9d726c424ab3f2f1111113",
+        "sonic-pi"
+      ],
+      [
+        "5a9d726c424ab3f2f1111134",
+        "sonic-pi-essentials"
+      ],
+      [
+        "5a9d726c424ab3f2f1111114",
+        "pure-data"
+      ],
+      [
+        "5a9d726c424ab3f2f1111133",
+        "sound-simulator-pure-data"
+      ],
+      [
+        "5a9d726c424ab3f2f1111131",
+        "lwm-pure-data"
+      ],
+      [
+        "5a9d726c424ab3f2f1111121",
+        "floss-manuals-pure-data"
+      ],
+      [
+        "5a9d726c424ab3f2f1111132",
+        "gcginteractivemusic-pure-data"
+      ],
+      [
+        "5a9d726c424ab3f2f1111122",
+        "pure-data-cheetomoskeeto"
+      ],
+      [
+        "5a9d726c424ab3f2f1111130",
+        "obiwannabe"
+      ],
+      [
+        "5a9d726c424ab3f2f1111123",
+        "puckette-computer-music"
+      ],
+      [
+        "5a9d726c424ab3f2f1111120",
+        "technique-electronic-music"
+      ],
+      [
+        "5a9d726c424ab3f2f1111115",
+        "open-goldberg"
+      ],
+      [
+        "5a9d726c424ab3f2f1111116",
+        "open-well-tempered-clavier"
+      ],
+      [
+        "5a9d726c424ab3f2f1111135",
+        "supercollider-mus-499c"
+      ]
+    ]}

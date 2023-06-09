@@ -1,0 +1,56 @@
+{
+    "name": "Introduction to Statistics",
+    "isUpcomingChange": false,
+    "dashedName": "intro-statistics",
+    "order": 45,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0g2111201",
+            "brehm-statistics"
+        ],
+        [
+            "5a9d726c424fe3d0h3111101",
+            "brehm-excel"
+        ],
+        [
+            "5a9d726c424fe3d0j3111101",
+            "pierce-geogebra"
+        ],
+        [
+            "5a9d726c424fe3d0i3111101",
+            "pierce-intro-stats"
+        ],
+        [
+            "5a9d726c424fe3d0i5111101",
+            "pierce-R"
+        ],
+        [
+            "5a9d726c424fe3d0n3111101",
+            "intro-modern-stats-1"
+        ],
+        [
+            "5a9d726c424fe3d0n3111102",
+            "intro-modern-stats-2"
+        ],
+        [
+            "5a9d726c424fe3d0n3111103",
+            "intro-modern-stats-3"
+        ],
+        [
+            "5a9d726c424fe3d0n3111104",
+            "intro-modern-stats-4"
+        ],
+        [
+            "5a9d726c424fe3d0n3111105",
+            "intro-modern-stats-5"
+        ],
+        [
+            "5a9d726c424fe3d0n3111106",
+            "intro-modern-stats-6"
+        ]
+    ]}

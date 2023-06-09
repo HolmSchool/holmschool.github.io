@@ -1,0 +1,88 @@
+{
+    "name": "Topology",
+    "isUpcomingChange": false,
+    "dashedName": "topology",
+    "order": 120,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d011111101",
+            "topology-young-1"
+        ],
+        [
+            "5a9d726c424fe3d011111102",
+            "topology-young-2"
+        ],
+        [
+            "5a9d726c424fe3d011111103",
+            "topology-young-3"
+        ],
+        [
+            "5a9d726c424fe3d011111104",
+            "topology-young-4"
+        ],
+        [
+            "5a9d726c424fe3d011111105",
+            "topology-young-5"
+        ],
+        [
+            "5a9d726c424fe3d011111106",
+            "topology-young-6"
+        ],
+        [
+            "5a9d726c424fe3d011111107",
+            "topology-young-7"
+        ],
+        [
+            "5a9d726c424fe3d011111108",
+            "topology-young-8"
+        ],
+        [
+            "5a9d726c424fe3d021111101",
+            "topology-kinsey-1"
+        ],
+        [
+            "5a9d726c424fe3d021111102",
+            "topology-kinsey-2"
+        ],
+        [
+            "5a9d726c424fe3d021111103",
+            "topology-kinsey-3"
+        ],
+        [
+            "5a9d726c424fe3d021111104",
+            "topology-kinsey-4"
+        ],
+        [
+            "5a9d726c424fe3d021111105",
+            "topology-kinsey-5"
+        ],
+        [
+            "5a9d726c424fe3d021111106",
+            "topology-kinsey-6"
+        ],
+        [
+            "5a9d726c424fe3d021111107",
+            "topology-kinsey-7"
+        ],
+        [
+            "5a9d726c424fe3d021111108",
+            "topology-kinsey-8"
+        ],
+        [
+            "5a9d726c424fe3d021111109",
+            "topology-kinsey-9"
+        ],
+        [
+            "5a9d726c424fe3d021111110",
+            "topology-kinsey-10"
+        ],
+        [
+            "5a9d726c424fe3d021111111",
+            "topology-kinsey-11"
+        ]
+    ]}

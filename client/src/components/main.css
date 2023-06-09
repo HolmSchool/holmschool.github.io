@@ -1,0 +1,180 @@
+
+.logo-text {
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 3em;
+    color: #96d7af;
+    transition: 150ms;
+    transition-timing-function: ease-in-out;
+}
+
+.logo-text:hover {
+    color: #667c7c;
+}
+
+a {
+    color: #667c7c;
+}
+
+.main-text {
+    font-size: 2em;
+    color: black;
+    font-family: 'Philosopher', sans-serif;
+}
+
+#facebook-svg, #twitter-svg, #github-svg, #archive-svg  {
+    transition: 200ms;
+    transition-timing-function: ease-in-out;
+    fill: #96d7af !important;
+    width: 35px;
+    height: 35px;
+}
+
+#twitter-svg:hover, #facebook-svg:hover, #github-svg:hover, #archive-svg:hover {
+    fill: #667c7c !important;
+}
+
+.nav-item {
+    margin-right: 15px;
+}
+
+.bigimages {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+
+/* .course-checkbox:hover {
+    transition: background .4s cubic-bezier(.25,.8,.25,1),box-shadow 280ms cubic-bezier(.4,0,.2,1);
+} */
+
+.subject-name {
+    padding: 16px 0px;
+}
+
+.current {
+    text-decoration: underline;
+}
+
+.form-radio
+{
+     -webkit-appearance: none;
+     -moz-appearance: none;
+     appearance: none;
+     display: inline-block;
+     position: relative;
+     background-color: #f1f1f1;
+     color: #666;
+     top: 0px;
+     height: 30px;
+     width: 30px;
+     border: 0;
+     border-radius: 50px;
+     cursor: pointer;     
+     margin-right: 7px;
+     outline: none;
+     transition-duration: 0.8s;
+     z-index:200;
+}
+.form-radio:checked::before
+{
+     position: absolute;
+     font: 40px/1 "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+     left: 2px;
+     top: -5px;
+     font-weight: bold;
+     color: black;
+
+     content: 'X';
+}
+.form-radio:hover
+{
+     background-color: lightpink;
+     transition-timing-function: ease;
+     transition-duration: 0.4s;
+     
+}
+.form-radio:checked
+{
+    background-color: #96d7af;
+    transform: rotate(720deg);
+    transition-duration: 1s;
+}
+
+.index-menu-buttons {
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter";
+    text-decoration: none;
+    padding: 40px;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid #96d7af;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    box-shadow: 3px 3px lightpink;
+    margin: 1px;
+}
+
+.large-screen-grid-item-left {
+    text-align: center;
+    padding-bottom: 0px;
+}
+.large-screen-grid-item-right {
+   text-align: center;
+   padding-bottom: 0px;
+}
+
+
+.index-menu-buttons:hover {
+    background-color: white;
+    box-shadow: 0px 0px pink;
+    border: 2px solid black;
+    color: #bbb;
+}
+
+hr {
+    color: #12c3c9;
+    background-color: #12c3c9;
+    height: 5px;
+}
+
+.sticky-header {
+    position: fixed;
+    top:0;
+    width:100%;
+    background-color: white;
+    z-index: 300;
+}
+
+/* .anchor.before {
+    display: block;
+    height: 70px;
+    margin-top: -70px;
+    visibility: hidden;
+} */
+
+@media screen and (min-width: 480px) {
+    .large-screen-grid {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        /* grid-template-rows: 262px 262px; */
+        /* grid-template-columns: 50% 50%; */
+        grid-template-rows: 262px;
+    }
+    .large-screen-grid-item-left {
+        text-align: right;
+        padding: 0px 6px;
+    }
+    .large-screen-grid-item-right {
+    text-align: left;
+    padding: 0px 6px;
+    }
+    /* .anchor.before {
+    height: 48px; 
+    margin-top: -48px;
+    } */
+
+    .blocks-img {
+        width: 250px;
+        height: 250px;
+    }
+}

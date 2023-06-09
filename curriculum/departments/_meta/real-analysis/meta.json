@@ -1,0 +1,70 @@
+{
+    "name": "Real Analysis",
+    "isUpcomingChange": false,
+    "dashedName": "real-analysis",
+    "order": 100,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0k3111101",
+            "swanson-analysis-1"
+        ],
+        [
+            "5a9d726c424fe3d0k3111102",
+            "swanson-analysis-2"
+        ],
+        [
+            "5a9d726c424fe3d0k3111103",
+            "swanson-analysis-3"
+        ],
+        [
+            "5a9d726c424fe3d0k3111104",
+            "swanson-analysis-4"
+        ],
+        [
+            "5a9d726c424fe3d0k3111105",
+            "swanson-analysis-5"
+        ],
+        [
+            "5a9d726c424fe3d0k3111106",
+            "swanson-analysis-6"
+        ],
+        [
+            "5a9d726c424fe3d0k3111107",
+            "swanson-analysis-7"
+        ],
+        [
+            "5a9d726c424fe3d0k3111108",
+            "swanson-analysis-8"
+        ],
+        [
+            "5a9d726c424fe3d0k3111109",
+            "swanson-analysis-9"
+        ],
+        [
+            "5a9d726c424fe3d0k2111101",
+            "analysis-lafferrier-1"
+        ],
+        [
+            "5a9d726c424fe3d0k2111102",
+            "analysis-lafferrier-2"
+        ],
+        [
+            "5a9d726c424fe3d0k2111103",
+            "analysis-lafferrier-3"
+        ],
+        [
+            "5a9d726c424fe3d0k2111104",
+            "analysis-lafferrier-4"
+        ],
+        [
+            "5a9d726c424fe3d0k2111105",
+            "analysis-lafferrier-5"
+        ]
+
+
+    ]}

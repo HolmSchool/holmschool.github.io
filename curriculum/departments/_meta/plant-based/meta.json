@@ -1,0 +1,16 @@
+{
+    "name": "Plant-Based Nutrition",
+    "isUpcomingChange": false,
+    "dashedName": "plant-based",
+    "order": 1,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "lifestyle",
+    "department": "Lifestyle",
+    "challengeOrder": [
+      [
+        "5a9d726c424fe3d0e10cad33",
+        "Pattrice Jones"
+      ]
+    ]}

@@ -1,0 +1,84 @@
+{
+    "name": "Linear Algebra",
+    "isUpcomingChange": false,
+    "dashedName": "linear-algebra",
+    "order": 60,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0e1111111",
+            "foundations-to-frontiers"
+        ],
+        [
+            "5a9d726c424fe3d0g7111201",
+            "brehm-linear-algebra"
+        ],
+        [
+            "5a9d726c424fe3d0j1111101",
+            "pierce-matrix-theory"
+        ],
+        [
+            "5a9d726c424fe3d0i1111101",
+            "pierce-linear-algebra"
+        ],
+        [
+            "5a9d726c424fe3d0f4111101",
+            "mit-la-1"
+        ],
+        [
+            "5a9d726c424fe3d0f4111102",
+            "mit-la-2"
+        ],
+        [
+            "5a9d726c424fe3d0f4111103",
+            "mit-la-3"
+        ],
+        [
+            "5a9d726c424fe3d0f4111104",
+            "mit-la-4"
+        ],
+        [
+            "5a9d726c424fe3d061111101",
+            "mcdonald-linear-1"
+        ],
+        [
+            "5a9d726c424fe3d061111102",
+            "mcdonald-linear-2"
+        ],
+        [
+            "5a9d726c424fe3d061111103",
+            "mcdonald-linear-3"
+        ],
+        [
+            "5a9d726c424fe3d061111104",
+            "mcdonald-linear-4"
+        ],
+        [
+            "5a9d726c424fe3d061111105",
+            "mcdonald-linear-5"
+        ],
+        [
+            "5a9d726c424fe3d061111106",
+            "mcdonald-linear-6"
+        ],
+        [
+            "5a9d726c424fe3d061111107",
+            "mcdonald-linear-7"
+        ],
+        [
+            "5a9d726c424fe3d061111108",
+            "mcdonald-linear-8"
+        ],
+        [
+            "5a9d726c424fe3d061111109",
+            "mcdonald-linear-9"
+        ],
+        [
+            "5a9d726c424fe3d061111110",
+            "mcdonald-linear-10"
+        ]
+    ]}

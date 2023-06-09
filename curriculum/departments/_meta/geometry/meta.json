@@ -1,0 +1,64 @@
+{
+    "name": "Geometry",
+    "isUpcomingChange": false,
+    "dashedName": "geometry",
+    "order": 7,
+    "time": "5 hours",
+    "template": "",
+    "required": [],
+    "superBlock": "math",
+    "department": "Math",
+    "challengeOrder": [
+        [
+            "5a9d726c424fe3d0h7111101",
+            "pierce-geometry"
+        ],
+        [
+            "5a9d726c424fe3d0f2111101",
+            "bass-geometry-1"
+        ],
+        [
+            "5a9d726c424fe3d0f2111102",
+            "bass-geometry-2"
+        ],
+        [
+            "5a9d726c424fe3d0f2111103",
+            "bass-geometry-3"
+        ],
+        [
+            "5a9d726c424fe3d0f2111104",
+            "bass-geometry-4"
+        ],
+        [
+            "5a9d726c424fe3d0f2111105",
+            "bass-geometry-5"
+        ],
+        [
+            "5a9d726c424fe3d0f2111106",
+            "bass-geometry-6"
+        ],
+        [
+            "5a9d726c424fe3d0f2111107",
+            "bass-geometry-7"
+        ],
+        [
+            "5a9d726c424fe3d0f2111108",
+            "bass-geometry-8"
+        ],
+        [
+            "5a9d726c424fe3d0f2111109",
+            "bass-geometry-9"
+        ],
+        [
+            "5a9d726c424fe3d0f2111110",
+            "bass-geometry-10"
+        ],
+        [
+            "5a9d726c424fe3d0f2111111",
+            "bass-geometry-11"
+        ],
+        [
+            "5a9d726c424fe3d0f2111112",
+            "bass-geometry-12"
+        ]
+    ]}
