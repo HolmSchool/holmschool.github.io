@@ -47,8 +47,9 @@ html, body {
   // background: linear-gradient(to left, #f46b45, #eea849);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: #96d7af;
-  height: 50px;
-  padding: 1em;
+  // height: 50px;
+  // padding: 1em;
+  
 }
 
 .menu {
@@ -60,9 +61,10 @@ html, body {
 }
 
 .menu > li {
-  margin: 0 1rem;
+  // margin: 0 1rem;
   overflow: hidden;
   font-family: 'Philosopher', sans-serif;
+  
 }
 
 .menu-button-container {
