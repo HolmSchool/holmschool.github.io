@@ -5,8 +5,8 @@ import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import { css } from '@emotion/react'
 
-import birger_sandzen from "../img/IMG_1745_1.jpg"
-import hammershoi from "../img/1_8Q2KA3EYTOCY2BxNgO2iNQ.jpg"
+import hester_bateman from "../img/mh_2005_17_1b_v1.jpg"
+import judith_leyster from "../img/judith-leyster-flute.jpeg"
 
 
 let extractCourse = (datum) => {
@@ -24,7 +24,7 @@ const coursePage = ({ data, pageContext }) => (
       <meta name="description" content="Discover what 'Z-Degrees' are, and how they provide a university curriculum or class for zero cost of textbooks by using OER and OCW."/>
     </Helmet>
     <div className={`bigimages`} css={css`margin-top: 70px;@media screen and (min-width: 800px) { margin-top: 48px;}`}>
-      <img src={birger_sandzen} width="100%" alt="Painting 'The Old Mill' by Birger Sandzen, 1929" />
+      <img src={hester_bateman} width="100%" alt="Teakettle 'George III Teapot Stand' by Hester Bateman, 1784" />
     </div>
 
     <div css={css`
@@ -49,7 +49,7 @@ const coursePage = ({ data, pageContext }) => (
     </div>
     <br></br>
     <div className="bigimages">
-      <img src={hammershoi} alt="Painting 'Sunshine in the Drawingroom III' by Vilhelm Hammershøi, 1905" width="100%" className={css`margin-bottom: 0px;`} />
+      <img src={judith_leyster} alt="Painting 'Boy Playing the Flute' by Judith Leyster, 1630" width="100%" className={css`margin-bottom: 0px;`} />
     </div>
 
   </Layout>

@@ -21,19 +21,19 @@ let renderButtons = (videoUrl, challengeType, id, nextName, nextSlug, prevName, 
     if (challengeType === 0) {
         // Video - No URL
         return (
-        <div css={css`text-align:center;`}>
-            <PreviousButton prevSlug={prevSlug} prevName={prevName}></PreviousButton>&nbsp;&nbsp;&nbsp;
-            <CompleteResourceButton id={id}></CompleteResourceButton>&nbsp;&nbsp;&nbsp;
-            <NextButton nextName={nextName} nextSlug={nextSlug}></NextButton>
+        <div css={css`text-align:center;display:flex;flex-flow: row wrap;justify-content: center;`}>
+            <PreviousButton prevSlug={prevSlug} prevName={prevName} css={css`flex-grow: 1;`}></PreviousButton>&nbsp;&nbsp;&nbsp;
+            <CompleteResourceButton id={id} css={css`flex-grow: 2;`}></CompleteResourceButton>&nbsp;&nbsp;&nbsp;
+            <NextButton nextName={nextName} nextSlug={nextSlug} css={css`flex-grow: 3;`}></NextButton>
         </div>
         )
     }
     return (
-        <div css={css`text-align:center;`}>
-            <PreviousButton prevSlug={prevSlug} prevName={prevName}></PreviousButton>&nbsp;&nbsp;&nbsp;
-            <LaunchResourceButton videoUrl={videoUrl}></LaunchResourceButton>&nbsp;&nbsp;&nbsp;
-            <CompleteResourceButton id={id}></CompleteResourceButton>&nbsp;&nbsp;&nbsp;
-            <NextButton nextName={nextName} nextSlug={nextSlug}></NextButton>
+        <div css={css`text-align:center;display:flex;display:flex;flex-flow: row wrap;justify-content: center;`}>
+            <PreviousButton prevSlug={prevSlug} prevName={prevName} css={css`flex-grow: 1;`}></PreviousButton>&nbsp;&nbsp;&nbsp;
+            <LaunchResourceButton videoUrl={videoUrl} css={css`flex-grow: 2;`}></LaunchResourceButton>&nbsp;&nbsp;&nbsp;
+            <CompleteResourceButton id={id} css={css`flex-grow: 2;`}></CompleteResourceButton>&nbsp;&nbsp;&nbsp;
+            <NextButton nextName={nextName} nextSlug={nextSlug} css={css`flex-grow: 3;`}></NextButton>
         </div>
     );
 }

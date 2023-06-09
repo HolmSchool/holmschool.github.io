@@ -12,10 +12,10 @@ class LaunchResourceButton extends React.Component {
 
 let renderButton = (videoUrl) => {
     return (
-        <a href={videoUrl} target={`_blank`} ><button css={css`
+        <a href={videoUrl} target={`_blank`}><button css={css`
         &,
         &:after {
-          width: 120px;
+          width: 200px;
           height: 76px;
           line-height: 78px;
           font-size: 16px;

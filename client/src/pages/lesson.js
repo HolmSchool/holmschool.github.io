@@ -10,8 +10,8 @@ import LaunchResource from "../components/LaunchResource/launchResource"
 import Description from "../components/Description/description"
 import Instruction from "../components/Instruction/instruction"
 
-import birger_sandzen from "../img/IMG_1745_1.jpg"
-import hammershoi from "../img/1_8Q2KA3EYTOCY2BxNgO2iNQ.jpg"
+import anne_vallayer_coster_3 from "../img/b64f101a-763e-4824-ac92-46681b34e10e.jpg"
+import gees_bend from "../img/Gees_Bend.png"
 
 
 const lessonPage = ({ data, pageContext }) => {
@@ -28,7 +28,7 @@ const lessonPage = ({ data, pageContext }) => {
       <meta name="description" content="Discover what 'Z-Degrees' are, and how they provide a university curriculum or class for zero cost of textbooks by using OER and OCW."/>
     </Helmet>
     <div className={`bigimages`} css={css`margin-top: 70px;@media screen and (min-width: 800px) { margin-top: 48px;}`}>
-      <img src={birger_sandzen} width="100%" alt="Painting 'The Old Mill' by Birger Sandzen, 1929" />
+      <img src={gees_bend} width="100%" alt="Gee's Bend Quilts by Mary Lee Bendolph, 2018" />
     </div>
 
     <div css={css`
@@ -83,7 +83,7 @@ const lessonPage = ({ data, pageContext }) => {
     
     <br></br>
     <div className="bigimages">
-      <img src={hammershoi} alt="Painting 'Sunshine in the Drawingroom III' by Vilhelm Hammershøi, 1905" width="100%" className={css`margin-bottom: 0px;`} />
+      <img src={anne_vallayer_coster_3} alt="Painting 'rechercheVase de fleurs' by Anne Vallayer-Coster , 1827" width="100%" className={css`margin-bottom: 0px;`} />
     </div>
 
   </Layout>

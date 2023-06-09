@@ -44,7 +44,7 @@ let index = (data) => makeIndex(groupBy(data.allChallengeNode.edges.map(({ node 
 
 let makeIndex = (data3) => Object.keys(data3).map(objKey => 
   
-  <p key={objKey}><a href={`#${cleanIds(objKey)}`}>{`${objKey}`}</a></p>
+  <p key={objKey}><Link css={css`color: #000;`} to={data3[objKey][0].departmentSlug}>{objKey}</Link></p>
 )
 
 let cleanIds = string => string.replaceAll(" ", "-")

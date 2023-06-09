@@ -5,8 +5,8 @@ import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import { css } from '@emotion/react'
 
-import birger_sandzen from "../img/IMG_1745_1.jpg"
-import hammershoi from "../img/1_8Q2KA3EYTOCY2BxNgO2iNQ.jpg"
+import anne_vallayer_coster_1 from "../img/554cd43cd0dca256eb9447308cabc1cc26326ecc3cf79bcd81a7f68d2a50.jpg"
+import anne_vallayer_coster_2 from "../img/0c2c297d3545478da6ab5e1313886e96b893f0fd99975faac30381fa460b.jpg"
 
 
 let groupBy = (data, key) => {
@@ -67,7 +67,7 @@ const departmentPage = ({ data, pageContext }) => (
       <meta name="description" content="Discover what 'Z-Degrees' are, and how they provide a university curriculum or class for zero cost of textbooks by using OER and OCW."/>
     </Helmet>
     <div className={`bigimages`} css={css`margin-top: 70px;@media screen and (min-width: 800px) { margin-top: 48px;}`}>
-      <img src={birger_sandzen} width="100%" alt="Painting 'The Old Mill' by Birger Sandzen, 1929" />
+      <img src={anne_vallayer_coster_2} width="100%" alt="Painting 'Still Life with Brioche, Fruit and Vegetables' by Anne Vallayer-Coster, 1775" />
     </div>
 
     <div css={css`
@@ -90,7 +90,7 @@ const departmentPage = ({ data, pageContext }) => (
     </div>
     <br></br>
     <div className="bigimages">
-      <img src={hammershoi} alt="Painting 'Sunshine in the Drawingroom III' by Vilhelm Hammershøi, 1905" width="100%" className={css`margin-bottom: 0px;`} />
+      <img src={anne_vallayer_coster_1} alt="Painting 'Portrait of a violinist' by Anne Vallayer-Coster, 1773" width="100%" className={css`margin-bottom: 0px;`} />
     </div>
 
   </Layout>

@@ -45,6 +45,8 @@ let renderButton = (nextSlug, nextName) => {
   white-space: nowrap;
 :focus {
   text-decoration: none;
+  
+  
 }
 
 :hover {
