@@ -654,6 +654,7 @@ Cryptography | [Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone - 
 Cryptography | [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/featured)
 Crytpography | [A Graduate Course in Applied Cryptography - Dan Boneh, Victor Shoup](https://toc.cryptobook.us/)
 Cryptography | [Practical Cryptography for Developers - Svetlin Nakov](https://unglue.it/work/378964/)
+Sec | [Professor Messer - Security+ Playlist](https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)
 Sec | [Introduction to IT Security - Steven Gordon](https://www.youtube.com/watch?v=bx5CPmNbblI&list=PLvifRcqOOwF89bqRiJEWyu5k7qJaTNMRj)
 Sec | [Security Engineering - Ross Anderson](https://www.cl.cam.ac.uk/~rja14/book.html)
 Sec | [Security and Cryptography 2012 - Thammasat University](https://www.youtube.com/playlist?list=PLvifRcqOOwF-b74gWV5TpyMFFs2dVlqTt)
