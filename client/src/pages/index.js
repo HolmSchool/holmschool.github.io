@@ -92,12 +92,12 @@ const indexPage = ({ data }) => {
           <p className={`large-screen-grid-item-right`} css={css`margin-bottom: 0px;grid-column: 1 2;grid-rows: 1 2;`}>
             <Link to={`/z-degrees/`}><img className={`blocks-img`} src={blocks_z_degrees} alt={`Z-Degrees`}></img></Link>
           </p>
-          <p className={`large-screen-grid-item-left`} css={css`margin-bottom: 0px;grid-column: 0 1;grid-rows: 0 1;`}>
+          {/* <p className={`large-screen-grid-item-left`} css={css`margin-bottom: 0px;grid-column: 0 1;grid-rows: 0 1;`}>
           <Link to={`/about/`}><img className={`blocks-img`} src={blocks_about} alt={`About`}></img></Link>
           </p>
           <p className={`large-screen-grid-item-right`} css={css`margin-bottom: 0px;grid-column: 1 2;grid-rows: 1 2;`}>
             <Link to={`/faq/`}><img className={`blocks-img`} src={blocks_faq} alt={`Frequently Asked Questions`}></img></Link>
-          </p>
+          </p> */}
           <p className={`large-screen-grid-item-left`} css={css`margin-bottom: 0px;grid-column: 0 1;grid-rows: 0 1;`}>
             <Link  to={`/guide/`}><img className={`blocks-img`} src={blocks_guide} alt={`Not Rich Guide`}></img></Link>
           </p>

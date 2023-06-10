@@ -315,7 +315,7 @@ const header = ({ children }) => (
                     >
                       Z-Degrees
                   </Link></li>
-                  <li><Link
+                  {/* <li><Link
                   to={`/about/`}
                   activeStyle={{ textDecoration: "underline" }}
                   css={[css`
@@ -330,7 +330,7 @@ const header = ({ children }) => (
                 `, navItem]}
                 >
                   FAQ
-              </Link></li>
+              </Link></li> */}
                 <li><Link
                   to={`/guide/`}
 
