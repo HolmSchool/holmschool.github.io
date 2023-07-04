@@ -11,9 +11,18 @@ import judith_leyster from "../img/judith-leyster-flute.jpeg"
 
 
 let extractCourse = (datum) => {
-  return (
-    <p key={datum.node.challenge.fields.slug} id={datum.node.challenge.fields.slug}>{datum.node.challenge.challengeOrder + 1}) <Link to={datum.node.challenge.fields.slug}>{datum.node.challenge.title}</Link></p>
-  )
+  if (datum.node.challenge.challengeType === 4) {
+    return (
+      <div>
+        <h3 key={datum.node.challenge.fields.slug} id={datum.node.challenge.fields.slug}><Link to={datum.node.challenge.fields.slug}>{datum.node.challenge.title}</Link></h3>
+      </div>
+    )
+  } else {
+    console.log(datum.node.challenge);
+    return (
+      <p key={datum.node.challenge.fields.slug} id={datum.node.challenge.fields.slug}>{datum.node.challenge.challengeOrder + 1}) <Link to={datum.node.challenge.fields.slug}>{datum.node.challenge.title}</Link></p>
+    )
+  }
 }
 
 
@@ -78,6 +87,7 @@ query getLesson($department: String, $course: String) {
             blockName
           }
           challengeOrder
+          challengeType
         }
       }
     }
