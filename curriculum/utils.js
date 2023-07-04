@@ -14,6 +14,7 @@ const superBlockToOrder = {
   'feminism': 7,
   'open-steam': 8,
   'anti-racism': 9,
+  'personal-finance': 10,
 };
 function getSuperBlockFromDir(dir) {
     const superBlock = directoryToSuperblock[dir];
@@ -54,6 +55,7 @@ function getSuperOrder(
     'anti-racism': 'anti-racism',
     'english': 'english',
     'english-as-an-additional-language': 'english-as-an-additional-language',
+    'personal-finance': 'personal-finance',
     '00-certifications': 'certifications', // treating certifications as a superblock for simplicity
     '01-responsive-web-design': 'responsive-web-design',
     '02-javascript-algorithms-and-data-structures':
