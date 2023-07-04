@@ -1,6 +1,8 @@
 const video = 0
 const ereserve = 1
 const externalLink = 2
+const justText = 3
+const roadSign = 4
 
 
 // const html = 0;
@@ -31,6 +33,8 @@ exports.challengeTypes = {
     video,
     ereserve,
     externalLink,
+    justText,
+    roadSign,
 //   html,
 //   js,
 //   backend,
@@ -92,6 +96,8 @@ exports.viewTypes = {
   [video]: 'video',
   [ereserve]: 'modern',
   [externalLink]: 'modern',
+  [justText]: 'modern',
+  [roadSign]: 'modern',
 };
 
 // determine the type of submit function to use for the challenge on completion
@@ -116,6 +122,8 @@ exports.submitTypes = {
   [video]: 'tests',
   [ereserve]: 'tests',
   [externalLink]: 'tests',
+  [justText]: 'tests',
+  [roadSign]: 'tests',
 };
 
 // determine which help forum questions should be posted to

@@ -18,7 +18,8 @@ class LaunchResource extends React.Component {
 let renderButtons = (videoUrl, challengeType, id, nextName, nextSlug, prevName, prevSlug) => {
     
     console.log(challengeType);
-    if (challengeType === 0) {
+    // Video, roadSign, justText
+    if (challengeType === 0 || challengeType === 3 || challengeType === 4) {
         // Video - No URL
         return (
         <div css={css`text-align:center;display:flex;flex-flow: row wrap;justify-content: center;`}>

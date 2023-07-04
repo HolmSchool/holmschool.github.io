@@ -42,7 +42,7 @@ const lessonPage = ({ data, pageContext }) => {
       <p>Z-Degrees are entire college curriculums in a subject that use free textbooks (OER), so that there are no costs to you other than tuition! By compiling z-degrees curriculum in many subjects, Holm School can archive z-degree syllabi without any cost of tuition! You might not get a degree, but you can 'Holm School' your way to a free college education!</p> */}
 
       <h3><Link to={`/learn`}>Curriculum</Link> / <Link to={`/learn/${data.challengeNode.challenge.superBlock}`}>{data.challengeNode.challenge.department}</Link> / <Link to={`/learn/${data.challengeNode.challenge.superBlock}/${data.challengeNode.challenge.block}`}>{data.challengeNode.challenge.fields.blockName}</Link> /</h3>
-      <h2>{data.challengeNode.challenge.title} ({data.challengeNode.challenge.challengeOrder + 1})</h2>
+      <h2>[{data.challengeNode.challenge.challengeOrder + 1}] {data.challengeNode.challenge.title}</h2>
       
       <Description
         description={data.challengeNode.challenge.description}
